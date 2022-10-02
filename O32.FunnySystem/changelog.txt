@@ -1,0 +1,6 @@
+everything before now - making the Blue system [fun fact: QUANTUM LEAN <3 was originally named CAR (BEEP BEEP)]
+7/16/22 - Added the Red system and two planets
+7/18/22 - Added AAA and desfiladeiro
+7/19/22 - Added the black hole system, and the tiny solar system
+7/20/22 - Fixed the tiny solar system from messing up the ship log, added Iceland
+7/21/22 - Added the TT twin solar system, and moved the shiplogs to make it look nicer. I'll add the black/white holes tomorrow.

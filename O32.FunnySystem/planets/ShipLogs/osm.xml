@@ -1,0 +1,17 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>osm</ID>
+
+    <Entry>
+        <ID>OSM</ID>
+        <Name>Osm</Name>
+
+        <Curiosity>OSM</Curiosity>
+		<IsCuriosity/> true
+
+        <RumorFact>
+            <ID>OSM_LANDING</ID>
+            <RumorName>ORANGE SEMEN MMMMMMMMMM</RumorName>
+            <Text>The larger, orange star of the TTT binary system. Not actually made out of semen, but instead orange juice with the fruit crushed up and left in there, giving it a sticky feel.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

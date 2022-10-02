@@ -1,0 +1,189 @@
+<DialogueTree xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/dialogue_schema.xsd">
+	<NameField>Bonford</NameField>
+
+	<DialogueNode>
+		<Name>MAIN</Name>
+		<EntryCondition>DEFAULT</EntryCondition>
+		<Dialogue>
+			<Page>Hey.</Page>
+		</Dialogue>
+		
+		<DialogueOptionsList>
+			<DialogueOption>
+				<Text>What? Who are you?</Text>
+				<DialogueTarget>1</DialogueTarget>
+			</DialogueOption>
+			<DialogueOption>
+				<Text>Uhh...</Text>
+				<DialogueTarget>END</DialogueTarget>
+			</DialogueOption>
+		</DialogueOptionsList>
+	</DialogueNode>
+	
+	<DialogueNode>
+		<Name>1</Name>
+		<Dialogue>
+			<Page>I'm Bonford, and yeah, I know, One of my kind, all the way out here, stranded.</Page>
+		</Dialogue>
+		<DialogueOptionsList>
+			<DialogueOption>
+				<Text>My name's Hatchling. How did you get here?</Text>
+				<DialogueTarget>2</DialogueTarget>
+			</DialogueOption>
+		</DialogueOptionsList>
+	</DialogueNode>
+
+	<DialogueNode>
+		<Name>2</Name>
+		<Dialogue>
+			<Page>Well, it's a long story. You may not believe me, but Feldspar was not the first pilot for Outer Wilds Ventures. I was.</Page>
+		</Dialogue>
+		<DialogueOptionsList>
+			<DialogueOption>
+				<Text>I'm sorry what? How is that possible?</Text>
+				<DialogueTarget>3</DialogueTarget>
+			</DialogueOption>
+		</DialogueOptionsList>
+	</DialogueNode>
+
+	<DialogueNode>
+		<Name>3</Name>
+		<Dialogue>
+			<Page>Turns out, I was selected as a pilot. But when my engines failed, I was sent spiraling out into the cold darkness of space. Luckily, I was moving very fast, so I was able to get to those systems off into the distance.</Page>
+		</Dialogue>
+		<DialogueOptionsList>
+			<DialogueOption>
+				<Text>What systems? You mean the ones with the blue, red, orange and yellow, black hole and dim red stars?</Text>
+				<DialogueTarget>4</DialogueTarget>
+			</DialogueOption>
+		</DialogueOptionsList>
+	</DialogueNode>
+
+	<DialogueNode>
+		<Name>4</Name>
+		<Dialogue>
+			<Page>Yup, that's the one. If you pull out your signalscope out and put it on Quantum Fluctuations, you'll be able to hear the faint cries of that weird LEAN planet.</Page>
+		</Dialogue>
+		<DialogueOptionsList>
+			<DialogueOption>
+				<Text>That is oddly horrifying... Uh, so what brought you here?</Text>
+				<DialogueTarget>5</DialogueTarget>
+			</DialogueOption>
+		</DialogueOptionsList>
+	</DialogueNode>
+
+	<DialogueNode>
+		<Name>5</Name>
+		<Dialogue>
+			<Page>Well whilst I was on this one planet, I think you'll know it by the name of Wher, I cut down some trees and fixed my engines. From there, I journeyed back into the void to try and get back home. Unfortunately, this led me here. And I'm out of fuel.</Page>
+		</Dialogue>
+		<DialogueOptionsList>
+			<DialogueOption>
+				<Text>Oh my- I am so sorry for you.</Text>
+				<DialogueTarget>6</DialogueTarget>
+			</DialogueOption>
+		</DialogueOptionsList>
+	</DialogueNode>
+
+	<DialogueNode>
+		<Name>6</Name>
+		<Dialogue>
+			<Page>No need to be. I've been here for a while, and though the solitude started to drive me kerbonkers, you showed up. Say, you got a ship on ya?</Page>
+		</Dialogue>
+		<DialogueOptionsList>
+			<DialogueOption>
+				<Text>Yeah, what about it? Need to go home?</Text>
+				<DialogueTarget>7</DialogueTarget>
+			</DialogueOption>
+		</DialogueOptionsList>
+	</DialogueNode>
+
+	<DialogueNode>
+		<Name>7</Name>
+		<Dialogue>
+			<Page>No. I don't want to go home anymore. Using my signalscope, I picked up some strong quantum signals from a blank patch in space. Happen to know what that could be?</Page>
+		</Dialogue>
+		<DialogueOptionsList>
+			<DialogueOption>
+				<Text>Maybe. I think it may be an object the Nomai discovered called the Eye of the Universe.</Text>
+				<DialogueTarget>8</DialogueTarget>
+			</DialogueOption>
+		</DialogueOptionsList>
+	</DialogueNode>
+
+	<DialogueNode>
+		<Name>8</Name>
+		<Dialogue>
+			<Page>What's that?</Page>
+		</Dialogue>
+		<DialogueOptionsList>
+			<DialogueOption>
+				<Text>Well considered you were the first pilot, I expected this. Supposedly, the Eye is a mysterious quantum object an ancient species called the Nomai have been looking for. For ages. But they ended up dying, and never found it.</Text>
+				<DialogueTarget>9</DialogueTarget>
+			</DialogueOption>
+		</DialogueOptionsList>
+	</DialogueNode>
+
+	<DialogueNode>
+		<Name>9</Name>
+		<Dialogue>
+			<Page>Do you happen to know how to get to it?</Page>
+		</Dialogue>
+		<DialogueOptionsList>
+			<DialogueOption>
+				<Text>Yes.</Text>
+				<DialogueTarget>10</DialogueTarget>
+			</DialogueOption>
+			<DialogueOption>
+				<Text>No.</Text>
+				<DialogueTarget>12</DialogueTarget>
+			</DialogueOption>
+		</DialogueOptionsList>
+	</DialogueNode>
+	
+	<DialogueNode>
+		<Name>10</Name>
+		<Dialogue>
+			<Page>How?</Page>
+		</Dialogue>
+		<DialogueOptionsList>
+			<DialogueOption>
+				<Text>I warped here in an ancient Nomai spaceship called the Vessel. I can use it again to get to the Eye, since I have the coordinates.</Text>
+				<DialogueTarget>11</DialogueTarget>
+			</DialogueOption>
+		</DialogueOptionsList>
+	</DialogueNode>
+
+	<DialogueNode>
+		<Name>11</Name>
+		<Dialogue>
+			<Page>Well if you say the Nomai were looking for it for a long time, that must mean it's important. You should go!</Page>
+		</Dialogue>
+		<DialogueOptionsList>
+			<DialogueOption>
+				<Text>Will do! Goodbye Bonford!</Text>
+				<DialogueTarget>END</DialogueTarget>
+			</DialogueOption>
+		</DialogueOptionsList>
+	</DialogueNode>
+	
+	<DialogueNode>
+		<Name>12</Name>
+		<Dialogue>
+			<Page>Oh. Sorry.</Page>
+		</Dialogue>
+		<DialogueOptionsList>
+			<DialogueOption>
+				<Text>Yeah, no worries. I'm still figuring out how to get there myself.</Text>
+				<DialogueTarget>END</DialogueTarget>
+			</DialogueOption>
+		</DialogueOptionsList>
+	</DialogueNode>
+
+	<DialogueNode>
+		<Name>END</Name>
+		<Dialogue>
+			<Page>Bye.</Page>
+		</Dialogue>
+	</DialogueNode>
+</DialogueTree>

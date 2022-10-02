@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>voyger</ID>
+
+    <Entry>
+        <ID>VOYGER</ID>
+        <Name>Voyger</Name>
+
+        <Curiosity>BLUE</Curiosity>
+
+        <RumorFact>
+            <ID>VOYGER_LANDING</ID>
+            <RumorName>voyger</RumorName>
+            <Text>First planet that formed here, has an atmosphere. It used to have an almost flat gray surface. Blame the ship log for the lost A.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>bisexual</ID>
+
+    <Entry>
+        <ID>BISEXUAL</ID>
+        <Name>Bisexual</Name>
+
+        <Curiosity>PISITB</Curiosity>
+
+        <RumorFact>
+            <ID>BISEXUAL_LANDING</ID>
+            <RumorName>bisexual</RumorName>
+            <Text>Moon shaped like the Bisexual pride flag. This is when anybody is attracted to both MALES and FEMALES.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

@@ -1,0 +1,34 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "genderfluid",
+	"starSystem": "O32.FunnySystem",
+	"Base": {
+		"surfaceGravity": 6,
+		"surfaceSize": 200,
+		"hasMapMarker": true,
+		"ambientLight": 1,
+		"gravityFallOff": "linear"
+	},
+	"Orbit": {
+		"semiMajorAxis": 3000,
+		"primaryBody": "genders",
+		"inclination": 0,
+		"isMoon": true,
+		"isTidallyLocked": false
+	},
+	"HeightMap": {
+		"textureMap": "planets/assets/lgbtq/genderfluid_texturemap.png",
+		"heightMap": "planets/assets/troll_heightmap.png",
+		"minHeight": 200,
+		"maxHeight": 200
+	},
+	"ShipLog": {
+		"xmlFile": "planets/ShipLogs/lgbtq/genderfluid.xml",
+		"spriteFolder": "planets/ShipLogs/sprites",
+		"mapMode": {
+			"revealedSprite": "planets/ShipLogs/sprites/genderfluid_map_mode.png",
+			"scale": 0.2,
+			"offset": -0.5
+		}
+	}
+}

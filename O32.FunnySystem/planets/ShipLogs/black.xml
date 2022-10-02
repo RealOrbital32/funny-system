@@ -1,0 +1,17 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>black</ID>
+
+    <Entry>
+        <ID>BLACK</ID>
+        <Name>Black</Name>
+
+        <Curiosity>BLACK</Curiosity>
+		<IsCuriosity/> true
+
+        <RumorFact>
+            <ID>BLACK_LANDING</ID>
+            <RumorName>Black</RumorName>
+            <Text>A black hole that was originally a star, larger than Red. Don't enter it, there is no white hole to exit out of.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

@@ -1,0 +1,53 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "AAAAAAAAA",
+	"starSystem": "O32.FunnySystem",
+	"Base": {
+		"surfaceGravity": 12,
+		"surfaceSize": 500,
+		"hasMapMarker": true,
+		"ambientLight": 1,
+		"gravityFallOff": "linear"
+	},
+	"Orbit": {
+		"semiMajorAxis": 10,
+		"primaryBody": "A.D. Center",
+		"isMoon": true,
+		"isTidallyLocked": false
+	},
+	"HeightMap": {
+		"heightMap": "planets/assets/AAA_heightmap.png",
+		"textureMap": "planets/assets/AAA_texturemap.png",
+		"minHeight": 400,
+		"maxHeight": 500
+	},
+	"Atmosphere": {
+		"size": 550,
+		"fogSize": 550,
+		"fogDensity": 0.2,
+		"atmosphereTint": {
+			"r": 255,
+			"g": 0,
+			"b": 255,
+			"a": 255
+		},
+		"fogTint": {
+			"r": 255,
+			"g": 0,
+			"b": 255,
+			"a": 255
+		}
+	},
+	"Lava": {
+		"size": 410
+	},
+	"ShipLog": {
+		"xmlFile": "planets/ShipLogs/AAA.xml",
+		"spriteFolder": "planets/ShipLogs/sprites",
+		"mapMode": {
+			"revealedSprite": "planets/ShipLogs/sprites/AAA_map_mode.png",
+			"scale": 0.5,
+			"offset": 0.5
+		}
+	}
+}

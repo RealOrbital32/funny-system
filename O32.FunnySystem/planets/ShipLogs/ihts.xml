@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>IHTS</ID>
+
+    <Entry>
+        <ID>IHTS</ID>
+        <Name>IHTS</Name>
+
+        <Curiosity>BLUE</Curiosity>
+
+        <RumorFact>
+            <ID>IHTS_LANDING</ID>
+            <RumorName>I Hate The Sun >:(</RumorName>
+            <Text>This planet, despite not being sentient, hates the sun. We know this because it used to have water and orbits very close to it.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

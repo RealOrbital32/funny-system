@@ -1,0 +1,73 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "me terrunos (rico)",
+	"starSystem": "O32.FunnySystem",
+	"Base": {
+		"surfaceGravity": 15,
+		"surfaceSize": 100,
+		"hasMapMarker": true
+	},
+	"Orbit": {
+		"semiMajorAxis": 1000,
+		"inclination": 347,
+		"primaryBody": "me cludos (baen)",
+		"isMoon": true,
+		"longitudeOfAscendingNode": 0,
+		"axialTilt": 93,
+		"argumentOfPeriapsis": 0,
+		"eccentricity": 0.1,
+		"isTidallyLocked": true
+	},
+	"Atmosphere": {
+		"size": 120,
+		"fogTint": {
+			"r": 255,
+			"g": 255,
+			"b": 255,
+			"a": 255
+		},
+		"fogDensity": 0.5,
+		"fogSize": 120,
+		"atmosphereTint": {
+			"r": 65,
+			"g": 140,
+			"b": 140,
+			"a": 255
+		}
+	},
+	"Lava": {
+		"size": 91
+	},
+	"HeightMap": {
+		"heightMap": "planets/assets/rico_heightmap.png",
+		"minHeight": 90,
+		"maxHeight": 110
+	},
+	"Props": {
+		"nomaiText": [
+			{
+				"position": {
+					"x": 85.5,
+					"y": -24.3,
+					"z": -28.9
+				},
+				"rotation": {
+					"x": 85.6,
+					"y": -19.4,
+					"z": -28.9
+				},
+				"type": "recorder",
+				"xmlFile": "planets/nomaiText/RicoNomai.xml"
+			}
+		]
+	},
+	"ShipLog": {
+		"xmlFile": "planets/ShipLogs/rico.xml",
+		"spriteFolder": "planets/ShipLogs/sprites",
+		"mapMode": {
+			"revealedSprite": "planets/ShipLogs/sprites/rico_map_mode.png",
+			"scale": 0.1,
+			"offset": -0.5
+		}
+	}
+}

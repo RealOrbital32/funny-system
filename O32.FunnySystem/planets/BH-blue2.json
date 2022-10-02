@@ -1,0 +1,36 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "tp to Black",
+	"starSystem": "O32.FunnySystem",
+	"Base": {
+		"surfaceGravity": 0,
+		"surfaceSize": 0,
+		"hasMapMarker": true
+	},
+	"Orbit": {
+		"semiMajorAxis": 10000,
+		"trueAnomaly": 304.15,
+		"inclination": 0,
+		"primaryBody": "blue fire cools you down :)",
+		"isMoon": false,
+		"longitudeOfAscendingNode": 0,
+		"axialTilt": 0,
+		"argumentOfPeriapsis": 0,
+		"eccentricity": 0,
+		"isTidallyLocked": true
+	},
+	"Props": {
+		"singularities": [
+			{
+				"type": "blackHole",
+				"size": 50,
+				"pairedSingularity": "Black exit"
+			}
+		]
+	},
+	"ShipLog": {
+		"mapMode": {
+			"remove": true
+		}
+	}
+}

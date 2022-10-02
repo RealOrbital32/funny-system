@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>solare</ID>
+
+    <Entry>
+        <ID>SOLARE</ID>
+        <Name>Solare</Name>
+
+        <Curiosity>BLACK</Curiosity>
+
+        <RumorFact>
+            <ID>SOLARE_LANDING</ID>
+            <RumorName>Solare</RumorName>
+            <Text>Solare is a tiny red-dwarf star orbiting around the black hole. It formed after the black hole supernova-ed back when it was a star.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

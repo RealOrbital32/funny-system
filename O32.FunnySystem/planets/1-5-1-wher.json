@@ -1,0 +1,109 @@
+{
+	"name": "wher",
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"starSystem": "O32.FunnySystem",
+	"Spawn": {
+		"startWithSuit": false,
+		"playerSpawnPoint": {
+			"x": -268.3887,
+			"y": 159.7448,
+			"z": 85.04688
+		},
+		"playerSpawnRotation": {
+			"x": -268.4,
+			"y": 119.7,
+			"z": 85.0
+		},
+		"shipSpawnPoint": {
+			"x": -269.3278,
+			"y": 157.7715,
+			"z": 97.34542
+		},
+		"shipSpawnRotation": {
+			"x": -269.3,
+			"y": 107.8,
+			"z": 97.3
+		}
+	},
+	"Base": {
+		"surfaceSize": 301,
+		"surfaceGravity": 12,
+		"hasMapMarker": true
+	},
+	"Orbit": {
+		"semiMajorAxis": 28000,
+		"inclination": 12,
+		"primaryBody": "blue fire cools you down :)",
+		"isMoon": false,
+		"isTidallyLocked": false,
+		"longitudeOfAscendingNode": 32,
+		"axialTilt": 32,
+		"eccentricity": 0.1,
+		"argumentOfPeriapsis": 0
+	},
+	"Atmosphere": {
+		"hasOxygen": true,
+		"size": 350,
+		"atmosphereTint": {
+			"r": 0,
+			"g": 100,
+			"b": 255,
+			"a": 255
+		},
+		"fogTint": {
+			"r": 0,
+			"g": 100,
+			"b": 255,
+			"a": 255
+		},
+		"fogSize": 350,
+		"fogDensity": 1.0,
+		"hasRain": false
+	},
+	"HeightMap": {
+		"heightMap": "planets/assets/wher_heightmap.png",
+		"textureMap": "planets/assets/wher_texturemap.png",
+		"minHeight": 270,
+		"maxHeight": 330
+	},
+	"Water": {
+		"size": 300
+	},
+	"Props": {
+		"nomaiText": [
+			{
+				"position": {
+					"x": -243.3,
+					"y": 165.1,
+					"z": 92
+				},
+				"rotation": {
+					"x": -243.3,
+					"y": 160.1,
+					"z": 91.9
+				},
+				"type": "recorder",
+				"xmlFile": "planets/nomaiText/WherNomai.xml"
+			}
+		],
+		"scatter": [
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L/Q_AlpineClump_L/BatchedGroup",
+				"count": 200
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_RadioTower/RadioTower_DLC/Interactibles_RadioTower/Hornfels'GrovePivot/Prefab_HEA_Campfire",
+				"count": 3
+			}
+		]
+	},
+	"ShipLog": {
+		"xmlFile": "planets/ShipLogs/Wher.xml",
+		"spriteFolder": "planets/ShipLogs/entries",
+		"mapMode": {
+			"revealedSprite": "planets/ShipLogs/sprites/wher_map_mode.png",
+			"scale": 0.3,
+			"offset": -0.2
+		}
+	}
+}

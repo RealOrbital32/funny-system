@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>transgender</ID>
+
+    <Entry>
+        <ID>TRANSGENDER</ID>
+        <Name>Transgender</Name>
+
+        <Curiosity>OSM</Curiosity>
+
+        <RumorFact>
+            <ID>TRANSGENDER_LANDING</ID>
+            <RumorName>transgender</RumorName>
+            <Text>Moon shaped like the Transgender pride flag. This is when somebody wants to appear as (nonbinary) or identifies as (regular transgender) the opposite gender that they were born with.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

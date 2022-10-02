@@ -1,0 +1,112 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Final Planet",
+	"starSystem": "O32.FunnyEnding",
+	"Base": {
+		"surfaceGravity": 12,
+		"surfaceSize": 550,
+		"ambientLight": 1,
+		"gravityFallOff": "linear",
+		"hasMapMarker": false
+	},
+	"Atmosphere": {
+		"size": 600,
+		"hasOxygen": true,
+		"fogSize": 600,
+		"hasRain": true,
+		"fogDensity": 0.4,
+		"atmosphereTint": {
+			"r": 25,
+			"g": 75,
+			"b": 150,
+			"a": 255
+		},
+		"fogTint": {
+			"r": 25,
+			"g": 75,
+			"b": 150,
+			"a": 255
+		}
+	},
+	"HeightMap": {
+		"heightMap": "planets/assets/baen_heightmap.png",
+		"textureMap": "planets/assets/desfiladeiro_texturemap.png",
+		"minHeight": 470,
+		"maxHeight": 530
+	},
+	"Water": {
+		"size": 500
+	},
+	"Orbit": {
+		"semiMajorAxis": 10000,
+		"primaryBody": "Final Star",
+		"inclination": 0,
+		"isMoon": false,
+		"isTidallyLocked": false
+	},
+	"Props": {
+		"scatter": [
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L/Q_AlpineClump_L/BatchedGroup",
+				"count": 200
+			}
+		],
+		"details": [
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Sector_StartingCamp/Characters_StartingCamp/Villager_HEA_Slate",
+				"position": {
+					"x": 0,
+					"y": 508.5,
+					"z": -2
+				},
+				"rotation": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"removeChildren": [ "ConversationZone_RSci" ]
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_RadioTower/RadioTower_DLC/Interactibles_RadioTower/Hornfels'GrovePivot/Prefab_HEA_Campfire",
+				"position": {
+					"x": 0,
+					"y": 509,
+					"z": 0
+				}
+			}
+		],
+		"dialogue": [
+			{
+				"position": {
+					"x": 0,
+					"y": 510,
+					"z": -2
+				},
+				"xmlFile": "planets/Dialogue/Bonford.xml",
+				"radius": 1.5
+			}
+		]
+	},
+	"Spawn": {
+		"playerSpawnPoint": {
+			"x": 0,
+			"y": -500,
+			"z": 0
+		},
+		"playerSpawnRotation": {
+			"x": 0,
+			"y": 180,
+			"z": 0
+		},
+		"shipSpawnPoint": {
+			"x": 0,
+			"y": -510,
+			"z": 0
+		},
+		"shipSpawnRotation": {
+			"x": 0,
+			"y": 180,
+			"z": 0
+		}
+	}
+}

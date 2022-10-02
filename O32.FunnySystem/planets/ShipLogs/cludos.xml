@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>cludos</ID>
+
+    <Entry>
+        <ID>CLUDOS</ID>
+        <Name>cludos</Name>
+
+        <Curiosity>BLUE</Curiosity>
+
+        <RumorFact>
+            <ID>CLUDOS_LANDING</ID>
+            <RumorName>Cludos</RumorName>
+            <Text>Cludos is a planet with a thick atmosphere and a bit of water.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>genders</ID>
+
+    <Entry>
+        <ID>GENDERS</ID>
+        <Name>Genders</Name>
+
+        <Curiosity>OSM</Curiosity>
+
+        <RumorFact>
+            <ID>GENDERS_LANDING</ID>
+            <RumorName>genders</RumorName>
+            <Text>Planet representing a handful of genders. These are what a person identifies as. Note that this is NOT the same thing as sex, which is your genitals.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

@@ -1,0 +1,42 @@
+{
+	"name": "solare",
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/master/NewHorizons/schema.json",
+	"starSystem": "O32.FunnySystem",
+	"Base": {
+		"surfaceSize": 2000,
+		"surfaceGravity": 35,
+		"hasMapMarker": true
+	},
+	"Orbit": {
+		"semiMajorAxis": 30000,
+		"trueAnomaly": 0,
+		"inclination": 355,
+		"primaryBody": ">w< what's this hole~",
+		"isMoon": false,
+		"isTidallyLocked": false,
+		"longitudeOfAscendingNode": 0,
+		"axialTilt": 0,
+		"eccentricity": 0,
+		"argumentOfPeriapsis": 0
+	},
+	"Star": {
+		"size": 2000,
+		"goSupernova": true,
+		"solarLuminosity": 0.3,
+		"tint": {
+			"r": 100,
+			"g": 0,
+			"b": 0,
+			"a": 255
+		}
+	},
+	"ShipLog": {
+		"xmlFile": "planets/ShipLogs/solare.xml",
+		"spriteFolder": "planets/ShipLogs/sprites",
+		"mapMode": {
+			"revealedSprite": "planets/ShipLogs/sprites/solare_map_mode.png",
+			"scale": 2,
+			"offset": 2
+		}
+	}
+}

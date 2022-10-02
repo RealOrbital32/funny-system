@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>bgyqqaohoistgiwbyauyhm</ID>
+
+    <Entry>
+        <ID>BGYQQAOHOISTGIWBYAUYHM</ID>
+        <Name>bgyqqaohoistgiwbyauyhm</Name>
+
+        <Curiosity>RED</Curiosity>
+
+        <RumorFact>
+            <ID>BGYQQAOHOISTGIWBYAUYHM_LANDING</ID>
+            <RumorName>bgyqqaohoistgiwbyauyhm</RumorName>
+            <Text>Planet comprised of water and sand. Has two moons that orbit weirdly fast.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

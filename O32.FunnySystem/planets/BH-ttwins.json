@@ -1,0 +1,39 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "tp to Blue (from TT Twins)",
+	"starSystem": "O32.FunnySystem",
+	"Base": {
+		"surfaceGravity": 0,
+		"surfaceSize": 0,
+		"hasMapMarker": true
+	},
+	"Orbit": {
+		"semiMajorAxis": 20000,
+		"trueAnomaly": 180,
+		"inclination": 0,
+		"primaryBody": "PEE IS STORED IN THE BALLS",
+		"isMoon": false,
+		"longitudeOfAscendingNode": 0,
+		"axialTilt": 0,
+		"argumentOfPeriapsis": 0,
+		"eccentricity": 0,
+		"isTidallyLocked": true
+	},
+	"Props": {
+		"singularities": [
+			{
+
+			}
+		]
+	},
+	"Singularity": {
+		"type": "blackHole",
+		"size": 50,
+		"pairedSingularity": "Blue exit (from TT Twins)"
+	},
+	"ShipLog": {
+		"mapMode": {
+			"remove": true
+		}
+	}
+}

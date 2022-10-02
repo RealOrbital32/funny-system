@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>vida</ID>
+
+    <Entry>
+        <ID>VIDA</ID>
+        <Name>Vida</Name>
+
+        <Curiosity>RED</Curiosity>
+
+        <RumorFact>
+            <ID>VIDA_LANDING</ID>
+            <RumorName>Vida</RumorName>
+            <Text>Habitable moon of RDDDDDDD. Has water, an atmosphere, and everything else you'd need. Perhaps even more habitable than Wher will ever be.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

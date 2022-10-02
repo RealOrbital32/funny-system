@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>neblina</ID>
+
+    <Entry>
+        <ID>NEBLINA</ID>
+        <Name>Neblina</Name>
+
+        <Curiosity>BLACK</Curiosity>
+
+        <RumorFact>
+            <ID>NEBLINA_LANDING</ID>
+            <RumorName>Neblina</RumorName>
+            <Text>First and only planet in the Solare system, made out of water and mist.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

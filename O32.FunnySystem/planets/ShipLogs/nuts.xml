@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>nuts</ID>
+
+    <Entry>
+        <ID>NUTS</ID>
+        <Name>Nuts</Name>
+
+        <Curiosity>BLUE</Curiosity>
+
+        <RumorFact>
+            <ID>NUTS_LANDING</ID>
+            <RumorName>OUTER WILDS DEEZ NUTS</RumorName>
+            <Text>A comet that goes under severe temperature changes, resulting in sand and burnt stone on it's surface. Has a highly eccentric orbit.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

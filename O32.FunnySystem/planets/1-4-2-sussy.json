@@ -1,0 +1,56 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "sussy hole",
+	"starSystem": "O32.FunnySystem",
+	"Base": {
+		"surfaceGravity": 15,
+		"surfaceSize": 100,
+		"hasMapMarker": true
+	},
+	"Orbit": {
+		"semiMajorAxis": 1000,
+		"inclination": 347,
+		"primaryBody": "troll face",
+		"isMoon": true,
+		"longitudeOfAscendingNode": 0,
+		"axialTilt": 93,
+		"argumentOfPeriapsis": 0,
+		"eccentricity": 0.1,
+		"isTidallyLocked": true
+	},
+	"Lava": {
+		"size": 20
+	},
+	"HeightMap": {
+		"heightMap": "planets/assets/sussy_heightmap.png",
+		"textureMap": "planets/assets/sussy_texturemap.png",
+		"minHeight": 1,
+		"maxHeight": 101
+	},
+	"Atmosphere": {
+		"size": 100,
+		"fogTint": {
+			"r": 155,
+			"g": 155,
+			"b": 0,
+			"a": 255
+		},
+		"fogDensity": 0.1,
+		"fogSize": 100,
+		"atmosphereTint": {
+			"r": 155,
+			"g": 155,
+			"b": 0,
+			"a": 255
+		}
+	},
+	"ShipLog": {
+		"xmlFile": "planets/ShipLogs/sussy.xml",
+		"spriteFolder": "planets/ShipLogs/sprites",
+		"mapMode": {
+			"revealedSprite": "planets/ShipLogs/sprites/sussy_map_mode.png",
+			"scale": 0.1,
+			"offset": -0.5
+		}
+	}
+}

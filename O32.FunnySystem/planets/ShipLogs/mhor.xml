@@ -1,0 +1,21 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>mhor</ID>
+
+    <Entry>
+        <ID>MHOR</ID>
+        <Name>Mhor</Name>
+
+        <Curiosity>BLUE</Curiosity>
+
+        <RumorFact>
+            <ID>MHOR_LANDING</ID>
+            <RumorName>Mhor</RumorName>
+            <Text>Moon of Wher. Looks like it too.</Text>
+        </RumorFact>
+		<RumorFact>
+			<ID>MHOR_NOMAI</ID>
+			<RumorName>Mhor Mining</RumorName>
+			<Text>I assume the Nomai came here to mine, as they did with Dhar. But the Nomai were suspicious of the moon's shapes.</Text>
+		</RumorFact>
+    </Entry>
+</AstroObjectEntry>

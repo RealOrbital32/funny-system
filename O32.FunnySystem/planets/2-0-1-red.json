@@ -1,0 +1,50 @@
+{
+	"name": "RED IMPOSTOR SUS",
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/master/NewHorizons/schema.json",
+	"starSystem": "O32.FunnySystem",
+	"Base": {
+		"surfaceSize": 5000,
+		"surfaceGravity": 35,
+		"hasMapMarker": true
+	},
+	"Orbit": {
+		"semiMajorAxis": 500000,
+		"trueAnomaly": 121.6,
+		"inclination": 0,
+		"primaryBody": "blue fire cools you down :)",
+		"isMoon": true,
+		"isTidallyLocked": false,
+		"longitudeOfAscendingNode": 0,
+		"axialTilt": 0,
+		"eccentricity": 0,
+		"argumentOfPeriapsis": 0
+	},
+	"Star": {
+		"goSupernova": true,
+		"hasAtmosphere": true,
+		"lightRadius": 250000,
+		"size": 15000,
+		"solarLuminosity": 1,
+		"supernovaTint": {
+			"r": 255,
+			"g": 255,
+			"b": 255,
+			"a": 255
+		},
+		"tint": {
+			"r": 150,
+			"g": 0,
+			"b": 0,
+			"a": 0
+		}
+	},
+	"ShipLog": {
+		"xmlFile": "planets/ShipLogs/red.xml",
+		"spriteFolder": "planets/ShipLogs/sprites",
+		"mapMode": {
+			"revealedSprite": "planets/ShipLogs/sprites/red_map_mode.png",
+			"scale": 15,
+			"offset": 15
+		}
+	}
+}

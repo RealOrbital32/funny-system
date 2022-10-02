@@ -1,0 +1,62 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "vida",
+	"starSystem": "O32.FunnySystem",
+	"Base": {
+		"surfaceGravity": 12,
+		"surfaceSize": 300,
+		"hasMapMarker": true,
+		"ambientLight": 0.1,
+		"gravityFallOff": "linear"
+	},
+	"Orbit": {
+		"semiMajorAxis": 4000,
+		"trueAnomaly": 225,
+		"axialTilt": 27,
+		"siderealPeriod": 3,
+		"inclination": 352,
+		"primaryBody": "hold up 'RING' DING DING-DING-DING-DING DING-DING",
+		"isMoon": true,
+		"isTidallyLocked": false
+	},
+	"Water": {
+		"size": 300
+	},
+	"ProcGen": {
+		"scale": 300,
+		"color": {
+			"r": 25,
+			"g": 100,
+			"b": 25,
+			"a": 255
+		}
+	},
+	"Atmosphere": {
+		"hasOxygen": true,
+		"hasRain": true,
+		"size": 400,
+		"fogSize": 400,
+		"fogDensity": 0.5,
+		"fogTint": {
+			"r": 0,
+			"g": 50,
+			"b": 150,
+			"a": 255
+		},
+		"atmosphereTint": {
+			"r": 0,
+			"g": 50,
+			"b": 150,
+			"a": 255
+		}
+	},
+	"ShipLog": {
+		"xmlFile": "planets/ShipLogs/vida.xml",
+		"spriteFolder": "planets/ShipLogs/sprites",
+		"mapMode": {
+			"revealedSprite": "planets/ShipLogs/sprites/vida_map_mode.png",
+			"scale": 0.3,
+			"offset": 0
+		}
+	}
+}

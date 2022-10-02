@@ -1,0 +1,42 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Black exit",
+	"starSystem": "O32.FunnySystem",
+	"Base": {
+		"surfaceGravity": 0,
+		"surfaceSize": 0,
+		"hasMapMarker": true
+	},
+	"Orbit": {
+		"semiMajorAxis": 12000,
+		"inclination": 0,
+		"primaryBody": ">w< what's this hole~",
+		"isMoon": false,
+		"longitudeOfAscendingNode": 0,
+		"axialTilt": 0,
+		"argumentOfPeriapsis": 0,
+		"eccentricity": 0,
+		"isTidallyLocked": true
+	},
+	"Props": {
+		"reveal": [
+			{
+				"radius": 500,
+				"revealOn": "enter",
+				"reveals": [ "BLACK_LANDING", "REAL_LANDING", "SOLARE_LANDING", "NEBLINA_LANDING", "ICELAND_LANDING" ]
+			}
+		],
+		"singularities": [
+			{
+				"type": "whiteHole",
+				"size": 50,
+				"pairedSingularity": "tp to Black"
+			}
+		]
+	},
+	"ShipLog": {
+		"mapMode": {
+			"remove": true
+		}
+	}
+}

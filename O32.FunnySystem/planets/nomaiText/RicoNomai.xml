@@ -1,0 +1,51 @@
+<NomaiObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/text_schema.xsd">
+	<TextBlock>
+		<ID>1</ID>
+		<Text>BABYASS: Finally, after a week of building our first ship in this system, we made it. Kickass told us to head here.</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>2</ID>
+		<ParentID>1</ParentID>
+		<Text>ASSASS: And Kickass was correct when she said that it was potentially rich in metal. My scanner is detecting tons of metal below the surface! Maybe with this we could build our first megastructure! What would it be though?</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>3</ID>
+		<ParentID>2</ParentID>
+		<Text>BABYASS: A spaceship network. With the abundance of metal, we could harvest it and build spaceports on every planet in this system! Who know what other planets have to offer?</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>4</ID>
+		<ParentID>3</ParentID>
+		<Text>ASSASS: Wait, what the hell is that thing?</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>5</ID>
+		<ParentID>4</ParentID>
+		<Text>BABYASS: Holy sh... That's a large purple moon! Was it there before..?</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>6</ID>
+		<ParentID>5</ParentID>
+		<Text>ASSASS: No, I swear it wasn't. We looked down for 2 seconds and then it just appeared. Look at it's size!</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>7</ID>
+		<ParentID>6</ParentID>
+		<Text>BABYASS: We will have to investigate this further. Let's head back to Wher and land on that moon, it might start orbiting another planet if we look away!</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>8</ID>
+		<ParentID>7</ParentID>
+		<Text>*NOTE: GO TO THE NORTH POLE (RED HEMISPHERE) EVERY TIME THAT MOON IS MENTIONED*</Text>
+	</TextBlock>
+	<ShipLogConditions>
+		<RevealFact>
+			<FactID>RICO_NOMAI_2</FactID>
+			<Condition>3</Condition>
+		</RevealFact>
+		<RevealFact>
+			<FactID>RICO_NOMAI_3</FactID>
+			<Condition>7</Condition>
+		</RevealFact>
+	</ShipLogConditions>
+</NomaiObject>

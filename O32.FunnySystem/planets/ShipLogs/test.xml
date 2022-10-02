@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>test</ID>
+
+    <Entry>
+        <ID>TEST</ID>
+        <Name>Test</Name>
+
+        <Curiosity>Test</Curiosity>
+
+        <RumorFact>
+            <ID>TEST_LANDING</ID>
+            <RumorName>Test</RumorName>
+            <Text>PLACEHOLDER FOR TESTING WHY THE FUCK I KEEP GETTING THE "PLANET NAME" SCREEN WHEN I OPEN THE GODDAMN SHIP LOG</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

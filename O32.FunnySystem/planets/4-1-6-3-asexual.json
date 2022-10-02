@@ -1,0 +1,34 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "asexual",
+	"starSystem": "O32.FunnySystem",
+	"Base": {
+		"surfaceGravity": 3,
+		"surfaceSize": 50,
+		"hasMapMarker": true,
+		"ambientLight": 1,
+		"gravityFallOff": "linear"
+	},
+	"Orbit": {
+		"semiMajorAxis": 800,
+		"primaryBody": "aroace",
+		"inclination": 0,
+		"isMoon": true,
+		"isTidallyLocked": false
+	},
+	"HeightMap": {
+		"textureMap": "planets/assets/lgbtq/asexual_texturemap.png",
+		"heightMap": "planets/assets/troll_heightmap.png",
+		"minHeight": 50,
+		"maxHeight": 50
+	},
+	"ShipLog": {
+		"xmlFile": "planets/ShipLogs/lgbtq/asexual.xml",
+		"spriteFolder": "planets/ShipLogs/sprites",
+		"mapMode": {
+			"revealedSprite": "planets/ShipLogs/sprites/asexual_map_mode.png",
+			"scale": 0.05,
+			"offset": -0.5
+		}
+	}
+}

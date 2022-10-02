@@ -1,0 +1,21 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>dhar</ID>
+
+    <Entry>
+        <ID>DHAR</ID>
+        <Name>Dhar</Name>
+
+        <Curiosity>BLUE</Curiosity>
+
+        <RumorFact>
+            <ID>DHAR_LANDING</ID>
+            <RumorName>Dhar</RumorName>
+            <Text>Moon of Wher. Looks like it too.</Text>
+        </RumorFact>
+		<RumorFact>
+			<ID>DHAR_NOMAI</ID>
+			<RumorName>Nomai Mining</RumorName>
+			<Text>Apparently the Nomai came here to mine up the whole moon. No wonder it's so small.</Text>
+		</RumorFact>
+    </Entry>
+</AstroObjectEntry>

@@ -1,0 +1,24 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"starSystem": "O32.FunnySystem",
+	"name": "testicular torsion twins",
+	"Base": {
+		"hasMapMarker": true
+	},
+	"ReferenceFrame": {
+		"enabled": false
+	},
+	"Orbit": {
+		"semiMajorAxis": 500000,
+		"trueAnomaly": 243.2,
+		"primaryBody": "blue fire cools you down :)",
+		"axialTilt": 0,
+		"inclination": 0,
+		"isMoon": false,
+		"isTidallyLocked": false
+	},
+	"FocalPoint": {
+		"primary": "ORANGE SEMEN MMMMMMMMM",
+		"secondary": "PEE IS STORED IN THE BALLS"
+	}
+}

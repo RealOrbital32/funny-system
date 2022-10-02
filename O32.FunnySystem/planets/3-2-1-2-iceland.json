@@ -1,0 +1,58 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "iceland (HAHA)",
+	"starSystem": "O32.FunnySystem",
+	"Base": {
+		"surfaceGravity": 4,
+		"surfaceSize": 50,
+		"hasMapMarker": true,
+		"ambientLight": 1,
+		"gravityFallOff": "linear"
+	},
+	"Orbit": {
+		"semiMajorAxis": 500,
+		"primaryBody": "neblina",
+		"inclination": 3,
+		"isMoon": true,
+		"isTidallyLocked": false
+	},
+	"ProcGen": {
+		"scale": 50,
+		"color": {
+			"r": 222,
+			"g": 222,
+			"b": 222,
+			"a": 222
+		}
+	},
+	"Sand": {
+		"size": 25
+	},
+	"Atmosphere": {
+		"fogDensity": 0.2,
+		"hasSnow": true,
+		"size": 55,
+		"fogSize": 55,
+		"atmosphereTint": {
+			"r": 11,
+			"g": 222,
+			"b": 222,
+			"a": 222
+		},
+		"fogTint": {
+			"r": 11,
+			"g": 222,
+			"b": 222,
+			"a": 222
+		}
+	},
+	"ShipLog": {
+		"xmlFile": "planets/ShipLogs/iceland.xml",
+		"spriteFolder": "planets/ShipLogs/sprites",
+		"mapMode": {
+			"revealedSprite": "planets/ShipLogs/sprites/iceland_map_mode.png",
+			"scale": 0.05,
+			"offset": -0.35
+		}
+	}
+}

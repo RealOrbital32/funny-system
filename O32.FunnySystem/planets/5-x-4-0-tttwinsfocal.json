@@ -1,0 +1,24 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "TT Twins Focal Point (Final Version)",
+	"starSystem": "O32.FunnyEnding",
+	"Base": {
+		"surfaceGravity": 1,
+		"surfaceSize": 50,
+		"ambientLight": 1,
+		"gravityFallOff": "linear",
+		"hasMapMarker": false
+	},
+	"Orbit": {
+		"semiMajorAxis": 250000,
+		"trueAnomaly": 240,
+		"primaryBody": "Blue (Final Version)",
+		"inclination": 0,
+		"isMoon": false,
+		"isTidallyLocked": false
+	},
+	"FocalPoint": {
+		"primary": "pisitb (Final Version)",
+		"secondary": "osm (Final Version)"
+	}
+}

@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>desfiladeiro</ID>
+
+    <Entry>
+        <ID>DESFILADEIRO</ID>
+        <Name>Desfiladeiro</Name>
+
+        <Curiosity>RED</Curiosity>
+
+        <RumorFact>
+            <ID>DESFILADEIRO_LANDING</ID>
+            <RumorName>Desfiladeiro</RumorName>
+            <Text>Desfiladeiro is a canyon-like moon, known for it's winding paths and ability to easily get you stuck in a loop. ...What? No, I'm not gonna give you a map!</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

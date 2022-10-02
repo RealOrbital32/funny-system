@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>ring</ID>
+
+    <Entry>
+        <ID>RING</ID>
+        <Name>Ring</Name>
+
+        <Curiosity>RED</Curiosity>
+
+        <RumorFact>
+            <ID>RING_LANDING</ID>
+            <RumorName>Ring ding ding-ding-ding-ding ding-ding</RumorName>
+            <Text>RDDDDDDD is a sub-brown dwarf, and grew past the gas giant stage during it's formation, however it is not hot enough to begin fusion, so it's clouds are banded with warm colors. As the name suggests, it has a ring.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

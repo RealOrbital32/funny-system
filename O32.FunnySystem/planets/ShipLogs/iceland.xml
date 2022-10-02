@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>iceland</ID>
+
+    <Entry>
+        <ID>ICELAND</ID>
+        <Name>Iceland</Name>
+
+        <Curiosity>BLACK</Curiosity>
+
+        <RumorFact>
+            <ID>ICELAND_LANDING</ID>
+            <RumorName>Iceland</RumorName>
+            <Text>Iceland, a tiny asteroid-shaped moon with snow and a bright toothpaste-colored atmosphere. Orbits Neblina.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

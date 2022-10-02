@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>lesbian</ID>
+
+    <Entry>
+        <ID>LESBIAN</ID>
+        <Name>Lesbian</Name>
+
+        <Curiosity>PISITB</Curiosity>
+
+        <RumorFact>
+            <ID>LESBIAN_LANDING</ID>
+            <RumorName>lesbian</RumorName>
+            <Text>Moon shaped like the Lesbian pride flag. This is when any FEMALE is attracted to other FEMALES.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

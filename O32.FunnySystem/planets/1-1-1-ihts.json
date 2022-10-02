@@ -1,0 +1,51 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "i hate the sun >:(",
+	"starSystem": "O32.FunnySystem",
+	"Base": {
+		"surfaceSize": 101,
+		"surfaceGravity": 25,
+		"hasMapMarker": true
+	},
+	"Orbit": {
+		"semiMajorAxis": 5800,
+		"inclination": 180,
+		"primaryBody": "blue fire cools you down :)",
+		"isMoon": false,
+		"isTidallyLocked": true,
+		"axialTilt": 90,
+		"longitudeOfAscendingNode": 0,
+		"eccentricity": 0,
+		"argumentOfPeriapsis": 0
+	},
+	"Lava": {
+		"size": 101
+	},
+	"Atmosphere": {
+		"size": 140,
+		"fogTint": {
+			"r": 25,
+			"g": 25,
+			"b": 150,
+			"a": 100
+		},
+		"fogSize": 30,
+		"fogDensity": 1.0,
+		"hasRain": true
+	},
+	"HeightMap": {
+		"heightMap": "planets/assets/ihts_heightmap.png",
+		"textureMap": "planets/assets/ihts_texturemap.png",
+		"minHeight": 80,
+		"maxHeight": 110
+	},
+	"ShipLog": {
+		"xmlFile": "planets/ShipLogs/ihts.xml",
+		"spriteFolder": "planets/ShipLogs/sprites",
+		"mapMode": {
+			"revealedSprite": "planets/ShipLogs/sprites/ihts_map_mode.png",
+			"scale": 0.1,
+			"offset": 0.85
+		}
+	}
+}

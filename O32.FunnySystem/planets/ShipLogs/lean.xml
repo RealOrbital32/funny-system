@@ -1,0 +1,47 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>lean</ID>
+
+    <Entry>
+        <ID>LEAN</ID>
+        <Name>Lean</Name>
+
+        <Curiosity>LEAN</Curiosity>
+		<IsCuriosity/> true
+
+        <RumorFact>
+            <ID>LEAN_LANDING</ID>
+            <RumorName>Quantum Lean</RumorName>
+            <Text>A quantum moon with a thick atmosphere made out of lean. The quantum lean's surface changes based on what planet it orbits, and it seems as if it can orbit planets in any system. But if anything, I LOVE... I LOVE LEAN!!!!!!!!</Text>
+        </RumorFact>
+		<RumorFact>
+			<ID>LEAN_WHER_NOMAI</ID>
+			<RumorName>Quantum Lean (Wher Variant)</RumorName>
+			<Text>The Nomai found an engraving in the terrain that look like a line on a hexagon going from the middle-left to the bottom-left. They then went to the Troll Face Planet's version of the moon.</Text>
+		</RumorFact>
+		<RumorFact>
+			<ID>LEAN_TROLL_NOMAI</ID>
+			<RumorName>Quantum Lean (Troll Variant)</RumorName>
+			<Text>The Nomai found an engraving in the terrain that look like a line on a hexagon going from the bottom-left to the top-left. They then went to Cludos' version of the moon.</Text>
+		</RumorFact>
+		<RumorFact>
+			<ID>LEAN_CLUDOS_NOMAI</ID>
+			<RumorName>Quantum Lean (Cludos Variant)</RumorName>
+			<Text>The Nomai found an engraving in the terrain that look like a line on a hexagon going from the top-left to the bottom-right, which from the data collected from the two previous expeditions, formed a Nomai coordinate. They then went to the Red system, for the 'Boy Get Your Quingan ... ' version of the moon.</Text>
+		</RumorFact>
+		<RumorFact>
+			<ID>LEAN_BGYQQAOHOISTGIWBYAUYHM_NOMAI</ID>
+			<RumorName>Quantum Lean (BGYQQAOHOISTGIWBYAUYHM Variant)</RumorName>
+			<Text>The Nomai found an engraving in the terrain that look like a line on a hexagon going from the top-right to the bottom-left, then to the bottom-right. They then went to AAAAAA's version of the moon.</Text>
+		</RumorFact>
+		<RumorFact>
+			<ID>LEAN_AAA_NOMAI</ID>
+			<RumorName>Quantum Lean (AAA Variant)</RumorName>
+			<Text>The Nomai found an engraving in the terrain that look like a line on a hexagon going from the top-right to the bottom-right, then to the middle-right, then to the middle-left, which from the data collected from the previous expedition, formed a Nomai coordinate. They then went to the Solare/Black system, for Neblina's version of the moon.</Text>
+		</RumorFact>
+		<RumorFact>
+			<ID>LEAN_NEBLINA_NOMAI</ID>
+			<RumorName>Quantum Lean (Neblina Variant)</RumorName>
+			<Text>The Nomai found at the core a small chunk of rock, and engraved in it was a hexagonal pattern going from the middle-left to the top-right, then to the bottom-right, and finally to the bottom-left. The Nomai realized that they had all the coordinates for the Vessel, and promptly returned to it.</Text>
+		</RumorFact>
+    </Entry>
+</AstroObjectEntry>

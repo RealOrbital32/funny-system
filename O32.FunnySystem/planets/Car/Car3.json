@@ -1,0 +1,61 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "QUANTUM LEAN <3",
+	"starSystem": "O32.FunnySystem",
+	"isQuantumState": true,
+	"Base": {
+		"surfaceGravity": 10,
+		"surfaceSize": 200,
+		"hasMapMarker": true,
+		"ambientLight": 0
+	},
+	"Orbit": {
+		"semiMajorAxis": 2000,
+		"primaryBody": "voyager",
+		"isMoon": true,
+		"trueAnomaly": 90
+	},
+	"Atmosphere": {
+		"size": 250,
+		"fogTint": {
+			"r": 255,
+			"g": 125,
+			"b": 50,
+			"a": 255
+		},
+		"fogSize": 250,
+		"fogDensity": 0.1,
+		"clouds": {
+			"cloudsPrefab": "quantumMoon",
+			"outerCloudRadius": 300,
+			"innerCloudRadius": 250,
+			"texturePath": "planets/assets/car.png",
+			"capPath": "planets/assets/car_cap.png",
+			"tint": {
+				"r": 181,
+				"g": 181,
+				"b": 230,
+				"a": 255
+			},
+			"fluidType": "plasma",
+			"hasLightning": false
+		}
+	},
+	"HeightMap": {
+		"heightMap": "planets/assets/car_voyager_heightmap.png",
+		"minHeight": 150,
+		"maxHeight": 201
+	},
+	"Props": {
+		"signals": [
+			{
+				"audio": "OW_QuantumSignal",
+				"detectionRadius": 400,
+				"frequency": "Quantum",
+				"identificationRadius": 250,
+				"name": "QUANTUM LEAN <3",
+				"sourceRadius": 200
+			}
+		]
+	}
+}

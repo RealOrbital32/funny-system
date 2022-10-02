@@ -1,0 +1,54 @@
+{
+	"name": "mhor",
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"starSystem": "O32.FunnySystem",
+	"Base": {
+		"surfaceSize": 41,
+		"surfaceGravity": 2,
+		"hasMapMarker": true
+	},
+	"Orbit": {
+		"semiMajorAxis": 1000,
+		"trueAnomaly": 273,
+		"inclination": 12,
+		"primaryBody": "wher",
+		"isMoon": true,
+		"isTidallyLocked": false,
+		"longitudeOfAscendingNode": 32,
+		"axialTilt": 32,
+		"eccentricity": 0.1,
+		"argumentOfPeriapsis": 0
+	},
+	"HeightMap": {
+		"heightMap": "planets/assets/wher_heightmap.png",
+		"minHeight": 35,
+		"maxHeight": 45
+	},
+	"Props": {
+		"nomaiText": [
+			{
+				"position": {
+					"x": 17,
+					"y": 12,
+					"z": 36
+				},
+				"rotation": {
+					"x": 17,
+					"y": 8,
+					"z": 36
+				},
+				"type": "recorder",
+				"xmlFile": "planets/nomaiText/MhorNomai.xml"
+			}
+		]
+	},
+	"ShipLog": {
+		"xmlFile": "planets/ShipLogs/mhor.xml",
+		"spriteFolder": "planets/ShipLogs/sprites",
+		"mapMode": {
+			"revealedSprite": "planets/ShipLogs/sprites/mhor-dhar_map_mode.png",
+			"scale": 0.04,
+			"offset": -0.5
+		}
+	}
+}

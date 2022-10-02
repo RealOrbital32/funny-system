@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>agender</ID>
+
+    <Entry>
+        <ID>AGENDER</ID>
+        <Name>Agender</Name>
+
+        <Curiosity>OSM</Curiosity>
+
+        <RumorFact>
+            <ID>AGENDER_LANDING</ID>
+            <RumorName>agender</RumorName>
+            <Text>Moon shaped like the Agender pride flag. This is when somebody literally does not have a gender. They just exist.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

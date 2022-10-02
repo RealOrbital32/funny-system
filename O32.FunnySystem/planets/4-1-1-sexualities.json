@@ -1,0 +1,36 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "sexualities",
+	"starSystem": "O32.FunnySystem",
+	"Base": {
+		"surfaceGravity": 12,
+		"surfaceSize": 1000,
+		"hasMapMarker": true,
+		"ambientLight": 1,
+		"gravityFallOff": "linear"
+	},
+	"Orbit": {
+		"semiMajorAxis": 30000,
+		"eccentricity": 0,
+		"trueAnomaly": 0,
+		"primaryBody": "PEE IS STORED IN THE BALLS",
+		"inclination": 0,
+		"isMoon": false,
+		"isTidallyLocked": false
+	},
+	"HeightMap": {
+		"textureMap": "planets/assets/lgbtq/sexualities_texturemap.png",
+		"heightMap": "planets/assets/troll_heightmap.png",
+		"minHeight": 1000,
+		"maxHeight": 1000
+	},
+	"ShipLog": {
+		"xmlFile": "planets/ShipLogs/lgbtq/sexualities.xml",
+		"spriteFolder": "planets/ShipLogs/sprites",
+		"mapMode": {
+			"revealedSprite": "planets/ShipLogs/sprites/lgbtq/sexualities_map_mode.png",
+			"scale": 0.5,
+			"offset": 1
+		}
+	}
+}

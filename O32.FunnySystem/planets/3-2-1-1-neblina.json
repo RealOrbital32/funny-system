@@ -1,0 +1,64 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "neblina",
+	"starSystem": "O32.FunnySystem",
+	"Base": {
+		"surfaceGravity": 12,
+		"groundSize": 200,
+		"surfaceSize": 200,
+		"hasMapMarker": true,
+		"ambientLight": 1,
+		"gravityFallOff": "linear"
+	},
+	"Orbit": {
+		"semiMajorAxis": 4500,
+		"primaryBody": "solare",
+		"inclination": 3,
+		"isMoon": false,
+		"isTidallyLocked": false
+	},
+	"Atmosphere": {
+		"fogDensity": 0.5,
+		"hasOxygen": true,
+		"hasRain": true,
+		"size": 220,
+		"fogSize": 220,
+		"atmosphereTint": {
+			"r": 25,
+			"g": 70,
+			"b": 150,
+			"a": 255
+		},
+		"fogTint": {
+			"r": 25,
+			"g": 70,
+			"b": 150,
+			"a": 255
+		},
+		"clouds": {
+			"texturePath": "planets/assets/neblina.png",
+			"fluidType": "water",
+			"cloudsPrefab": "basic",
+			"innerCloudRadius": 0,
+			"outerCloudRadius": 201,
+			"tint": {
+				"r": 25,
+				"g": 70,
+				"b": 150,
+				"a": 255
+			}
+		}
+	},
+	"Water": {
+		"size": 201
+	},
+	"ShipLog": {
+		"xmlFile": "planets/ShipLogs/neblina.xml",
+		"spriteFolder": "planets/ShipLogs/sprites",
+		"mapMode": {
+			"revealedSprite": "planets/ShipLogs/sprites/neblina_map_mode.png",
+			"scale": 0.2,
+			"offset": 1
+		}
+	}
+}

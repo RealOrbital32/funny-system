@@ -1,0 +1,24 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"starSystem": "O32.FunnySystem",
+	"name": "A.D. Center",
+	"Base": {
+		"hasMapMarker": true
+	},
+	"ReferenceFrame": {
+		"enabled": false
+	},
+	"Orbit": {
+		"semiMajorAxis": 70000,
+		"trueAnomaly": 89,
+		"primaryBody": "RED IMPOSTOR SUS",
+		"axialTilt": 0,
+		"inclination": 34,
+		"isMoon": false,
+		"isTidallyLocked": false
+	},
+	"FocalPoint": {
+		"primary": "AAAAAAAAA",
+		"secondary": "desfiladeiro"
+	}
+}

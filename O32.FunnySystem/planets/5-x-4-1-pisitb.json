@@ -1,0 +1,28 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "pisitb (Final Version)",
+	"starSystem": "O32.FunnyEnding",
+	"Base": {
+		"surfaceGravity": 1,
+		"surfaceSize": 5000,
+		"ambientLight": 1,
+		"gravityFallOff": "linear",
+		"hasMapMarker": false
+	},
+	"Orbit": {
+		"semiMajorAxis": 10000,
+		"primaryBody": "TT Twins Focal Point (Final Version)",
+		"inclination": 0,
+		"isMoon": true,
+		"isTidallyLocked": false
+	},
+	"Star": {
+		"tint": {
+			"r": 252,
+			"g": 206,
+			"b": 3,
+			"a": 255
+		},
+		"size": 3500
+	}
+}

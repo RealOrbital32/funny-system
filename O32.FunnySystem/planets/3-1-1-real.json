@@ -1,0 +1,44 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "REAL AT 3AM!!11!1!!!11 (GONE WRONG) (BLACK HOLE CALLED) (FUNNY PRANK)",
+	"starSystem": "O32.FunnySystem",
+	"Base": {
+		"surfaceGravity": 12,
+		"surfaceSize": 200,
+		"hasMapMarker": true,
+		"ambientLight": 1,
+		"gravityFallOff": "linear"
+	},
+	"Orbit": {
+		"semiMajorAxis": 3250,
+		"primaryBody": ">w< what's this hole~",
+		"inclination": 37,
+		"isMoon": true,
+		"isTidallyLocked": true
+	},
+	"ProcGen": {
+		"color": {
+			"r": 100,
+			"g": 75,
+			"b": 50,
+			"a": 50
+		},
+		"scale": 200
+	},
+	"Lava": {
+		"size": 200
+	},
+	"Funnel": {
+		"target": ">w< what's this hole~",
+		"type": "lava"
+	},
+	"ShipLog": {
+		"xmlFile": "planets/ShipLogs/real.xml",
+		"spriteFolder": "planets/ShipLogs/sprites",
+		"mapMode": {
+			"revealedSprite": "planets/ShipLogs/sprites/real_map_mode.png",
+			"scale": 0.2,
+			"offset": 1
+		}
+	}
+}

@@ -1,0 +1,46 @@
+{
+	"name": "voyager",
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"starSystem": "O32.FunnySystem",
+	"Base": {
+		"surfaceSize": 501,
+		"surfaceGravity": 20,
+		"hasMapMarker": true
+	},
+	"Orbit": {
+		"semiMajorAxis": 20000,
+		"inclination": 90,
+		"primaryBody": "blue fire cools you down :)",
+		"isMoon": false,
+		"isTidallyLocked": false,
+		"longitudeOfAscendingNode": 180,
+		"eccentricity": 0.3,
+		"argumentOfPeriapsis": 0
+	},
+	"Atmosphere": {
+		"size": 650,
+		"fogTint": {
+			"r": 200,
+			"g": 255,
+			"b": 255,
+			"a": 255
+		},
+		"fogSize": 650,
+		"fogDensity": 0.5,
+		"hasRain": true
+	},
+	"HeightMap": {
+		"heightMap": "planets/assets/voyager_heightmap.png",
+		"minHeight": 250,
+		"maxHeight": 500
+	},
+	"ShipLog": {
+		"xmlFile": "planets/ShipLogs/voyger.xml",
+		"spriteFolder": "planets/ShipLogs/sprites",
+		"mapMode": {
+			"revealedSprite": "planets/ShipLogs/sprites/voyager-dog_map_mode.png",
+			"scale": 0.5,
+			"offset": -0.2
+		}
+	}
+}

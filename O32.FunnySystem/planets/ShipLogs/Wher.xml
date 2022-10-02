@@ -1,0 +1,21 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>wher</ID>
+
+    <Entry>
+        <ID>WHER</ID>
+        <Name>Wher</Name>
+
+        <Curiosity>BLUE</Curiosity>
+
+        <RumorFact>
+            <ID>WHER_LANDING</ID>
+            <RumorName>Wher</RumorName>
+            <Text>Wher is a habitable planet. It has two moons that look exactly like it.</Text>
+        </RumorFact>
+		<RumorFact>
+			<ID>WHER_NOMAI</ID>
+			<RumorName>Wher did they go?</RumorName>
+			<Text>The Nomai apparently went to the moons of Wher, We'll see what happened.</Text>
+		</RumorFact>
+    </Entry>
+</AstroObjectEntry>

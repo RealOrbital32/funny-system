@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>wamen</ID>
+
+    <Entry>
+        <ID>WAMEN</ID>
+        <Name>Wamen</Name>
+
+        <Curiosity>BLUE</Curiosity>
+
+        <RumorFact>
+            <ID>WAMEN_LANDING</ID>
+            <RumorName>w a m e n</RumorName>
+            <Text>Appears to be a large ball of gas. Nobody has ever ventured into it, because it's a ball of gas.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

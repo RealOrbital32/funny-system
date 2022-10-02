@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>real</ID>
+
+    <Entry>
+        <ID>REAL</ID>
+        <Name>Real</Name>
+
+        <Curiosity>BLACK</Curiosity>
+
+        <RumorFact>
+            <ID>REAL_LANDING</ID>
+            <RumorName>REAL O_O</RumorName>
+            <Text>If IHTS orbited a black hole and was slowly being torn apart to dust.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>troll</ID>
+
+    <Entry>
+        <ID>TROLL</ID>
+        <Name>Troll</Name>
+
+        <Curiosity>BLUE</Curiosity>
+
+        <RumorFact>
+            <ID>TROLL_LANDING</ID>
+            <RumorName>Troll Face</RumorName>
+            <Text>A planet that has terrain vaguely ressembling a troll face. Get trolled!</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

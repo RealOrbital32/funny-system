@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>aroace</ID>
+
+    <Entry>
+        <ID>AROACE</ID>
+        <Name>AROACE</Name>
+
+        <Curiosity>PISITB</Curiosity>
+
+        <RumorFact>
+            <ID>AROACE_LANDING</ID>
+            <RumorName>aroace</RumorName>
+            <Text>Moon shaped like the Aroace pride flag. This is when anybody cannot feel attraction AT ALL, both romantically and sexually.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

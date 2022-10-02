@@ -1,0 +1,19 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"starSystem": "O32.FunnySystem",
+	"name": "Nonbinary Twins",
+	"Base": {
+		"hasMapMarker": true
+	},
+	"ReferenceFrame": {
+		"enabled": false
+	},
+	"Orbit": {
+		"semiMajorAxis": 30000,
+		"primaryBody": "blue fire cools you down :)"
+	},
+	"FocalPoint": {
+		"primary": "N.B.",
+		"secondary": "Bi"
+	}
+}

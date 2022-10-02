@@ -1,0 +1,16 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>intersex</ID>
+
+    <Entry>
+        <ID>INTERSEX</ID>
+        <Name>Intersex</Name>
+
+        <Curiosity>OSM</Curiosity>
+
+        <RumorFact>
+            <ID>INTERSEX_LANDING</ID>
+            <RumorName>intersex</RumorName>
+            <Text>Moon shaped like the Intersex pride flag. This is when somebody is born with DNA or genitals that do not match those that would be seen on regular males or females.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

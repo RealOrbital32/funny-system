@@ -1,0 +1,42 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "TT Twins exit",
+	"starSystem": "O32.FunnySystem",
+	"Base": {
+		"surfaceGravity": 0,
+		"surfaceSize": 0,
+		"hasMapMarker": true
+	},
+	"Orbit": {
+		"semiMajorAxis": 20000,
+		"inclination": 0,
+		"primaryBody": "ORANGE SEMEN MMMMMMMMM",
+		"isMoon": false,
+		"longitudeOfAscendingNode": 0,
+		"axialTilt": 0,
+		"argumentOfPeriapsis": 0,
+		"eccentricity": 0,
+		"isTidallyLocked": true
+	},
+	"Props": {
+		"reveal": [
+			{
+				"radius": 500,
+				"revealOn": "enter",
+				"reveals": [ "PISITB_LANDING", "OSM_LANDING", "SEXUALITIES_LANDING", "G_LANDING", "LESBIAN_LANDING", "BISEXUAL_LANDING", "PANSEXUAL_LANDING", "AROACE_LANDING", "AROMANTIC_LANDING", "ASEXUAL_LANDING", "GENDERS_LANDING", "TRANSGENDER_LANDING", "GENDERFLUID_LANDING", "INTERSEX_LANDING", "NONBINARY_LANDING", "AGENDER_LANDING" ]
+			}
+		],
+		"singularities": [
+			{
+				"type": "whiteHole",
+				"size": 50,
+				"pairedSingularity": "tp to TT Twins"
+			}
+		]
+	},
+	"ShipLog": {
+		"mapMode": {
+			"remove": true
+		}
+	}
+}

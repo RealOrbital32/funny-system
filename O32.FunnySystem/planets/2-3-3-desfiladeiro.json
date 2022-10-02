@@ -1,0 +1,62 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "desfiladeiro",
+	"starSystem": "O32.FunnySystem",
+	"Base": {
+		"surfaceGravity": 6,
+		"surfaceSize": 200,
+		"hasMapMarker": true,
+		"ambientLight": 1,
+		"gravityFallOff": "linear"
+	},
+	"Orbit": {
+		"semiMajorAxis": 1500,
+		"primaryBody": "A.D. Center",
+		"isMoon": true,
+		"isTidallyLocked": false
+	},
+	"HeightMap": {
+		"heightMap": "planets/assets/desfiladeiro_heightmap.png",
+		"textureMap": "planets/assets/desfiladeiro_texturemap.png",
+		"minHeight": 1,
+		"maxHeight": 200
+	},
+	"Atmosphere": {
+		"hasSnow": true,
+		"size": 225,
+		"fogSize": 225,
+		"fogDensity": 1,
+		"atmosphereTint": {
+			"r": 217,
+			"g": 125,
+			"b": 72,
+			"a": 255
+		},
+		"fogTint": {
+			"r": 217,
+			"g": 125,
+			"b": 72,
+			"a": 255
+		},
+		"clouds": {
+			"cloudsPrefab": "giantsDeep",
+			"fluidType": "cloud",
+			"innerCloudRadius": 108,
+			"outerCloudRadius": 201,
+			"texturePath": "planets/assets/desfiladeiro.png",
+			"capPath": "planets/assets/desfiladeiro_cap.png"
+		}
+	},
+	"Sand": {
+		"size": 100
+	},
+	"ShipLog": {
+		"xmlFile": "planets/ShipLogs/desfiladeiro.xml",
+		"spriteFolder": "planets/ShipLogs/sprites",
+		"mapMode": {
+			"revealedSprite": "planets/ShipLogs/sprites/desfiladeiro_map_mode.png",
+			"scale": 0.3,
+			"offset": -0.2
+		}
+	}
+}

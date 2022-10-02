@@ -1,0 +1,53 @@
+{
+	"name": "OUTER WILDS DEEZ NUTS",
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"starSystem": "O32.FunnySystem",
+	"Base": {
+		"surfaceSize": 101,
+		"surfaceGravity": 6,
+		"hasMapMarker": true,
+		"hasCometTail": true,
+		"ambientLight": 0
+	},
+	"Orbit": {
+		"semiMajorAxis": 35000,
+		"inclination": 90,
+		"primaryBody": "blue fire cools you down :)",
+		"isMoon": false,
+		"isTidallyLocked": true,
+		"longitudeOfAscendingNode": 0,
+		"eccentricity": 0.8,
+		"argumentOfPeriapsis": 0,
+		"trueAnomaly": 180
+	},
+	"Sand": {
+		"size": 105
+	},
+	"Atmosphere": {
+		"size": 140,
+		"fogTint": {
+			"r": 255,
+			"g": 255,
+			"b": 255,
+			"a": 255
+		},
+		"fogSize": 30,
+		"fogDensity": 1.0,
+		"hasRain": true
+	},
+	"HeightMap": {
+		"heightMap": "planets/assets/owdn_heightmap.png",
+		"textureMap": "planets/assets/owdn_texturemap.png",
+		"minHeight": 101,
+		"maxHeight": 110
+	},
+	"ShipLog": {
+		"xmlFile": "planets/ShipLogs/nuts.xml",
+		"spriteFolder": "planets/ShipLogs/sprites",
+		"mapMode": {
+			"revealedSprite": "planets/ShipLogs/sprites/nuts_map_mode.png",
+			"scale": 0.1,
+			"offset": -0.2
+		}
+	}
+}

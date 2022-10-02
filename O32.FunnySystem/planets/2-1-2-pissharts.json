@@ -1,0 +1,39 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Pissharts",
+	"starSystem": "O32.FunnySystem",
+	"Base": {
+		"surfaceGravity": 6,
+		"surfaceSize": 10,
+		"hasMapMarker": true,
+		"ambientLight": 1,
+		"gravityFallOff": "linear"
+	},
+	"Orbit": {
+		"semiMajorAxis": 600,
+		"trueAnomaly": 180,
+		"primaryBody": "boy get yo quingan quackin ass over here or i swear to god i will beat yo ass up ya hear me?",
+		"isMoon": true,
+		"isTidallyLocked": true
+	},
+	"Water": {
+		"size": 60
+	},
+	"Star": {
+		"size": 10,
+		"goSupernova": false
+	},
+	"Funnel": {
+		"target": "boy get yo quingan quackin ass over here or i swear to god i will beat yo ass up ya hear me?",
+		"type": "water"
+	},
+	"ShipLog": {
+		"xmlFile": "planets/ShipLogs/pissharts.xml",
+		"spriteFolder": "planets/ShipLogs/sprites",
+		"mapMode": {
+			"revealedSprite": "planets/ShipLogs/sprites/pissharts_map_mode.png",
+			"scale": 0.06,
+			"offset": -0.5
+		}
+	}
+}

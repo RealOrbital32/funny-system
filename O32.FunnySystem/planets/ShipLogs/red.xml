@@ -1,0 +1,17 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>red</ID>
+
+    <Entry>
+        <ID>RED</ID>
+        <Name>Red</Name>
+
+        <Curiosity>RED</Curiosity>
+		<IsCuriosity/> true
+
+        <RumorFact>
+            <ID>RED_LANDING</ID>
+            <RumorName>Red</RumorName>
+            <Text>A red hypergiant star, god this thing is so f-ing large... may supernova any moment!</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

@@ -1,0 +1,37 @@
+{
+  "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+  "name": "troll face",
+  "starSystem": "O32.FunnySystem",
+  "Base": {
+    "surfaceGravity": 22,
+    "surfaceSize": 400,
+    "groundSize": 400,
+    "hasMapMarker": true,
+    "ambientLight": 1
+  },
+  "Orbit": {
+    "semiMajorAxis": 23000,
+    "inclination": 325,
+    "primaryBody": "blue fire cools you down :)",
+    "isMoon": false,
+    "longitudeOfAscendingNode": 150,
+    "axialTilt": 80,
+    "trueAnomaly": 130,
+    "isTidallyLocked": true
+  },
+  "HeightMap": {
+    "heightMap": "planets/assets/troll_heightmap.png",
+    "textureMap": "planets/assets/troll_texturemap.png",
+    "minHeight": 1,
+    "maxHeight": 401
+  },
+  "ShipLog": {
+    "xmlFile": "planets/ShipLogs/troll.xml",
+    "spriteFolder": "planets/ShipLogs/sprites",
+    "mapMode": {
+      "revealedSprite": "planets/ShipLogs/sprites/troll_map_mode.png",
+      "scale": 0.4,
+      "offset": -0.2
+    }
+  }
+}
