@@ -21,7 +21,7 @@
 	<TextBlock>
 		<ID>5</ID>
 		<ParentID>4</ParentID>
-		<Text>DIPSHIT: Update, we got a good start. All of us Nomai are working hard to build shelters. I think we'll try and go to one of the two moons we kep seeing above us.</Text>
+		<Text>DIPSHIT: Update, we got a good start. All of us Nomai are working hard to build shelters. I think we'll try and go to one of the two moons we keep seeing above us.</Text>
 	</TextBlock>
 	<ShipLogConditions>
 		<RevealFact>

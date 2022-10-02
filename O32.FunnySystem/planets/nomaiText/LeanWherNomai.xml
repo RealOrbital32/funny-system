@@ -53,5 +53,9 @@
 			<FactID>LEAN_WHER_NOMAI</FactID>
 			<Condition>8</Condition>
 		</RevealFact>
+		<RevealFact>
+			<FactID>LEAN_LANDING</FactID>
+			<Condition>8</Condition>
+		</RevealFact>
 	</ShipLogConditions>
 </NomaiObject>

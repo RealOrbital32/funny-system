@@ -23,7 +23,7 @@
 	<DialogueNode>
 		<Name>1</Name>
 		<Dialogue>
-			<Page>I'm Bonford, and yeah, I know, One of my kind, all the way out here, stranded.</Page>
+			<Page>I'm Bonford, and yeah, I know. One of my kind all the way out here, stranded.</Page>
 		</Dialogue>
 		<DialogueOptionsList>
 			<DialogueOption>
@@ -62,7 +62,7 @@
 	<DialogueNode>
 		<Name>4</Name>
 		<Dialogue>
-			<Page>Yup, that's the one. If you pull out your signalscope out and put it on Quantum Fluctuations, you'll be able to hear the faint cries of that weird LEAN planet.</Page>
+			<Page>Yup, that's the one. If you pull out your signalscope out and put it on Quantum Fluctuations, you'll be able to hear the faint cries of that weird purple moon.</Page>
 		</Dialogue>
 		<DialogueOptionsList>
 			<DialogueOption>
@@ -101,7 +101,7 @@
 	<DialogueNode>
 		<Name>7</Name>
 		<Dialogue>
-			<Page>No. I don't want to go home anymore. Using my signalscope, I picked up some strong quantum signals from a blank patch in space. Happen to know what that could be?</Page>
+			<Page>No. I don't want to go home anymore. I found some stone near here with a mural depicting a signal coming from space for a short time, then stopping. Happen to know what that could mean?</Page>
 		</Dialogue>
 		<DialogueOptionsList>
 			<DialogueOption>
