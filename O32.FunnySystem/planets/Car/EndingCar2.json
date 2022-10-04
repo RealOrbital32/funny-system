@@ -1,7 +1,9 @@
 {
 	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
-	"name": "QUANTUM LEAN <3",
-	"starSystem": "O32.FunnySystem",
+	"name": "Quantum Lean (Final Version)",
+	"starSystem": "O32.FunnyEnding",
+	"canShowOnTitle": false,
+	"isQuantumState": false,
 	"Base": {
 		"surfaceGravity": 10,
 		"surfaceSize": 200,
@@ -9,25 +11,25 @@
 		"ambientLight": 0
 	},
 	"Orbit": {
-		"semiMajorAxis": 2000,
-		"primaryBody": "me cludos (baen)",
+		"semiMajorAxis": 1500,
+		"primaryBody": "RDDDDDDD (Final Version)",
 		"isMoon": true,
 		"trueAnomaly": 90
 	},
 	"Atmosphere": {
-		"size": 250,
+		"size": 150,
 		"fogTint": {
 			"r": 255,
 			"g": 125,
 			"b": 50,
 			"a": 255
 		},
-		"fogSize": 250,
+		"fogSize": 150,
 		"fogDensity": 0.1,
 		"clouds": {
 			"cloudsPrefab": "quantumMoon",
-			"outerCloudRadius": 300,
-			"innerCloudRadius": 250,
+			"outerCloudRadius": 145,
+			"innerCloudRadius": 130,
 			"texturePath": "planets/assets/car.png",
 			"capPath": "planets/assets/car_cap.png",
 			"tint": {
@@ -40,31 +42,7 @@
 			"hasLightning": false
 		}
 	},
-	"Water": {
-		"size": 192
-	},
-	"HeightMap": {
-		"heightMap": "planets/assets/car_voyager_heightmap.png",
-		"minHeight": 150,
-		"maxHeight": 201
-	},
 	"Props": {
-		"nomaiText": [
-			{
-				"position": {
-					"x": 1,
-					"y": 151,
-					"z": 1
-				},
-				"rotation": {
-					"x": 1,
-					"y": 1,
-					"z": 1
-				},
-				"type": "recorder",
-				"xmlFile": "planets/nomaiText/LeanCludosNomai.xml"
-			}
-		],
 		"signals": [
 			{
 				"audio": "OW_QuantumSignal",
@@ -75,13 +53,5 @@
 				"sourceRadius": 200
 			}
 		]
-	},
-	"ShipLog": {
-		"xmlFile": "planets/ShipLogs/lean.xml",
-		"spriteFolder": "planets/ShipLogs/entries/",
-		"mapMode": {
-			"revealedSprite": "planets/ShipLogs/sprites/lean_map_mode.png",
-			"scale": 0.2
-		}
 	}
 }

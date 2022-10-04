@@ -4,15 +4,15 @@
 	"starSystem": "O32.FunnyEnding",
 	"Base": {
 		"surfaceGravity": 12,
-		"surfaceSize": 550,
+		"surfaceSize": 450,
 		"ambientLight": 1,
 		"gravityFallOff": "linear",
 		"hasMapMarker": false
 	},
 	"Atmosphere": {
-		"size": 600,
+		"size": 500,
 		"hasOxygen": true,
-		"fogSize": 600,
+		"fogSize": 500,
 		"hasRain": true,
 		"fogDensity": 0.4,
 		"atmosphereTint": {
@@ -29,13 +29,13 @@
 		}
 	},
 	"HeightMap": {
-		"heightMap": "planets/assets/baen_heightmap.png",
-		"textureMap": "planets/assets/desfiladeiro_texturemap.png",
-		"minHeight": 470,
-		"maxHeight": 530
+		"heightMap": "planets/assets/finalplanet_heightmap.png",
+		"textureMap": "planets/assets/finalplanet_texturemap.png",
+		"minHeight": 370,
+		"maxHeight": 430
 	},
 	"Water": {
-		"size": 500
+		"size": 400
 	},
 	"Orbit": {
 		"semiMajorAxis": 10000,
@@ -48,7 +48,9 @@
 		"scatter": [
 			{
 				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L/Q_AlpineClump_L/BatchedGroup",
-				"count": 200
+				"count": 200,
+				"minHeight": 401,
+				"maxHeight": 415
 			}
 		],
 		"details": [
@@ -56,7 +58,7 @@
 				"path": "TimberHearth_Body/Sector_TH/Sector_Village/Sector_StartingCamp/Characters_StartingCamp/Villager_HEA_Slate",
 				"position": {
 					"x": 0,
-					"y": 508.5,
+					"y": 420.25,
 					"z": -2
 				},
 				"rotation": {
@@ -70,7 +72,7 @@
 				"path": "TimberHearth_Body/Sector_TH/Sector_RadioTower/RadioTower_DLC/Interactibles_RadioTower/Hornfels'GrovePivot/Prefab_HEA_Campfire",
 				"position": {
 					"x": 0,
-					"y": 509,
+					"y": 420.5,
 					"z": 0
 				}
 			}
@@ -79,7 +81,7 @@
 			{
 				"position": {
 					"x": 0,
-					"y": 510,
+					"y": 421,
 					"z": -2
 				},
 				"xmlFile": "planets/Dialogue/Bonford.xml",
@@ -90,7 +92,7 @@
 	"Spawn": {
 		"playerSpawnPoint": {
 			"x": 0,
-			"y": -500,
+			"y": -425,
 			"z": 0
 		},
 		"playerSpawnRotation": {
@@ -100,7 +102,7 @@
 		},
 		"shipSpawnPoint": {
 			"x": 0,
-			"y": -510,
+			"y": -430,
 			"z": 0
 		},
 		"shipSpawnRotation": {
@@ -108,5 +110,8 @@
 			"y": 180,
 			"z": 0
 		}
+	},
+	"ShipLog": {
+		"xmlFile": "planets/ShipLogs/finalplanet.xml"
 	}
 }

@@ -36,7 +36,7 @@
 	<DialogueNode>
 		<Name>2</Name>
 		<Dialogue>
-			<Page>Well, it's a long story. You may not believe me, but Feldspar was not the first pilot for Outer Wilds Ventures. I was.</Page>
+			<Page>Well, it's a long story. You may not believe me, but I was the first pilot for Outer Wilds Ventures, but they probably forgot about me.</Page>
 		</Dialogue>
 		<DialogueOptionsList>
 			<DialogueOption>
@@ -49,7 +49,7 @@
 	<DialogueNode>
 		<Name>3</Name>
 		<Dialogue>
-			<Page>Turns out, I was selected as a pilot. But when my engines failed, I was sent spiraling out into the cold darkness of space. Luckily, I was moving very fast, so I was able to get to those systems off into the distance.</Page>
+			<Page>Turns out, when I was selected as a pilot, my engines failed, I was sent spiraling out into the cold darkness of space. Luckily, I was moving very fast, so I was able to get to those systems off into the distance.</Page>
 		</Dialogue>
 		<DialogueOptionsList>
 			<DialogueOption>
@@ -156,6 +156,9 @@
 
 	<DialogueNode>
 		<Name>11</Name>
+		<RevealFacts>
+			<FactID>FINALPLANET_BONFORD</FactID>
+		</RevealFacts>
 		<Dialogue>
 			<Page>Well if you say the Nomai were looking for it for a long time, that must mean it's important. You should go!</Page>
 		</Dialogue>
@@ -183,7 +186,7 @@
 	<DialogueNode>
 		<Name>END</Name>
 		<Dialogue>
-			<Page>Bye.</Page>
+			<Page>See you soon.</Page>
 		</Dialogue>
 	</DialogueNode>
 </DialogueTree>

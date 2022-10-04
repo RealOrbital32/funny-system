@@ -123,10 +123,59 @@
 	],
 	"entryPositions": [
 		{
-			"id": "LEAN",
+			"id": "QUANTUM_LEAN",
 			"position": {
 				"x": 450.829,
+				"y": 1400.848
+			}
+		},
+		{
+			"id": "LEAN_WHER",
+			"position": {
+				"x": 200.829,
+				"y": 1500.848
+			}
+		},
+		{
+			"id": "LEAN_TROLL",
+			"position": {
+				"x": 200.829,
 				"y": 1300.848
+			}
+		},
+		{
+			"id": "LEAN_CLUDOS",
+			"position": {
+				"x": 200.829,
+				"y": 1100.848
+			}
+		},
+		{
+			"id": "LEAN_BGYQQAOHOISTGIWBYAUYHM",
+			"position": {
+				"x": 700.829,
+				"y": 1500.848
+			}
+		},
+		{
+			"id": "LEAN_AAA",
+			"position": {
+				"x": 700.829,
+				"y": 1300.848
+			}
+		},
+		{
+			"id": "LEAN_NEBLINA",
+			"position": {
+				"x": 700.829,
+				"y": 1100.848
+			}
+		},
+		{
+			"id": "LEAN_THESOLUTION",
+			"position": {
+				"x": 450.829,
+				"y": 1100.848
 			}
 		},
 		{

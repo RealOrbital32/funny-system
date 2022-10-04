@@ -1,0 +1,22 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>finalplanet</ID>
+
+    <Entry>
+        <ID>FINALPLANET</ID>
+        <Name>FinalPlanet</Name>
+
+        <Curiosity>FINALSYSTEM</Curiosity>
+
+        <RumorFact>
+            <ID>FINALPLANET_FINALSTEP</ID>
+            <RumorName>The Final Step</RumorName>
+            <Text>The north pole.</Text>
+        </RumorFact>
+
+		<RumorFact>
+			<ID>FINALPLANET_BONFORD</ID>
+			<RumorName>Bonford</RumorName>
+			<Text>I met a fellow Hearthian named Bonford at the north pole of this planet. Supposedly, they were the first Hearthian to be a pilot for Outer Wilds Ventures, however when their ship malfunctioned, they were stranded for a long time. I told Bonford about the Nomai and the Eye, and they told me to go to the Eye if it's so important. Will do, Bonford.</Text>
+		</RumorFact>
+    </Entry>
+</AstroObjectEntry>

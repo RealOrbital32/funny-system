@@ -2,6 +2,7 @@
 	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
 	"name": "Black (Final Version)",
 	"starSystem": "O32.FunnyEnding",
+	"canShowOnTitle": false,
 	"Base": {
 		"surfaceGravity": 1,
 		"surfaceSize": 5000,
@@ -24,13 +25,17 @@
 			"outerRadius": 6500
 		}
 	],
-	"Props":
-	{
+	"Props": {
 		"singularities": [
 			{
 				"size": 5000,
 				"type": "blackHole"
 			}
 		]
+	},
+	"ShipLog": {
+		"mapMode": {
+			"remove": true
+		}
 	}
 }

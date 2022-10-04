@@ -3,7 +3,7 @@
 	"name": "Final Star",
 	"starSystem": "O32.FunnyEnding",
 	"Base": {
-		"surfaceGravity": 500,
+		"surfaceGravity": 50,
 		"surfaceSize": 1000,
 		"hasMapMarker": false,
 		"gravityFallOff": "inverseSquared",

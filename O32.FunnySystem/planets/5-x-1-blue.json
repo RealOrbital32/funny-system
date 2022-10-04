@@ -2,6 +2,7 @@
 	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
 	"name": "Blue (Final Version)",
 	"starSystem": "O32.FunnyEnding",
+	"canShowOnTitle": false,
 	"Base": {
 		"surfaceGravity": 1,
 		"surfaceSize": 5000,
@@ -26,13 +27,9 @@
 		},
 		"size": 5000
 	},
-	"Props": {
-		"signals": [
-			{
-				"name": "Quantum Lean",
-				"frequency": "Quantum",
-				"audio": "OW_QuantumSignal"
-			}
-		]
+	"ShipLog": {
+		"mapMode": {
+			"remove": true
+		}
 	}
 }

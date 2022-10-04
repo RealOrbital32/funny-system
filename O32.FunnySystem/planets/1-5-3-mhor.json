@@ -9,7 +9,7 @@
 	},
 	"Orbit": {
 		"semiMajorAxis": 1000,
-		"trueAnomaly": 273,
+		"trueAnomaly": 123,
 		"inclination": 12,
 		"primaryBody": "wher",
 		"isMoon": true,

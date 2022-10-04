@@ -1,6 +1,6 @@
 {
 	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
-	"name": "Solare (Final Version)",
+	"name": "Red (Final Version)",
 	"starSystem": "O32.FunnyEnding",
 	"canShowOnTitle": false,
 	"Base": {
@@ -11,20 +11,20 @@
 		"hasMapMarker": false
 	},
 	"Orbit": {
-		"semiMajorAxis": 30000,
-		"primaryBody": "Black (Final Version)",
+		"semiMajorAxis": 250000,
+		"primaryBody": "Blue (Final Version)",
 		"inclination": 0,
 		"isMoon": false,
 		"isTidallyLocked": false
 	},
 	"Star": {
 		"tint": {
-			"r": 100,
+			"r": 150,
 			"g": 0,
 			"b": 0,
 			"a": 255
 		},
-		"size": 3500
+		"size": 7500
 	},
 	"ShipLog": {
 		"mapMode": {

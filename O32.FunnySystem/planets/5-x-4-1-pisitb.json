@@ -2,6 +2,7 @@
 	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
 	"name": "pisitb (Final Version)",
 	"starSystem": "O32.FunnyEnding",
+	"canShowOnTitle": false,
 	"Base": {
 		"surfaceGravity": 1,
 		"surfaceSize": 5000,
@@ -24,5 +25,10 @@
 			"a": 255
 		},
 		"size": 3500
+	},
+	"ShipLog": {
+		"mapMode": {
+			"remove": true
+		}
 	}
 }

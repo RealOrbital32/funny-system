@@ -1,52 +1,52 @@
 <NomaiObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/text_schema.xsd">
 	<TextBlock>
 		<ID>1</ID>
-		<Text>BABYASS: We have just arrived on Cludos' version. There is water everywhere, but we found the engraving.</Text>
+		<Text>BOBER: We have just arrived on Cludos' version. There is water everywhere, but we found the engraving.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>2</ID>
 		<ParentID>1</ParentID>
-		<Text>BITCHASS: Once again, it continues the coordinate we saw earlier, again. It goes from the top left to the bottom right.</Text>
+		<Text>BILLY: Once again, it continues the coordinate we saw earlier, again. It goes from the top left to the bottom right.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>3</ID>
 		<ParentID>2</ParentID>
-		<Text>BABYASS: Above it is an engraving that looks much different, and we can't seem so understand it. The picture is of a large star, a ringed planet with a terrestrial moon, a planet with repeated symbols that has a gas moon, and a planet made of sand and water with two moons. That final planet is circled.</Text>
+		<Text>BOBER: Above it is an engraving that looks much different, and we can't seem so understand it. The picture is of a large star, a ringed planet with a terrestrial moon, a planet with repeated symbols that has a gas moon, and a planet made of sand and water with two moons. That final planet is circled.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>4</ID>
 		<ParentID>3</ParentID>
-		<Text>KICKASS: None of those planets exist within this system.</Text>
+		<Text>KATHERYNE: None of those planets exist within this system.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>5</ID>
 		<ParentID>4</ParentID>
-		<Text>BITCHASS: Wait! Eureka!</Text>
+		<Text>BILLY: Wait! Eureka!</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>6</ID>
 		<ParentID>5</ParentID>
-		<Text>KICKASS: What is it, Bitchass?</Text>
+		<Text>KATHERYNE: What is it, Billy?</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>7</ID>
 		<ParentID>6</ParentID>
-		<Text>BITCHASS: Hear me out, what if this is another star system? I feel like I've seen those planets before... but I don't recall where. Launch a probe up, and set the camera to target the largest star.</Text>
+		<Text>BILLY: Hear me out, what if this is another star system? I feel like I've seen those planets before... but I don't recall where. Launch a probe up, and set the camera to target the largest star.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>8</ID>
 		<ParentID>7</ParentID>
-		<Text>BABYASS: Update, it's been a few minutes, and we found the system the planet is in. The planet of interest is located in a system with a red star, so we'll have to go interstellar.</Text>
+		<Text>BOBER: Update, it's been a few minutes, and we found the system the planet is in. The planet of interest is located in a system with a red star, so we'll have to go interstellar.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>9</ID>
 		<ParentID>8</ParentID>
-		<Text>BITCHASS: We'll go to that red system. We'll also construct black holes around Blue to warp to and from each system. That will make travel easier.</Text>
+		<Text>BILLY: We'll go to that red system. We'll also construct black holes around Blue to warp to and from each system. That will make travel easier.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>10</ID>
 		<ParentID>9</ParentID>
-		<Text>KICKASS: Great idea! Let's go to the red system! Oh, and remember the planet we're looking for has two moons with sand and water flowing into it.</Text>
+		<Text>KATHERYNE: Great idea! Let's go to the red system! Oh, and remember the planet we're looking for has two moons with sand and water flowing into it.</Text>
 	</TextBlock>
 	<ShipLogConditions>
 		<RevealFact>

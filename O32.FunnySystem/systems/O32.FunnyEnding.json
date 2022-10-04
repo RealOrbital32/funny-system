@@ -14,5 +14,8 @@
 		"z": 8000
 	},
 	"mapRestricted": true,
-	"enableTimeLoop": false
+	"enableTimeLoop": false,
+	"initialReveal": [
+		"FINALPLANET_FINALSTEP"
+	]
 }

@@ -19,7 +19,7 @@
 		"argumentOfPeriapsis": 0
 	},
 	"Lava": {
-		"size": 101
+		"size": 85
 	},
 	"Atmosphere": {
 		"size": 140,
@@ -37,7 +37,7 @@
 		"heightMap": "planets/assets/ihts_heightmap.png",
 		"textureMap": "planets/assets/ihts_texturemap.png",
 		"minHeight": 80,
-		"maxHeight": 110
+		"maxHeight": 90
 	},
 	"ShipLog": {
 		"xmlFile": "planets/ShipLogs/ihts.xml",

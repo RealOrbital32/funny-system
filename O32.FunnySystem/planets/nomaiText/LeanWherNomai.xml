@@ -1,47 +1,47 @@
 <NomaiObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/text_schema.xsd">
 	<TextBlock>
 		<ID>1</ID>
-		<Text>BABYASS: Turns out this purple moon is quantum. It's also made of a drug from our species named Lean, so we'll go with that name.</Text>
+		<Text>BOBER: Turns out this purple moon is quantum. It's also made of a drug from our species named Lean, so we'll go with that name.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>2</ID>
 		<ParentID>1</ParentID>
-		<Text>BITCHASS: Babyass, stop explaining what this is. We have just landed here, let's explore.</Text>
+		<Text>BILLY: Bober, stop explaining what this is. We have just landed here, let's explore.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>3</ID>
 		<ParentID>2</ParentID>
-		<Text>BABYASS: Great idea.</Text>
+		<Text>BOBER: Great idea.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>4</ID>
 		<ParentID>3</ParentID>
-		<Text>KICKASS: Wait, what the hell is that thing?</Text>
+		<Text>KATHERYNE: Wait, what the hell is that thing?</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>5</ID>
 		<ParentID>4</ParentID>
-		<Text>BABYASS: Holy sh... That's an engraving in the stone! It looks hexagonal...</Text>
+		<Text>BOBER: Holy sh... That's an engraving in the stone! It looks hexagonal...</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>6</ID>
 		<ParentID>5</ParentID>
-		<Text>BITCHASS: No shit sherlock. Assuming we read this from top-left and then right and down, like our coordinate blocks on the Vessel, this pattern reads as middle-left, bottom-left.</Text>
+		<Text>BILLY: No shit sherlock. Assuming we read this from top-left and then right and down, like our coordinate blocks on the Vessel, this pattern reads as middle-left, bottom-left.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>7</ID>
 		<ParentID>6</ParentID>
-		<Text>KICKASS: There is another engraving on top! It looks eerily like the Troll Face Planet. Maybe we should wait until the moon starts orbiting that planet, then re-enter it?</Text>
+		<Text>KATHERYNE: There is another engraving on top! It looks eerily like the Troll Face Planet. Maybe we should wait until the moon starts orbiting that planet, then re-enter it?</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>8</ID>
 		<ParentID>7</ParentID>
-		<Text>BABYASS: You are a genius! What if the surface of the moon changes based on what planet it orbits? Maybe another engraving will show up if it orbits the Troll Face Planet!</Text>
+		<Text>BOBER: You are a genius! What if the surface of the moon changes based on what planet it orbits? Maybe another engraving will show up if it orbits the Troll Face Planet!</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>9</ID>
 		<ParentID>8</ParentID>
-		<Text>KICKASS: Then let's get going!</Text>
+		<Text>KATHERYNE: Then let's get going!</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>10</ID>

@@ -1,27 +1,27 @@
 <NomaiObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/text_schema.xsd">
 	<TextBlock>
 		<ID>1</ID>
-		<Text>DEADASS: What is this goofy ahh solar system lol</Text>
+		<Text>DAVED: What is this goofy ahh solar system lol</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>2</ID>
 		<ParentID>1</ParentID>
-		<Text>DIPSHIT: I dunno, but we'd better explore. Our vessel ain't gonna fix itself...</Text>
+		<Text>DESTINY: I dunno, but we'd better explore. Our vessel ain't gonna fix itself...</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>3</ID>
 		<ParentID>2</ParentID>
-		<Text>DEADASS: Well, there's some water over there. Maybe we can start by sifting metal.</Text>
+		<Text>DAVED: Well, there's some water over there. Maybe we can start by sifting metal.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>4</ID>
 		<ParentID>3</ParentID>
-		<Text>HEADASS: I'm gonna start Minecraft-ing and make some tools and stuff.</Text>
+		<Text>HECTIR: I'm gonna start Minecraft-ing and make some tools and stuff.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>5</ID>
 		<ParentID>4</ParentID>
-		<Text>DIPSHIT: Update, we got a good start. All of us Nomai are working hard to build shelters. I think we'll try and go to one of the two moons we keep seeing above us.</Text>
+		<Text>DESTINY: Update, we got a good start. All of us Nomai are working hard to build shelters. I think we'll try and go to one of the two moons we keep seeing above us.</Text>
 	</TextBlock>
 	<ShipLogConditions>
 		<RevealFact>

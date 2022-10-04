@@ -1,52 +1,52 @@
 <NomaiObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/text_schema.xsd">
 	<TextBlock>
 		<ID>1</ID>
-		<Text>BABYASS: Oh my god that took a lot of work... But we're here. The sun of this system is red and bright, and this moon is drenched.</Text>
+		<Text>BOBER: Oh my god that took a lot of work... But we're here. The sun of this system is red and bright, and this moon is drenched.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>2</ID>
 		<ParentID>1</ParentID>
-		<Text>BITCHASS: Come on Babyass, you know why we're here. Let's get moving!</Text>
+		<Text>BILLY: Come on Bober, you know why we're here. Let's get moving!</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>3</ID>
 		<ParentID>2</ParentID>
-		<Text>KICKASS: Haha! I found the engraving first- and oop-</Text>
+		<Text>KATHERYNE: Haha! I found the engraving first- and oop-</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>4</ID>
 		<ParentID>3</ParentID>
-		<Text>BITCHASS: What is it?</Text>
+		<Text>BILLY: What is it?</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>5</ID>
 		<ParentID>4</ParentID>
-		<Text>KICKASS: The engraving appears to be the start of a new coordinate. It goes from top right to bottom left, and oddly enough, to the bottom right.</Text>
+		<Text>KATHERYNE: The engraving appears to be the start of a new coordinate. It goes from top right to bottom left, and oddly enough, to the bottom right.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>6</ID>
 		<ParentID>5</ParentID>
-		<Text>BABYASS: Gah... This is getting boring.</Text>
+		<Text>BOBER: Gah... This is getting boring.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>7</ID>
 		<ParentID>6</ParentID>
-		<Text>BITCHASS: Shut up, Babyass. No wonder you were named that. You are such a child.</Text>
+		<Text>BILLY: Shut up, Bober. No wonder you were named that. You are such a child.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>8</ID>
 		<ParentID>7</ParentID>
-		<Text>BABYASS: (no comment)</Text>
+		<Text>BOBER: (no comment)</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>9</ID>
 		<ParentID>8</ParentID>
-		<Text>KICKASS: Alright, we all know how this goes. The secondary engraving is of that planet filled with the symbol that looks like A.</Text>
+		<Text>KATHERYNE: Alright, we all know how this goes. The secondary engraving is of that planet filled with the symbol that looks like A.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>10</ID>
 		<ParentID>9</ParentID>
-		<Text>BITCHASS: *sigh* Let's go.</Text>
+		<Text>BILLY: *sigh* Let's go.</Text>
 	</TextBlock>
 	<ShipLogConditions>
 		<RevealFact>

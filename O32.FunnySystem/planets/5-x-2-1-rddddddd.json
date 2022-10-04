@@ -1,7 +1,7 @@
 {
 	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
-	"name": "hold up 'RING' DING DING-DING-DING-DING DING-DING",
-	"starSystem": "O32.FunnySystem",
+	"name": "RDDDDDDD (Final Version)",
+	"starSystem": "O32.FunnyEnding",
 	"Base": {
 		"surfaceGravity": 35,
 		"surfaceSize": 500,
@@ -10,16 +10,16 @@
 		"gravityFallOff": "linear"
 	},
 	"Orbit": {
-		"semiMajorAxis": 60000,
-		"primaryBody": "RED IMPOSTOR SUS",
+		"semiMajorAxis": 20000,
+		"primaryBody": "Red (Final Version)",
 		"axialTilt": 43,
 		"inclination": 350,
 		"isMoon": false,
 		"isTidallyLocked": false
 	},
 	"Atmosphere": {
-		"size": 1500,
-		"fogSize": 1500,
+		"size": 500,
+		"fogSize": 500,
 		"fogDensity": 0.5,
 		"fogTint": {
 			"r": 255,
@@ -38,30 +38,29 @@
 			"texturePath": "planets/assets/ring.png",
 			"fluidType": "plasma",
 			"unlit": true,
-			"innerCloudRadius": 1350,
-			"outerCloudRadius": 1450,
-			"capPath": "planets/assets/ring_cap.png"
+			"innerCloudRadius": 450,
+			"outerCloudRadius": 480,
+			"capPath": "planets/assets/ring_cap.png",
+			"hasLightning": true
 		}
 	},
 	"Lava": {
-		"size": 500
+		"size": 300
 	},
-	"Ring": {
-		"texture": "planets/assets/ring_rings.png",
-		"innerRadius": 1700,
-		"outerRadius": 2600,
-		"unlit": true,
-		"inclination": 43,
-		"rotationSpeed": 1,
-		"fluidType": "cloud"
-	},
+	"Rings": [
+		{
+			"texture": "planets/assets/ring_rings.png",
+			"innerRadius": 700,
+			"outerRadius": 600,
+			"unlit": true,
+			"inclination": 43,
+			"rotationSpeed": 1,
+			"fluidType": "cloud"
+		}
+	],
 	"ShipLog": {
-		"xmlFile": "planets/ShipLogs/ring.xml",
-		"spriteFolder": "planets/ShipLogs/sprites",
 		"mapMode": {
-			"revealedSprite": "planets/ShipLogs/sprites/ring_map_mode.png",
-			"scale": 1.5,
-			"offset": 1
+			"remove": true
 		}
 	}
 }

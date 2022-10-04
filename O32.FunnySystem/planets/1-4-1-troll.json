@@ -22,7 +22,7 @@
   "HeightMap": {
     "heightMap": "planets/assets/troll_heightmap.png",
     "textureMap": "planets/assets/troll_texturemap.png",
-    "minHeight": 1,
+    "minHeight": 100,
     "maxHeight": 401
   },
   "ShipLog": {

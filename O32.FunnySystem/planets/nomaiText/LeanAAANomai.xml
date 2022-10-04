@@ -1,32 +1,32 @@
 <NomaiObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/text_schema.xsd">
 	<TextBlock>
 		<ID>1</ID>
-		<Text>KICKASS: At last! We're here! the AAA variant! Watch out for the cracks in the ground.</Text>
+		<Text>KATHERYNE: At last! We're here! the AAA variant! Watch out for the cracks in the ground.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>2</ID>
 		<ParentID>1</ParentID>
-		<Text>BITCHASS: There's the engraving. Let's see, continues from the bottom right to the middle right and then all the way over to the middle left. And above it, a picture of-</Text>
+		<Text>BILLY: There's the engraving. Let's see, continues from the bottom right to the middle right and then all the way over to the middle left. And above it, a picture of-</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>3</ID>
 		<ParentID>2</ParentID>
-		<Text>KICKASS: Hm?</Text>
+		<Text>KATHERYNE: Hm?</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>4</ID>
 		<ParentID>3</ParentID>
-		<Text>BITCHASS: Another system. A picture of a small planet orbiting small star that is in turn orbiting a large black hole.</Text>
+		<Text>BILLY: Another system. A picture of a small planet orbiting small star that is in turn orbiting a large black hole.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>5</ID>
 		<ParentID>4</ParentID>
-		<Text>KICKASS: So we construct another warp gate by flying into the void again, like we did with this system?</Text>
+		<Text>KATHERYNE: So we construct another warp gate by flying into the void again, like we did with this system?</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>6</ID>
 		<ParentID>5</ParentID>
-		<Text>BITCHASS: Bingo. Let's head to that black hole! I think we'll codename it Black.</Text>
+		<Text>BILLY: Bingo. Let's head to that black hole! I think we'll codename it Black.</Text>
 	</TextBlock>
 	<ShipLogConditions>
 		<RevealFact>
