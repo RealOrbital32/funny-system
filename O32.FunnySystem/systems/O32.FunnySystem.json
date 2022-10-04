@@ -382,6 +382,13 @@
 			}
 		},
 		{
+			"id": "FUNNYSYSTEM",
+			"position": {
+				"x": 400,
+				"y": -1100
+			}
+		},
+		{
 			"id": "SUSSY",
 			"position": {
 				"x": 245.0473,

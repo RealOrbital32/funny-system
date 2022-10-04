@@ -1,0 +1,16 @@
+{
+	"name": "Shiplog Planet",
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"Base": {
+		"surfaceSize": 1,
+		"surfaceGravity": 0,
+		"hasMapMarker": false
+	},
+	"Orbit": {
+		"semiMajorAxis": 500000,
+		"primaryBody": "Sun"
+	},
+	"ShipLog": {
+		"xmlFile": "planets/ShipLogs/funnysystem_start.xml"
+	}
+}

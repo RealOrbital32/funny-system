@@ -1,0 +1,17 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>funnysystem</ID>
+
+    <Entry>
+        <ID>FUNNYSYSTEM</ID>
+        <Name>funnysystem</Name>
+
+        <Curiosity>FUNNYSYSTEM_CUR</Curiosity>
+		<IsCuriosity/>true
+
+        <RumorFact>
+            <ID>FUNNYSYSTEM_BEGIN</ID>
+            <RumorName>Traces of Other Nomai</RumorName>
+            <Text>Traces of ancient Nomai signals have been picked up coming from a nearby group of solar systems a few lightyears away. Your ship has been provided with the coordinates, so you should be able to warp straight there. *NOTE: UPON WARPING, EXIT THE SHIP AND LOOK FOR THE NOMAI RECORDER!!!*</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>

@@ -11,12 +11,12 @@
   },
   "Orbit": {
     "semiMajorAxis": 23000,
-    "inclination": 325,
+    "inclination": 355,
     "primaryBody": "blue fire cools you down :)",
     "isMoon": false,
     "longitudeOfAscendingNode": 150,
     "axialTilt": 80,
-    "trueAnomaly": 130,
+    "trueAnomaly": 220,
     "isTidallyLocked": true
   },
   "HeightMap": {

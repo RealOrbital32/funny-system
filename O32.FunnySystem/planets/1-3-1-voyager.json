@@ -9,7 +9,7 @@
 	},
 	"Orbit": {
 		"semiMajorAxis": 20000,
-		"inclination": 90,
+		"inclination": 15,
 		"primaryBody": "blue fire cools you down :)",
 		"isMoon": false,
 		"isTidallyLocked": false,

@@ -1,0 +1,33 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/star_system_schema.json",
+	"startHere": true,
+	"curiosities": [
+		{
+			"id": "FUNNYSYSTEM_CUR",
+			"color": {
+				"r": 207,
+				"g": 207,
+				"b": 107,
+				"a": 255
+			},
+			"highlightColor": {
+				"r": 247,
+				"g": 247,
+				"b": 157,
+				"a": 255
+			}
+		}
+	],
+	"initialReveal": [
+		"FUNNYSYSTEM_BEGIN"
+	],
+	"entryPositions": [
+		{
+			"id": "FUNNYSYSTEM",
+			"position": {
+				"x": 400,
+				"y": -1100
+			}
+		}
+	]
+}

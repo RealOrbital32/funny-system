@@ -22,15 +22,6 @@
 	"Water": {
 		"size": 300
 	},
-	"ProcGen": {
-		"scale": 300,
-		"color": {
-			"r": 25,
-			"g": 100,
-			"b": 25,
-			"a": 255
-		}
-	},
 	"Atmosphere": {
 		"hasOxygen": true,
 		"hasRain": true,
@@ -49,6 +40,26 @@
 			"b": 150,
 			"a": 255
 		}
+	},
+	"HeightMap": {
+		"heightMap": "planets/assets/vida_heightmap.png",
+		"textureMap": "planets/assets/vida_texturemap.png",
+		"minHeight": 280,
+		"maxHeight": 320
+	},
+	"Props": {
+		"scatter": [
+			{
+				"path": "QuantumMoon_Body/Sector_QuantumMoon/State_TH/Interactables_THState/Crater_Surface/Surface_AlpineClump_L/Q_AlpineClump_L/BatchedGroup",
+				"count": 150,
+				"minHeight": 301
+			},
+			{
+				"path": "TimberHearth_Body/Sector_TH/Sector_RadioTower/RadioTower_DLC/Interactibles_RadioTower/Hornfels'GrovePivot/Prefab_HEA_Campfire",
+				"count": 3,
+				"minHeight": 301
+			}
+		]
 	},
 	"ShipLog": {
 		"xmlFile": "planets/ShipLogs/vida.xml",

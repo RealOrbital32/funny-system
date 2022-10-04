@@ -1,7 +1,7 @@
 <NomaiObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/text_schema.xsd">
 	<TextBlock>
 		<ID>1</ID>
-		<Text>BITCHASS: This moon looks like Wher. Why does it look why Wher..?</Text>
+		<Text>BITCHASS: This moon looks like Wher. Why does it look like Wher..?</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>2</ID>
