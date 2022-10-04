@@ -13,7 +13,7 @@ Comet flying by Blue
 ![image](https://user-images.githubusercontent.com/87882655/193461535-3ca58aeb-f9aa-478b-9858-147b672c6757.png)
 
 Vida orbiting RDDDDDDD
-![image](https://user-images.githubusercontent.com/87882655/193461747-734933c2-08a4-425b-b6a1-521d1ef3378a.png)
+![image](https://user-images.githubusercontent.com/87882655/193708219-b2c4004b-ffa3-4c6c-9ae6-170fe83cb9df.png)
 
 Navigating the mazes of Desfiladeiro
 ![image](https://user-images.githubusercontent.com/87882655/193461951-29971466-b6e9-4c5c-a5f8-c24980ddc61d.png)
