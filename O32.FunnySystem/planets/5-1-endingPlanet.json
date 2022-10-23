@@ -114,5 +114,15 @@
 	},
 	"ShipLog": {
 		"xmlFile": "planets/ShipLogs/finalplanet.xml"
+	},
+	"Volumes": {
+		"audioVolumes": [
+			{
+				"audio": "OW End Credits 022019_3 AP",
+				"loop": true,
+				"radius": 435,
+				"volume": 0.5
+			}
+		]
 	}
 }

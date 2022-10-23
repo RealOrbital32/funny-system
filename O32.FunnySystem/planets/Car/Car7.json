@@ -76,5 +76,24 @@
 	},
 	"Water": {
 		"size": 200
+	},
+	"Volumes": {
+		"audioVolumes": [
+			{
+				"audio": "OW_QuantumMoon",
+				"loop": true,
+				"radius": 300
+			}
+		],
+		"interferenceVolumes": [
+			{
+				"radius": 300
+			}
+		],
+		"mapRestrictionVolumes": [
+			{
+				"radius": 300
+			}
+		]
 	}
 }

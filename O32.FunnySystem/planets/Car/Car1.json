@@ -77,6 +77,25 @@
 			}
 		]
 	},
+	"Volumes": {
+		"audioVolumes": [
+			{
+				"audio": "OW_QuantumMoon",
+				"loop": true,
+				"radius": 300
+			}
+		],
+		"interferenceVolumes": [
+			{
+				"radius": 300
+			}
+		],
+		"mapRestrictionVolumes": [
+			{
+				"radius": 300
+			}
+		]
+	},
 	"ShipLog": {
 		"xmlFile": "planets/ShipLogs/lean.xml",
 		"spriteFolder": "planets/ShipLogs/entries",

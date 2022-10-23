@@ -78,5 +78,24 @@
 		"heightMap": "planets/assets/wher_heightmap.png",
 		"minHeight": 180,
 		"maxHeight": 201
+	},
+	"Volumes": {
+		"audioVolumes": [
+			{
+				"audio": "OW_QuantumMoon",
+				"loop": true,
+				"radius": 300
+			}
+		],
+		"interferenceVolumes": [
+			{
+				"radius": 300
+			}
+		],
+		"mapRestrictionVolumes": [
+			{
+				"radius": 300
+			}
+		]
 	}
 }

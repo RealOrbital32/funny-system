@@ -17,11 +17,27 @@
 		"showOrbitLine": false
 	},
 	"Atmosphere": {
+		"size": 150,
+		"atmosphereSunIntensity": 0,
+		"fogDensity": 1,
+		"fogSize": 150,
+		"atmosphereTint": {
+			"r": 0,
+			"g": 0,
+			"b": 0,
+			"a": 0
+		},
+		"fogTint": {
+			"r": 0,
+			"g": 0,
+			"b": 0,
+			"a": 0
+		},
 		"clouds": {
 			"cloudsPrefab": "quantumMoon",
 			"outerCloudRadius": 120,
 			"innerCloudRadius": 150,
-			"texturePath": "planets/assets/planetname_clouds.png",
+			"texturePath": "planets/assets/planetname.png",
 			"capPath": "planets/assets/planetname_cap.png",
 			"tint": {
 				"r": 0,
@@ -60,5 +76,24 @@
 		"mapMode": {
 			"remove": true
 		}
+	},
+	"Volumes": {
+		"hazardVolumes": [
+			{
+				"type": "ghostMatter",
+				"damagePerSecond": 1,
+				"radius": 150
+			}
+		],
+		"interferenceVolumes": [
+			{
+				"radius": 150
+			}
+		],
+		"mapRestrictionVolumes": [
+			{
+				"radius": 150
+			}
+		]
 	}
 }
