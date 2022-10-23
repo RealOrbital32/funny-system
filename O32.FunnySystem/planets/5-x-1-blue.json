@@ -25,7 +25,10 @@
 			"b": 150,
 			"a": 255
 		},
-		"size": 5000
+		"size": 5000,
+		"lifespan": 15,
+		"supernovaSize": 50000,
+		"supernovaSpeed": 5000
 	},
 	"ShipLog": {
 		"mapMode": {

@@ -48,6 +48,16 @@
 		<ParentID>9</ParentID>
 		<Text>BILLY: *sigh* Let's go.</Text>
 	</TextBlock>
+	<TextBlock>
+		<ID>11</ID>
+		<ParentID>10</ParentID>
+		<Text>KATHERYNE: rawr uwu ahughhhh mnmnnnmnmn ahhhhhh ngggg nyaa~</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>12</ID>
+		<ParentID>11</ParentID>
+		<Text>BILLY: Katheryne. What the fuck. Don't ever say that again.</Text>
+	</TextBlock>
 	<ShipLogConditions>
 		<RevealFact>
 			<FactID>LEAN_BGYQQAOHOISTGIWBYAUYHM_NOMAI</FactID>

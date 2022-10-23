@@ -76,7 +76,7 @@
 			<ID>LEAN_AAA_NOMAI</ID>
 			<SourceID>QUANTUM_LEAN</SourceID>
 			<RumorName>Quantum Lean (AAA Variant)</RumorName>
-			<Text>The Nomai found an engraving in the terrain that look like a line on a hexagon going from the top-right to the bottom-right, then to the middle-right, then to the middle-left, which from the data collected from the previous expedition, formed a Nomai coordinate. They then went to the Solare/Black system, for Neblina's version of the moon.</Text>
+			<Text>The Nomai found an engraving in the terrain that look like a line on a hexagon going from the bottom-right, then to the middle-right, then to the middle-left, which from the data collected from the previous expedition, formed a Nomai coordinate. They then went to the Solare/Black system, for Neblina's version of the moon.</Text>
 		</RumorFact>
 	</Entry>
 	<Entry>
@@ -102,7 +102,7 @@
 			<ID>LEAN_SOLUTION</ID>
 			<SourceID>QUANTUM_LEAN</SourceID>
 			<RumorName>The Solution</RumorName>
-			<Text>I know what I must do. The Nomai had coordinates to their Vessel, so I have to use the Vessel. Unfortuantely, that requires me to activate the Ash Twin Project... but I want to go to the Eye. Maybe if I'm quick enough, I'll be able to go to the Eye. Let's do this.</Text>
+			<Text>I know what I must do. The Nomai had coordinates to their Vessel, so I have to use the Vessel. Unfortuantely, that requires me to disable the Ash Twin Project... but I want to go to the Eye. Maybe if I'm quick enough, I'll be able to go to the Eye. Let's do this.</Text>
 		</RumorFact>
 	</Entry>
 </AstroObjectEntry>

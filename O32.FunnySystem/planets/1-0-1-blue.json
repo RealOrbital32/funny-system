@@ -25,7 +25,10 @@
       "b": 150,
       "a": 255
     },
-    "solarLuminosity": 0.8
+    "solarLuminosity": 0.8,
+    "lifespan": 15,
+    "supernovaSize": 100000,
+    "supernovaSpeed": 5000
   },
   "ShipLog": {
     "xmlFile": "planets/ShipLogs/blue.xml",

@@ -99,7 +99,7 @@
 	},
 	"ShipLog": {
 		"xmlFile": "planets/ShipLogs/Wher.xml",
-		"spriteFolder": "planets/ShipLogs/entries/",
+		"spriteFolder": "planets/ShipLogs/entries",
 		"mapMode": {
 			"revealedSprite": "planets/ShipLogs/sprites/wher_map_mode.png",
 			"scale": 0.3,

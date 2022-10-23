@@ -3,6 +3,7 @@
 	"name": "QUANTUM LEAN <3",
 	"starSystem": "O32.FunnySystem",
 	"isQuantumState": true,
+	"canShowOnTitle": false,
 	"Base": {
 		"surfaceGravity": 10,
 		"surfaceSize": 200,
@@ -13,7 +14,8 @@
 		"semiMajorAxis": 2000,
 		"primaryBody": "wher",
 		"isMoon": true,
-		"trueAnomaly": 0
+		"trueAnomaly": 0,
+		"showOrbitLine": false
 	},
 	"Atmosphere": {
 		"size": 250,

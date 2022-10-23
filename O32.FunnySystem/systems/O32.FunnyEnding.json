@@ -1,21 +1,25 @@
 {
-	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/star_system_schema.json",
-	"canEnterViaWarpDrive": false,
-	"destroyStockPlanets": true,
-	"coords": {
-		"x": [ 5, 4, 0, 3 ],
-		"y": [ 1, 4, 3, 2, 5 ],
-		"z": [ 5, 1, 3, 4 ]
-	},
-	"factRequiredForWarp": "LEAN_NEBLINA_NOMAI",
-	"vesselPosition": {
-		"x": 0,
-		"y": 0,
-		"z": 8000
-	},
-	"mapRestricted": true,
-	"enableTimeLoop": false,
-	"initialReveal": [
-		"FINALPLANET_FINALSTEP"
-	]
+  "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/star_system_schema.json",
+  "canEnterViaWarpDrive": false,
+  "destroyStockPlanets": true,
+  "enableTimeLoop": false,
+  "factRequiredForWarp": "LEAN_NEBLINA_NOMAI",
+  "initialReveal": [
+    "FINALPLANET_FINALSTEP"
+  ],
+  "loopDuration": 20,
+  "mapRestricted": true,
+  "Vessel": {
+    "coords": {
+      "x": [ 5, 4, 0, 3 ],
+      "y": [ 1, 4, 3, 2, 5 ],
+      "z": [ 5, 1, 3, 4 ]
+    },
+    "promptFact": "LEAN_NEBLINA_NOMAI",
+    "vesselPosition": {
+      "x": 0,
+      "y": 0,
+      "z": 8000
+    }
+  },
 }

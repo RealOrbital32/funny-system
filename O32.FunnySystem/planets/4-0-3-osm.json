@@ -24,13 +24,16 @@
 			"g": 136,
 			"b": 3,
 			"a": 255
-		}
+		},
+		"lifespan": 17,
+		"supernovaSize": 100000,
+		"supernovaSpeed": 5000
 	},
 	"ShipLog": {
 		"xmlFile": "planets/ShipLogs/osm.xml",
 		"spriteFolder": "planets/ShipLogs/sprites",
 		"mapMode": {
-			"revealedSprite": "planets/ShipLogs/sprites/lgbtq/osm_map_mode.png",
+			"revealedSprite": "planets/ShipLogs/sprites/osm_map_mode.png",
 			"scale": 3.5,
 			"offset": 6
 		}

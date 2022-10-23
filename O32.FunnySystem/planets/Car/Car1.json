@@ -12,7 +12,8 @@
 		"semiMajorAxis": 2000,
 		"primaryBody": "me cludos (baen)",
 		"isMoon": true,
-		"trueAnomaly": 90
+		"trueAnomaly": 90,
+		"showOrbitLine": false
 	},
 	"Atmosphere": {
 		"size": 250,
@@ -78,7 +79,7 @@
 	},
 	"ShipLog": {
 		"xmlFile": "planets/ShipLogs/lean.xml",
-		"spriteFolder": "planets/ShipLogs/entries/",
+		"spriteFolder": "planets/ShipLogs/entries",
 		"mapMode": {
 			"revealedSprite": "planets/ShipLogs/sprites/lean_map_mode.png",
 			"scale": 0.2

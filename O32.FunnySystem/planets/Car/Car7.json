@@ -3,6 +3,7 @@
 	"name": "QUANTUM LEAN <3",
 	"starSystem": "O32.FunnySystem",
 	"isQuantumState": true,
+	"canShowOnTitle": false,
 	"Base": {
 		"surfaceGravity": 10,
 		"surfaceSize": 200,
@@ -13,7 +14,8 @@
 		"semiMajorAxis": 3000,
 		"primaryBody": "boy get yo quingan quackin ass over here or i swear to god i will beat yo ass up ya hear me?",
 		"isMoon": true,
-		"trueAnomaly": 90
+		"trueAnomaly": 90,
+		"showOrbitLine": false
 	},
 	"Atmosphere": {
 		"size": 250,

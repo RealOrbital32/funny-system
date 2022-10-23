@@ -3,6 +3,7 @@
 	"name": "QUANTUM LEAN <3",
 	"starSystem": "O32.FunnySystem",
 	"isQuantumState": true,
+	"canShowOnTitle": false,
 	"Base": {
 		"surfaceGravity": 10,
 		"surfaceSize": 200,
@@ -13,7 +14,8 @@
 		"semiMajorAxis": 3000,
 		"primaryBody": "A.D. Center",
 		"isMoon": true,
-		"trueAnomaly": 90
+		"trueAnomaly": 90,
+		"showOrbitLine": false
 	},
 	"HeightMap": {
 		"heightMap": "planets/assets/AAA_heightmap.png",

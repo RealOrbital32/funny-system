@@ -3,6 +3,7 @@
 	"name": "QUANTUM LEAN <3",
 	"starSystem": "O32.FunnySystem",
 	"isQuantumState": true,
+	"canShowOnTitle": false,
 	"Base": {
 		"surfaceGravity": 10,
 		"groundSize": 200,
@@ -14,7 +15,8 @@
 		"semiMajorAxis": 1000,
 		"primaryBody": "neblina",
 		"isMoon": true,
-		"trueAnomaly": 90
+		"trueAnomaly": 90,
+		"showOrbitLine": false
 	},
 	"Water": {
 		"size": 205

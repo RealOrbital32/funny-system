@@ -36,7 +36,10 @@
 			"g": 0,
 			"b": 0,
 			"a": 0
-		}
+		},
+		"lifespan": 10,
+		"supernovaSize": 100000,
+		"supernovaSpeed": 5000
 	},
 	"ShipLog": {
 		"xmlFile": "planets/ShipLogs/red.xml",

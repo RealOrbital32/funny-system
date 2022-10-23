@@ -1,0 +1,64 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "PLANET NAME",
+	"starSystem": "O32.FunnySystem",
+	"isQuantumState": true,
+	"Base": {
+		"surfaceGravity": 10,
+		"surfaceSize": 200,
+		"hasMapMarker": false,
+		"ambientLight": 0
+	},
+	"Orbit": {
+		"semiMajorAxis": 100000,
+		"primaryBody": "testicular torsion twins",
+		"isMoon": true,
+		"trueAnomaly": 90,
+		"showOrbitLine": false
+	},
+	"Atmosphere": {
+		"clouds": {
+			"cloudsPrefab": "quantumMoon",
+			"outerCloudRadius": 120,
+			"innerCloudRadius": 150,
+			"texturePath": "planets/assets/planetname_clouds.png",
+			"capPath": "planets/assets/planetname_cap.png",
+			"tint": {
+				"r": 0,
+				"g": 0,
+				"b": 0,
+				"a": 0
+			},
+			"fluidType": "none",
+			"hasLightning": false
+		}
+	},
+	"HeightMap": {
+		"heightMap": "planets/assets/planetname_heightmap.png",
+		"textureMap": "planets/assets/planetname_surface.png",
+		"minHeight": 90,
+		"maxHeight": 101
+	},
+	"Props": {
+		"signals": [
+			{
+				"audio": "OW_TravelerTheme_drums",
+				"detectionRadius": 400,
+				"frequency": "EscapePod",
+				"identificationRadius": 250,
+				"name": "PLANET NAME",
+				"sourceRadius": 200
+			}
+		]
+	},
+	"Star": {
+		"size": 5,
+		"lightRadius": 15,
+		"lifespan": 69
+	},
+	"ShipLog": {
+		"mapMode": {
+			"remove": true
+		}
+	}
+}

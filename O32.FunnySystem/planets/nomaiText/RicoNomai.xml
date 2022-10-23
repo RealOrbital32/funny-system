@@ -1,7 +1,7 @@
 <NomaiObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/text_schema.xsd">
 	<TextBlock>
 		<ID>1</ID>
-		<Text>BOBER: Finally, after a week of building our first ship in this system, we made it. Kickass told us to head here.</Text>
+		<Text>BOBER: Finally, after a week of building our first ship in this system, we made it. Katheryne told us to head here.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>2</ID>

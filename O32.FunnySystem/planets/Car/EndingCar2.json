@@ -14,7 +14,8 @@
 		"semiMajorAxis": 1500,
 		"primaryBody": "RDDDDDDD (Final Version)",
 		"isMoon": true,
-		"trueAnomaly": 90
+		"trueAnomaly": 90,
+		"showOrbitLine": false
 	},
 	"Atmosphere": {
 		"size": 150,
