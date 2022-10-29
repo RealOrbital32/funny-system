@@ -25,8 +25,8 @@
 	"Atmosphere": {
 		"hasOxygen": true,
 		"hasRain": true,
-		"size": 400,
-		"fogSize": 400,
+		"size": 350,
+		"fogSize": 350,
 		"fogDensity": 0.5,
 		"fogTint": {
 			"r": 0,
@@ -39,6 +39,14 @@
 			"g": 50,
 			"b": 150,
 			"a": 255
+		},
+		"clouds": {
+			"fluidType": "cloud",
+			"cloudsPrefab": "transparent",
+			"texturePath": "planets/assets/hab_gas.png",
+			"rotationSpeed": 1.2,
+			"innerCloudRadius": 345,
+			"outerCloudRadius": 350
 		}
 	},
 	"HeightMap": {

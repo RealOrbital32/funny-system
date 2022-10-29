@@ -27,6 +27,14 @@
 			"g": 75,
 			"b": 150,
 			"a": 255
+		},
+		"clouds": {
+			"fluidType": "cloud",
+			"cloudsPrefab": "transparent",
+			"texturePath": "planets/assets/hab_gas.png",
+			"rotationSpeed": 1.2,
+			"innerCloudRadius": 498,
+			"outerCloudRadius": 499
 		}
 	},
 	"HeightMap": {

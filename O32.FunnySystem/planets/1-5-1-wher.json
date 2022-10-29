@@ -58,7 +58,15 @@
 		},
 		"fogSize": 350,
 		"fogDensity": 1.0,
-		"hasRain": false
+		"hasRain": false,
+		"clouds": {
+			"fluidType": "cloud",
+			"cloudsPrefab": "transparent",
+			"texturePath": "planets/assets/hab_gas.png",
+			"rotationSpeed": 1.2,
+			"innerCloudRadius": 345,
+			"outerCloudRadius": 350
+		}
 	},
 	"HeightMap": {
 		"heightMap": "planets/assets/wher_heightmap.png",
