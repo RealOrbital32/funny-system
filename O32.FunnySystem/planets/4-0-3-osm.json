@@ -1,5 +1,5 @@
 {
-	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/master/NewHorizons/schema.json",
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
 	"name": "ORANGE SEMEN MMMMMMMMM",
 	"starSystem": "O32.FunnySystem",
 	"Base": {
@@ -16,9 +16,9 @@
 		"isTidallyLocked": false
 	},
 	"Star": {
-		"goSupernova": true,
 		"solarLuminosity": 0.6,
 		"size": 3500,
+		"lightRadius": 100000,
 		"tint": {
 			"r": 252,
 			"g": 136,
@@ -30,10 +30,10 @@
 		"supernovaSpeed": 5000
 	},
 	"ShipLog": {
-		"xmlFile": "planets/ShipLogs/osm.xml",
+		"xmlFile": "planets/ShipLogs/tttwins.xml",
 		"spriteFolder": "planets/ShipLogs/sprites",
 		"mapMode": {
-			"revealedSprite": "planets/ShipLogs/sprites/osm_map_mode.png",
+			"revealedSprite": "planets/ShipLogs/sprites/tttwins_map_mode.png",
 			"scale": 3.5,
 			"offset": 6
 		}

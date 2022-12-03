@@ -20,7 +20,7 @@
 	"Atmosphere": {
 		"size": 1500,
 		"fogSize": 1500,
-		"fogDensity": 0.5,
+		"fogDensity": 1,
 		"fogTint": {
 			"r": 255,
 			"g": 50,
@@ -43,25 +43,46 @@
 			"capPath": "planets/assets/ring_cap.png"
 		}
 	},
+	"Volumes": {
+		"hazardVolumes": [
+			{
+				"type": "fire",
+				"radius": 1450
+			}
+		],
+		"interferenceVolumes": [
+			{
+				"radius": 1450
+			}
+		],
+		"mapRestrictionVolumes": [
+			{
+				"radius": 1450
+			}
+		]
+	},
 	"Lava": {
 		"size": 500
 	},
-	"Ring": {
-		"texture": "planets/assets/ring_rings.png",
-		"innerRadius": 1700,
-		"outerRadius": 2600,
-		"unlit": true,
-		"inclination": 43,
-		"rotationSpeed": 1,
-		"fluidType": "cloud"
-	},
-	"ShipLog": {
-		"xmlFile": "planets/ShipLogs/ring.xml",
-		"spriteFolder": "planets/ShipLogs/sprites",
-		"mapMode": {
-			"revealedSprite": "planets/ShipLogs/sprites/ring_map_mode.png",
-			"scale": 1.5,
-			"offset": 1
+	"Rings": [
+		{
+			"texture": "planets/assets/ring_rings.png",
+			"innerRadius": 1700,
+			"outerRadius": 2600,
+			"unlit": true,
+			"inclination": 43,
+			"rotationSpeed": 1,
+			"fluidType": "cloud"
 		}
-	}
+	],
+		"ShipLog":
+		{
+			"xmlFile": "planets/ShipLogs/ring.xml",
+			"spriteFolder": "planets/ShipLogs/sprites",
+			"mapMode": {
+				"revealedSprite": "planets/ShipLogs/sprites/ring_map_mode.png",
+				"scale": 1.5,
+				"offset": 1
+			}
+		}
 }

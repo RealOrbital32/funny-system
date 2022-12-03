@@ -1,0 +1,17 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>tttwins</ID>
+
+    <Entry>
+        <ID>TTTWINS</ID>
+        <Name>Tttwins</Name>
+
+        <Curiosity>TTTWINS</Curiosity>
+		<IsCuriosity/> true
+
+        <RumorFact>
+            <ID>TTTWINS_LANDING</ID>
+            <RumorName>TT Twins</RumorName>
+            <Text>A binary star system, based off of the male testicles. Don't ask why.</Text>
+        </RumorFact>
+    </Entry>
+</AstroObjectEntry>
