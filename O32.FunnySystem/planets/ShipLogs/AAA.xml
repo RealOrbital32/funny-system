@@ -3,14 +3,13 @@
 
     <Entry>
         <ID>AAA</ID>
-        <Name>Aaa</Name>
+        <Name>AAAAAAAAAAA</Name>
 
         <Curiosity>RED</Curiosity>
 
-        <RumorFact>
+        <ExploreFact>
             <ID>AAA_LANDING</ID>
-            <RumorName>AAAAAAAAAAAAAAAAAAAAAAAAAA</RumorName>
             <Text>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</Text>
-        </RumorFact>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

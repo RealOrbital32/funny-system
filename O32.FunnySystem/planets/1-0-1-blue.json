@@ -32,7 +32,7 @@
   },
   "ShipLog": {
     "xmlFile": "planets/ShipLogs/blue.xml",
-    "spriteFolder": "planets/ShipLogs/sprites",
+    "spriteFolder": "planets/ShipLogs/entries",
     "mapMode": {
       "revealedSprite": "planets/ShipLogs/sprites/blue_map_mode.png",
       "scale": 5

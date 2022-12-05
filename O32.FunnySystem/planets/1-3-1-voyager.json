@@ -36,7 +36,7 @@
 	},
 	"ShipLog": {
 		"xmlFile": "planets/ShipLogs/voyger.xml",
-		"spriteFolder": "planets/ShipLogs/sprites",
+		"spriteFolder": "planets/ShipLogs/entries",
 		"mapMode": {
 			"revealedSprite": "planets/ShipLogs/sprites/voyager-dog_map_mode.png",
 			"scale": 0.5,

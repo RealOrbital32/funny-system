@@ -7,10 +7,9 @@
 
         <Curiosity>Test</Curiosity>
 
-        <RumorFact>
+		<ExploreFact>
             <ID>TEST_LANDING</ID>
-            <RumorName>Test</RumorName>
             <Text>PLACEHOLDER FOR TESTING WHY THE FUCK I KEEP GETTING THE "PLANET NAME" SCREEN WHEN I OPEN THE GODDAMN SHIP LOG</Text>
-        </RumorFact>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

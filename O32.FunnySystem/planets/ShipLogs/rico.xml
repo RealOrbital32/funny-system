@@ -3,29 +3,32 @@
 
     <Entry>
         <ID>RICO</ID>
-        <Name>Rico</Name>
+        <Name>me terrunos (rico)</Name>
 
         <Curiosity>BLUE</Curiosity>
 
-        <RumorFact>
+		<ExploreFact>
             <ID>RICO_LANDING</ID>
-            <RumorName>Rico</RumorName>
             <Text>Moon of Cludos, and undergoes extreme tidal forces, resulting in lava on the surface.</Text>
-        </RumorFact>
-		<RumorFact>
-			<ID>RICO_NOMAI</ID>
-			<RumorName>Moon Spotted</RumorName>
-			<Text>The Nomai spotted this moon whilst mining Dhar.</Text>
-		</RumorFact>
-		<RumorFact>
-			<ID>RICO_NOMAI_2</ID>
-			<RumorName>Nomai Landing</RumorName>
-			<Text>Two Nomai flew on the clan's first interplanetary spaceship to Rico. They found an extremely high abundance of metal, and discussed plans about a spaceport.</Text>
-		</RumorFact>
-		<RumorFact>
-			<ID>RICO_NOMAI_3</ID>
-			<RumorName>Quantum Object</RumorName>
-			<Text>On Rico, they turned away from the horizon for 2 seconds. Upon looking back up, a large purple moon was orbiting the planet as well as Rico.</Text>
-		</RumorFact>
+        </ExploreFact>
     </Entry>
+	<Entry>
+		<ID>NOMAIONRICO</ID>
+		<Name>Nomai on Rico</Name>
+
+		<Curiosity>LEAN</Curiosity>
+
+		<ExploreFact>
+			<ID>RICO_NOMAI</ID>
+			<Text>The Nomai spotted this moon whilst mining Dhar.</Text>
+		</ExploreFact>
+		<ExploreFact>
+			<ID>RICO_NOMAI_2</ID>
+			<Text>Two Nomai flew on the clan's first interplanetary spaceship to Rico. They found an extremely high abundance of metal, and discussed plans about a spaceport.</Text>
+		</ExploreFact>
+		<ExploreFact>
+			<ID>RICO_NOMAI_3</ID>
+			<Text>On Rico, they turned away from the horizon for 2 seconds. Upon looking back up, a large purple moon was orbiting Wher, along with Mhor and Dhar.</Text>
+		</ExploreFact>
+	</Entry>
 </AstroObjectEntry>

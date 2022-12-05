@@ -3,14 +3,13 @@
 
     <Entry>
         <ID>RING</ID>
-        <Name>Ring</Name>
+        <Name>Ring-ding-ding-ding-ding-ding-ding-ding</Name>
 
         <Curiosity>RED</Curiosity>
 
-        <RumorFact>
+		<ExploreFact>
             <ID>RING_LANDING</ID>
-            <RumorName>Ring ding ding-ding-ding-ding ding-ding</RumorName>
             <Text>RDDDDDDD is a sub-brown dwarf, and grew past the gas giant stage during it's formation, however it is not hot enough to begin fusion, so it's clouds are banded with warm colors. As the name suggests, it has a ring.</Text>
-        </RumorFact>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

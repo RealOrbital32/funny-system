@@ -7,10 +7,9 @@
 
         <Curiosity>BLUE</Curiosity>
 
-        <RumorFact>
+		<ExploreFact>
             <ID>SBD_LANDING</ID>
-            <RumorName>Small But Deadly</RumorName>
             <Text>Very small, comprised of only water, but has very high gravity.</Text>
-        </RumorFact>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

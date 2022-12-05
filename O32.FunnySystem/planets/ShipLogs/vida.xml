@@ -7,10 +7,9 @@
 
         <Curiosity>RED</Curiosity>
 
-        <RumorFact>
+		<ExploreFact>
             <ID>VIDA_LANDING</ID>
-            <RumorName>Vida</RumorName>
             <Text>Habitable moon of RDDDDDDD. Has water, an atmosphere, and everything else you'd need. Perhaps even more habitable than Wher will ever be.</Text>
-        </RumorFact>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

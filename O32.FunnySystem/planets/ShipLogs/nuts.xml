@@ -3,14 +3,13 @@
 
     <Entry>
         <ID>NUTS</ID>
-        <Name>Nuts</Name>
+        <Name>OUTER WILDS DEEZ NUTS!!!</Name>
 
         <Curiosity>BLUE</Curiosity>
 
-        <RumorFact>
+		<ExploreFact>
             <ID>NUTS_LANDING</ID>
-            <RumorName>OUTER WILDS DEEZ NUTS</RumorName>
             <Text>A comet that goes under severe temperature changes, resulting in sand and burnt stone on it's surface. Has a highly eccentric orbit.</Text>
-        </RumorFact>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

@@ -52,7 +52,7 @@
 	},
 	"ShipLog": {
 		"xmlFile": "planets/ShipLogs/desfiladeiro.xml",
-		"spriteFolder": "planets/ShipLogs/sprites",
+		"spriteFolder": "planets/ShipLogs/entries",
 		"mapMode": {
 			"revealedSprite": "planets/ShipLogs/sprites/desfiladeiro_map_mode.png",
 			"scale": 0.3,

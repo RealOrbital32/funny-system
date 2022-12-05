@@ -7,10 +7,9 @@
 
         <Curiosity>BLUE</Curiosity>
 
-        <RumorFact>
+		<ExploreFact>
             <ID>NB_LANDING</ID>
-            <RumorName>N.B.</RumorName>
             <Text>Binary of Bi.</Text>
-        </RumorFact>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

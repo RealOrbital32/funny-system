@@ -3,14 +3,13 @@
 
     <Entry>
         <ID>IHTS</ID>
-        <Name>IHTS</Name>
+        <Name>I HATE THE SUN >:((((</Name>
 
         <Curiosity>BLUE</Curiosity>
 
-        <RumorFact>
+		<ExploreFact>
             <ID>IHTS_LANDING</ID>
-            <RumorName>I Hate The Sun >:(</RumorName>
             <Text>This planet, despite not being sentient, hates the sun. We know this because it used to have water and orbits very close to it.</Text>
-        </RumorFact>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

@@ -43,7 +43,7 @@
 	},
 	"ShipLog": {
 		"xmlFile": "planets/ShipLogs/nuts.xml",
-		"spriteFolder": "planets/ShipLogs/sprites",
+		"spriteFolder": "planets/ShipLogs/entries",
 		"mapMode": {
 			"revealedSprite": "planets/ShipLogs/sprites/nuts_map_mode.png",
 			"scale": 0.1,

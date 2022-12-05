@@ -311,6 +311,13 @@
 			}
 		},
 		{
+			"id": "NOMAIONDHAR",
+			"position": {
+				"x": 485.0473,
+				"y": -151.4817
+			}
+		},
+		{
 			"id": "FUNNYSYSTEM",
 			"position": {
 				"x": 400,
@@ -357,6 +364,13 @@
 			"position": {
 				"x": -215.0473,
 				"y": 251.4817
+			}
+		},
+		{
+			"id": "NOMAIONRICO",
+			"position": {
+				"x": -215.0473,
+				"y": -151.4817
 			}
 		},
 		{

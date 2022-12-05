@@ -30,7 +30,7 @@
 		"supernovaSpeed": 5000
 	},
 	"ShipLog": {
-		"spriteFolder": "planets/ShipLogs/sprites",
+		"spriteFolder": "planets/ShipLogs/entries",
 		"mapMode": {
 			"revealedSprite": "planets/ShipLogs/sprites/blank_map_mode.png",
 			"scale": 0.1,

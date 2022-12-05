@@ -7,10 +7,9 @@
 
         <Curiosity>BLACK</Curiosity>
 
-        <RumorFact>
+		<ExploreFact>
             <ID>SOLARE_LANDING</ID>
-            <RumorName>Solare</RumorName>
             <Text>Solare is a tiny red-dwarf star orbiting around the black hole. It formed after the black hole supernova-ed back when it was a star.</Text>
-        </RumorFact>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

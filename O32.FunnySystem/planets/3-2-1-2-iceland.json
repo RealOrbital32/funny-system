@@ -48,7 +48,7 @@
 	},
 	"ShipLog": {
 		"xmlFile": "planets/ShipLogs/iceland.xml",
-		"spriteFolder": "planets/ShipLogs/sprites",
+		"spriteFolder": "planets/ShipLogs/entries",
 		"mapMode": {
 			"revealedSprite": "planets/ShipLogs/sprites/iceland_map_mode.png",
 			"scale": 0.05,

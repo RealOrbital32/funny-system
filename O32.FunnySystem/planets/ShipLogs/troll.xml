@@ -7,10 +7,9 @@
 
         <Curiosity>BLUE</Curiosity>
 
-        <RumorFact>
+		<ExploreFact>
             <ID>TROLL_LANDING</ID>
-            <RumorName>Troll Face</RumorName>
             <Text>A planet that has terrain vaguely ressembling a troll face. Get trolled!</Text>
-        </RumorFact>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

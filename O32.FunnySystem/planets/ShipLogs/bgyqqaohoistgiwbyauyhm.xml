@@ -3,14 +3,13 @@
 
     <Entry>
         <ID>BGYQQAOHOISTGIWBYAUYHM</ID>
-        <Name>bgyqqaohoistgiwbyauyhm</Name>
+        <Name>BOY GET YO QUINGAN QUACKIN ASS OVER HERE OR I SWEAR TO GOD I WILL BEAT YO ASS UP YOU HEAR ME?</Name>
 
         <Curiosity>RED</Curiosity>
 
-        <RumorFact>
+		<ExploreFact>
             <ID>BGYQQAOHOISTGIWBYAUYHM_LANDING</ID>
-            <RumorName>bgyqqaohoistgiwbyauyhm</RumorName>
             <Text>Planet comprised of water and sand. Has two moons that orbit weirdly fast.</Text>
-        </RumorFact>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

@@ -7,10 +7,9 @@
 
         <Curiosity>BLUE</Curiosity>
 
-        <RumorFact>
+		<ExploreFact>
             <ID>BI_LANDING</ID>
-            <RumorName>Bi</RumorName>
             <Text>Binary of N.B. Actively sending water to it, but appears to vanish upon touching N.B. Water on Bi also never drains.</Text>
-        </RumorFact>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

@@ -7,11 +7,10 @@
 
         <Curiosity>BLUE</Curiosity>
 
-        <RumorFact>
+		<ExploreFact>
             <ID>MHOR_LANDING</ID>
-            <RumorName>Mhor</RumorName>
             <Text>Moon of Wher. Looks like it too.</Text>
-        </RumorFact>
+        </ExploreFact>
 		<RumorFact>
 			<ID>MHOR_NOMAI</ID>
 			<RumorName>Mhor Mining</RumorName>

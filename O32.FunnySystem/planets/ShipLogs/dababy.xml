@@ -3,14 +3,13 @@
 
     <Entry>
         <ID>DABABY</ID>
-        <Name>Dababy</Name>
+        <Name>DaBaby</Name>
 
         <Curiosity>RED</Curiosity>
 
-        <RumorFact>
-            <ID>DABABY_LANDING</ID>
-            <RumorName>DABABY (LES GO)</RumorName>
+		<ExploreFact>
+			<ID>DABABY_LANDING</ID>
             <Text>One of two moons that orbit (the planet it's orbiting) and is actively transferring sand to it.</Text>
-        </RumorFact>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

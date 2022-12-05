@@ -7,10 +7,9 @@
 
         <Curiosity>BLUE</Curiosity>
 
-        <RumorFact>
+		<ExploreFact>
             <ID>SUSSY_LANDING</ID>
-            <RumorName>Sussy</RumorName>
             <Text>Sussy moon! Sliced in half with a layer of lava just chilling with a long pillar extending outwards.</Text>
-        </RumorFact>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

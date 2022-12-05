@@ -7,10 +7,9 @@
 
         <Curiosity>RED</Curiosity>
 
-        <RumorFact>
+		<ExploreFact>
             <ID>PISSHARTS_LANDING</ID>
-            <RumorName>Pissharts</RumorName>
             <Text>One of two moons that orbit (the planet it's orbiting) and is actively transferring water to it. It's core is literally made of plasma.</Text>
-        </RumorFact>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

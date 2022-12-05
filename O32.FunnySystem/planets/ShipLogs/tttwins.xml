@@ -3,15 +3,14 @@
 
     <Entry>
         <ID>TTTWINS</ID>
-        <Name>Tttwins</Name>
+        <Name>Testicular Torsion Twins</Name>
 
         <Curiosity>TTTWINS</Curiosity>
 		<IsCuriosity/> true
 
-        <RumorFact>
+        <ExploreFact>
             <ID>TTTWINS_LANDING</ID>
-            <RumorName>TT Twins</RumorName>
             <Text>A binary star system, based off of the male testicles. Don't ask why.</Text>
-        </RumorFact>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

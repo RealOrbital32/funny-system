@@ -8,10 +8,9 @@
         <Curiosity>RED</Curiosity>
 		<IsCuriosity/> true
 
-        <RumorFact>
+        <ExploreFact>
             <ID>RED_LANDING</ID>
-            <RumorName>Red</RumorName>
             <Text>A red hypergiant star, god this thing is so f-ing large... may supernova any moment!</Text>
-        </RumorFact>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

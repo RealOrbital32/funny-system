@@ -7,11 +7,10 @@
 
         <Curiosity>BLUE</Curiosity>
 
-        <RumorFact>
+        <ExploreFact>
             <ID>WHER_LANDING</ID>
-            <RumorName>Wher</RumorName>
             <Text>Wher is a habitable planet. It has two moons that look exactly like it.</Text>
-        </RumorFact>
+        </ExploreFact>
 		<RumorFact>
 			<ID>WHER_NOMAI</ID>
 			<RumorName>Wher did they go?</RumorName>

@@ -8,10 +8,9 @@
         <Curiosity>BLACK</Curiosity>
 		<IsCuriosity/> true
 
-        <RumorFact>
+        <ExploreFact>
             <ID>BLACK_LANDING</ID>
-            <RumorName>Black</RumorName>
             <Text>A black hole that was originally a star, larger than Red. Don't enter it, there is no white hole to exit out of.</Text>
-        </RumorFact>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

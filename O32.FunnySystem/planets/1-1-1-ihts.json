@@ -41,7 +41,7 @@
 	},
 	"ShipLog": {
 		"xmlFile": "planets/ShipLogs/ihts.xml",
-		"spriteFolder": "planets/ShipLogs/sprites",
+		"spriteFolder": "planets/ShipLogs/entries",
 		"mapMode": {
 			"revealedSprite": "planets/ShipLogs/sprites/ihts_map_mode.png",
 			"scale": 0.1,

@@ -7,15 +7,20 @@
 
         <Curiosity>BLUE</Curiosity>
 
-        <RumorFact>
+		<ExploreFact>
             <ID>DHAR_LANDING</ID>
-            <RumorName>Dhar</RumorName>
             <Text>Moon of Wher. Looks like it too.</Text>
-        </RumorFact>
-		<RumorFact>
-			<ID>DHAR_NOMAI</ID>
-			<RumorName>Nomai Mining</RumorName>
-			<Text>Apparently the Nomai came here to mine up the whole moon. No wonder it's so small.</Text>
-		</RumorFact>
+        </ExploreFact>
     </Entry>
+	<Entry>
+		<ID>NOMAIONDHAR</ID>
+		<Name>Nomai on Dhar</Name>
+
+		<Curiosity>LEAN</Curiosity>
+
+		<ExploreFact>
+			<ID>DHAR_NOMAI</ID>
+			<Text>Apparently the Nomai came here to mine up the whole moon. No wonder it's so small.</Text>
+		</ExploreFact>
+	</Entry>
 </AstroObjectEntry>

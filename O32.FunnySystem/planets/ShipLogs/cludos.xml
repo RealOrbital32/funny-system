@@ -3,14 +3,13 @@
 
     <Entry>
         <ID>CLUDOS</ID>
-        <Name>cludos</Name>
+        <Name>me cludos (baen)</Name>
 
         <Curiosity>BLUE</Curiosity>
 
-        <RumorFact>
+		<ExploreFact>
             <ID>CLUDOS_LANDING</ID>
-            <RumorName>Cludos</RumorName>
             <Text>Cludos is a planet with a thick atmosphere and a bit of water.</Text>
-        </RumorFact>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

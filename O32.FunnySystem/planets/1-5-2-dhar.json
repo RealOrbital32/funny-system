@@ -44,7 +44,7 @@
 	},
 	"ShipLog": {
 		"xmlFile": "planets/ShipLogs/dhar.xml",
-		"spriteFolder": "planets/ShipLogs/sprites",
+		"spriteFolder": "planets/ShipLogs/entries",
 		"mapMode": {
 			"revealedSprite": "planets/ShipLogs/sprites/mhor-dhar_map_mode.png",
 			"scale": 0.05,

@@ -31,7 +31,7 @@
 	},
 	"ShipLog": {
 		"xmlFile": "planets/ShipLogs/tttwins.xml",
-		"spriteFolder": "planets/ShipLogs/sprites",
+		"spriteFolder": "planets/ShipLogs/entries",
 		"mapMode": {
 			"revealedSprite": "planets/ShipLogs/sprites/tttwins_map_mode.png",
 			"scale": 3.5,

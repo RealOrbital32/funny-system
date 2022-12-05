@@ -3,14 +3,13 @@
 
     <Entry>
         <ID>ICELAND</ID>
-        <Name>Iceland</Name>
+        <Name>Iceland (HAHA)</Name>
 
         <Curiosity>BLACK</Curiosity>
 
-        <RumorFact>
+		<ExploreFact>
             <ID>ICELAND_LANDING</ID>
-            <RumorName>Iceland</RumorName>
             <Text>Iceland, a tiny asteroid-shaped moon with snow and a bright toothpaste-colored atmosphere. Orbits Neblina.</Text>
-        </RumorFact>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

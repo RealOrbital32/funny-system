@@ -27,7 +27,7 @@
   },
   "ShipLog": {
     "xmlFile": "planets/ShipLogs/troll.xml",
-    "spriteFolder": "planets/ShipLogs/sprites",
+    "spriteFolder": "planets/ShipLogs/entries",
     "mapMode": {
       "revealedSprite": "planets/ShipLogs/sprites/troll_map_mode.png",
       "scale": 0.4,

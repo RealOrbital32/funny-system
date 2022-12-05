@@ -3,14 +3,13 @@
 
     <Entry>
         <ID>VOYGER</ID>
-        <Name>Voyger</Name>
+        <Name>Voyager</Name>
 
         <Curiosity>BLUE</Curiosity>
 
-        <RumorFact>
+		<ExploreFact>
             <ID>VOYGER_LANDING</ID>
-            <RumorName>voyger</RumorName>
             <Text>First planet that formed here, has an atmosphere. It used to have an almost flat gray surface. Blame the ship log for the lost A.</Text>
-        </RumorFact>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

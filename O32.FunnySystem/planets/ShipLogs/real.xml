@@ -3,14 +3,13 @@
 
     <Entry>
         <ID>REAL</ID>
-        <Name>Real</Name>
+        <Name>REAL O_O</Name>
 
         <Curiosity>BLACK</Curiosity>
 
-        <RumorFact>
+		<ExploreFact>
             <ID>REAL_LANDING</ID>
-            <RumorName>REAL O_O</RumorName>
             <Text>If IHTS orbited a black hole and was slowly being torn apart to dust.</Text>
-        </RumorFact>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

@@ -35,7 +35,7 @@
 	},
 	"ShipLog": {
 		"xmlFile": "planets/ShipLogs/solare.xml",
-		"spriteFolder": "planets/ShipLogs/sprites",
+		"spriteFolder": "planets/ShipLogs/entries",
 		"mapMode": {
 			"revealedSprite": "planets/ShipLogs/sprites/solare_map_mode.png",
 			"scale": 2,

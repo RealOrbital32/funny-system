@@ -7,10 +7,9 @@
 
         <Curiosity>BLACK</Curiosity>
 
-        <RumorFact>
+		<ExploreFact>
             <ID>NEBLINA_LANDING</ID>
-            <RumorName>Neblina</RumorName>
             <Text>First and only planet in the Solare system, made out of water and mist.</Text>
-        </RumorFact>
+        </ExploreFact>
     </Entry>
 </AstroObjectEntry>

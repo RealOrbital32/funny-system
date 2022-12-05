@@ -3,16 +3,15 @@
 
     <Entry>
         <ID>QUANTUM_LEAN</ID>
-        <Name>Lean</Name>
+        <Name>QUANTUM LEAN!!!!!!</Name>
 
         <Curiosity>LEAN</Curiosity>
 		<IsCuriosity/> true
 
-        <RumorFact>
+        <ExploreFact>
             <ID>LEAN_LANDING</ID>
-            <RumorName>Quantum Lean</RumorName>
             <Text>A quantum moon with a thick atmosphere made out of lean. The quantum lean's surface changes based on what planet it orbits, and it seems as if it can orbit planets in any system. But if anything, I LOVE... I LOVE LEAN!!!!!!!!</Text>
-        </RumorFact>
+        </ExploreFact>
     </Entry>
 	<Entry>
 		<ID>LEAN_WHER</ID>
@@ -20,12 +19,10 @@
 
 		<Curiosity>LEAN</Curiosity>
 		
-		<RumorFact>
+		<ExploreFact>
 			<ID>LEAN_WHER_NOMAI</ID>
-			<SourceID>QUANTUM_LEAN</SourceID>
-			<RumorName>Quantum Lean (Wher Variant)</RumorName>
 			<Text>The Nomai found an engraving in the terrain that look like a line on a hexagon going from the middle-left to the bottom-left. They then went to the Troll Face Planet's version of the moon.</Text>
-		</RumorFact>
+		</ExploreFact>
 	</Entry>
 	<Entry>
 		<ID>LEAN_TROLL</ID>
@@ -33,12 +30,10 @@
 
 		<Curiosity>LEAN</Curiosity>
 
-		<RumorFact>
+		<ExploreFact>
 			<ID>LEAN_TROLL_NOMAI</ID>
-			<SourceID>QUANTUM_LEAN</SourceID>
-			<RumorName>Quantum Lean (Troll Variant)</RumorName>
 			<Text>The Nomai found an engraving in the terrain that look like a line on a hexagon going from the bottom-left to the top-left. They then went to Cludos' version of the moon.</Text>
-		</RumorFact>
+		</ExploreFact>
 	</Entry>
 	<Entry>
 		<ID>LEAN_CLUDOS</ID>
@@ -46,12 +41,10 @@
 
 		<Curiosity>LEAN</Curiosity>
 
-		<RumorFact>
+		<ExploreFact>
 			<ID>LEAN_CLUDOS_NOMAI</ID>
-			<RumorName>Quantum Lean (Cludos Variant)</RumorName>
-			<SourceID>QUANTUM_LEAN</SourceID>
 			<Text>The Nomai found an engraving in the terrain that look like a line on a hexagon going from the top-left to the bottom-right, which from the data collected from the two previous expeditions, formed a Nomai coordinate. They then went to the Red system, for the 'Boy Get Your Quingan ... ' version of the moon.</Text>
-		</RumorFact>
+		</ExploreFact>
 	</Entry>
 	<Entry>
 		<ID>LEAN_BGYQQAOHOISTGIWBYAUYHM</ID>
@@ -59,12 +52,10 @@
 
 		<Curiosity>LEAN</Curiosity>
 
-		<RumorFact>
+		<ExploreFact>
 			<ID>LEAN_BGYQQAOHOISTGIWBYAUYHM_NOMAI</ID>
-			<SourceID>QUANTUM_LEAN</SourceID>
-			<RumorName>Quantum Lean (BGYQQAOHOISTGIWBYAUYHM Variant)</RumorName>
 			<Text>The Nomai found an engraving in the terrain that look like a line on a hexagon going from the top-right to the bottom-left, then to the bottom-right. They then went to AAAAAA's version of the moon.</Text>
-		</RumorFact>
+		</ExploreFact>
 	</Entry>
 	<Entry>
 		<ID>LEAN_AAA</ID>
@@ -72,12 +63,10 @@
 
 		<Curiosity>LEAN</Curiosity>
 
-		<RumorFact>
+		<ExploreFact>
 			<ID>LEAN_AAA_NOMAI</ID>
-			<SourceID>QUANTUM_LEAN</SourceID>
-			<RumorName>Quantum Lean (AAA Variant)</RumorName>
 			<Text>The Nomai found an engraving in the terrain that look like a line on a hexagon going from the bottom-right, then to the middle-right, then to the middle-left, which from the data collected from the previous expedition, formed a Nomai coordinate. They then went to the Solare/Black system, for Neblina's version of the moon.</Text>
-		</RumorFact>
+		</ExploreFact>
 	</Entry>
 	<Entry>
 		<ID>LEAN_NEBLINA</ID>
@@ -85,12 +74,10 @@
 
 		<Curiosity>LEAN</Curiosity>
 
-		<RumorFact>
+		<ExploreFact>
 			<ID>LEAN_NEBLINA_NOMAI</ID>
-			<SourceID>QUANTUM_LEAN</SourceID>
-			<RumorName>Quantum Lean (Neblina Variant)</RumorName>
 			<Text>The Nomai found at the core a small chunk of rock, and engraved in it was a hexagonal pattern going from the middle-left to the top-right, then to the bottom-right, and finally to the bottom-left. The Nomai realized that they had all the coordinates for the Vessel, and promptly returned to it.</Text>
-		</RumorFact>
+		</ExploreFact>
 	</Entry>
 	<Entry>
 		<ID>LEAN_THESOLUTION</ID>
@@ -98,11 +85,9 @@
 
 		<Curiosity>LEAN</Curiosity>
 
-		<RumorFact>
+		<ExploreFact>
 			<ID>LEAN_SOLUTION</ID>
-			<SourceID>QUANTUM_LEAN</SourceID>
-			<RumorName>The Solution</RumorName>
 			<Text>I know what I must do. The Nomai had coordinates to their Vessel, so I have to use the Vessel. Unfortuantely, that requires me to disable the Ash Twin Project... but I want to go to the Eye. Maybe if I'm quick enough, I'll be able to go to the Eye. Let's do this.</Text>
-		</RumorFact>
+		</ExploreFact>
 	</Entry>
 </AstroObjectEntry>
