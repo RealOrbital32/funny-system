@@ -4,6 +4,7 @@
     <Entry>
         <ID>WHER</ID>
         <Name>Wher</Name>
+		<IgnoreMoreToExploreCondition>NOMAIONWHER</IgnoreMoreToExploreCondition>
 
         <Curiosity>BLUE</Curiosity>
 
@@ -11,10 +12,17 @@
             <ID>WHER_LANDING</ID>
             <Text>Wher is a habitable planet. It has two moons that look exactly like it.</Text>
         </ExploreFact>
-		<RumorFact>
+    </Entry>
+	<Entry>
+		<ID>NOMAIONWHER</ID>
+		<Name>Nomai on Wher</Name>
+
+		<Curiosity>LEAN</Curiosity>
+		
+		<ExploreFact>
 			<ID>WHER_NOMAI</ID>
 			<RumorName>Wher did they go?</RumorName>
 			<Text>The Nomai apparently went to the moons of Wher, We'll see what happened.</Text>
-		</RumorFact>
-    </Entry>
+		</ExploreFact>
+	</Entry>
 </AstroObjectEntry>

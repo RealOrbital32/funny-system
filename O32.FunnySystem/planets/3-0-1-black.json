@@ -5,7 +5,8 @@
 	"Base": {
 		"surfaceSize": 3000,
 		"surfaceGravity": 35,
-		"hasMapMarker": true
+		"hasMapMarker": true,
+		"invulnerableToSun": true
 	},
 	"Orbit": {
 		"semiMajorAxis": 500000,
