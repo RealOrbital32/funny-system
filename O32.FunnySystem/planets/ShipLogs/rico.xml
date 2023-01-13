@@ -18,10 +18,11 @@
 
 		<Curiosity>LEAN</Curiosity>
 
-		<ExploreFact>
+		<RumorFact>
 			<ID>RICO_NOMAI</ID>
+			<RumorName>Rico Spotted</RumorName>
 			<Text>The Nomai spotted this moon whilst mining Dhar.</Text>
-		</ExploreFact>
+		</RumorFact>
 		<ExploreFact>
 			<ID>RICO_NOMAI_2</ID>
 			<Text>Two Nomai flew on the clan's first interplanetary spaceship to Rico. They found an extremely high abundance of metal, and discussed plans about a spaceport.</Text>

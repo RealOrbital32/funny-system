@@ -10,8 +10,8 @@
 		"ambientLight": 0
 	},
 	"Orbit": {
-		"semiMajorAxis": 150000,
-		"primaryBody": "RED IMPOSTOR SUS",
+		"semiMajorAxis": 60000,
+		"primaryBody": "blue fire cools you down :)",
 		"isMoon": true,
 		"trueAnomaly": 90,
 		"showOrbitLine": false
@@ -71,11 +71,6 @@
 		"size": 5,
 		"lightRadius": 15,
 		"lifespan": 69
-	},
-	"ShipLog": {
-		"mapMode": {
-			"remove": true
-		}
 	},
 	"Volumes": {
 		"hazardVolumes": [

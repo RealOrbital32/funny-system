@@ -18,7 +18,12 @@
 		<Name>Lean (Wher Variant)</Name>
 
 		<Curiosity>LEAN</Curiosity>
-		
+
+		<RumorFact>
+			<ID>LEAN_WHER_RUMOR</ID>
+			<RumorName>Moon Mystery</RumorName>
+			<Text>The Nomai went to the mysterious purple moon orbiting Wher.</Text>
+		</RumorFact>
 		<ExploreFact>
 			<ID>LEAN_WHER_NOMAI</ID>
 			<Text>The Nomai found an engraving in the terrain that look like a line on a hexagon going from the middle-left to the bottom-left. They then went to the Troll Face Planet's version of the moon.</Text>
@@ -30,6 +35,11 @@
 
 		<Curiosity>LEAN</Curiosity>
 
+		<RumorFact>
+			<ID>LEAN_TROLL_RUMOR</ID>
+			<RumorName>Lean Orbiting Troll</RumorName>
+			<Text>The Nomai went to the Troll variant.</Text>
+		</RumorFact>
 		<ExploreFact>
 			<ID>LEAN_TROLL_NOMAI</ID>
 			<Text>The Nomai found an engraving in the terrain that look like a line on a hexagon going from the bottom-left to the top-left. They then went to Cludos' version of the moon.</Text>
@@ -41,6 +51,11 @@
 
 		<Curiosity>LEAN</Curiosity>
 
+		<RumorFact>
+			<ID>LEAN_CLUDOS_RUMOR</ID>
+			<RumorName>Lean Orbiting Troll</RumorName>
+			<Text>The Nomai went to the Cludos variant.</Text>
+		</RumorFact>
 		<ExploreFact>
 			<ID>LEAN_CLUDOS_NOMAI</ID>
 			<Text>The Nomai found an engraving in the terrain that look like a line on a hexagon going from the top-left to the bottom-right, which from the data collected from the two previous expeditions, formed a Nomai coordinate. They then went to the Red system, for the 'Boy Get Your Quingan ... ' version of the moon.</Text>
@@ -52,6 +67,11 @@
 
 		<Curiosity>LEAN</Curiosity>
 
+		<RumorFact>
+			<ID>LEAN_BGYQQAOHOISTGIWBYAUYHM_RUMOR</ID>
+			<RumorName>Lean Orbiting "Boy Get Your"...</RumorName>
+			<Text>The Nomai went to the "Boy Get Your"... variant.</Text>
+		</RumorFact>
 		<ExploreFact>
 			<ID>LEAN_BGYQQAOHOISTGIWBYAUYHM_NOMAI</ID>
 			<Text>The Nomai found an engraving in the terrain that look like a line on a hexagon going from the top-right to the bottom-left, then to the bottom-right. They then went to AAAAAA's version of the moon.</Text>
@@ -63,6 +83,11 @@
 
 		<Curiosity>LEAN</Curiosity>
 
+		<RumorFact>
+			<ID>LEAN_AAA_RUMOR</ID>
+			<RumorName>Lean Orbiting AAA</RumorName>
+			<Text>The Nomai went to the AAA variant.</Text>
+		</RumorFact>
 		<ExploreFact>
 			<ID>LEAN_AAA_NOMAI</ID>
 			<Text>The Nomai found an engraving in the terrain that look like a line on a hexagon going from the bottom-right, then to the middle-right, then to the middle-left, which from the data collected from the previous expedition, formed a Nomai coordinate. They then went to the Solare/Black system, for Neblina's version of the moon.</Text>
@@ -74,6 +99,11 @@
 
 		<Curiosity>LEAN</Curiosity>
 
+		<RumorFact>
+			<ID>LEAN_NEBLINA_RUMOR</ID>
+			<RumorName>Lean Orbiting Neblina</RumorName>
+			<Text>The Nomai went to the Neblina variant.</Text>
+		</RumorFact>
 		<ExploreFact>
 			<ID>LEAN_NEBLINA_NOMAI</ID>
 			<Text>The Nomai found at the core a small chunk of rock, and engraved in it was a hexagonal pattern going from the middle-left to the top-right, then to the bottom-right, and finally to the bottom-left. The Nomai realized that they had all the coordinates for the Vessel, and promptly returned to it.</Text>
@@ -89,5 +119,17 @@
 			<ID>LEAN_SOLUTION</ID>
 			<Text>I know what I must do. The Nomai had coordinates to their Vessel, so I have to use the Vessel. Unfortuantely, that requires me to disable the Ash Twin Project... but I want to go to the Eye. Maybe if I'm quick enough, I'll be able to go to the Eye. Let's do this.</Text>
 		</ExploreFact>
+	</Entry>
+	<Entry>
+		<ID>COMING_SOON</ID>
+		<Name>Coming Soon</Name>
+
+		<Curiosity>LEAN</Curiosity>
+
+		<RumorFact>
+			<ID>COMINGSOON</ID>
+			<RumorName>Coming Soon</RumorName>
+			<Text>New Funny System DLC coming to a OWML near you, Sunday 22nd.</Text>
+		</RumorFact>
 	</Entry>
 </AstroObjectEntry>

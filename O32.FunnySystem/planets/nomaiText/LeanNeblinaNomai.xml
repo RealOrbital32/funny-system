@@ -23,5 +23,9 @@
 			<FactID>LEAN_NEBLINA_NOMAI</FactID>
 			<Condition>4</Condition>
 		</RevealFact>
+		<RevealFact>
+			<FactID>LEAN_SOLUTION</FactID>
+			<Condition>4</Condition>
+		</RevealFact>
 	</ShipLogConditions>
 </NomaiObject>

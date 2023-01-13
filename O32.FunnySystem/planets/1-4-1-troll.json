@@ -5,7 +5,6 @@
   "Base": {
     "surfaceGravity": 22,
     "surfaceSize": 400,
-    "groundSize": 400,
     "hasMapMarker": true,
     "ambientLight": 1
   },
@@ -15,15 +14,23 @@
     "primaryBody": "blue fire cools you down :)",
     "isMoon": false,
     "longitudeOfAscendingNode": 150,
-    "axialTilt": 80,
-    "trueAnomaly": 220,
-    "isTidallyLocked": true
+    "axialTilt": 10,
+    "trueAnomaly": 220
   },
   "HeightMap": {
     "heightMap": "planets/assets/troll_heightmap.png",
     "textureMap": "planets/assets/troll_texturemap.png",
-    "minHeight": 100,
+    "minHeight": 350,
     "maxHeight": 401
+  },
+  "Sand": {
+    "size": 350,
+    "tint": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
+    }
   },
   "ShipLog": {
     "xmlFile": "planets/ShipLogs/troll.xml",

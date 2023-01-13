@@ -1,0 +1,51 @@
+{
+	"name": "STAR NAME",
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"starSystem": "O32.FunnySystem",
+	"Base": {
+		"surfaceSize": 5000,
+		"surfaceGravity": 35,
+		"hasMapMarker": false
+	},
+	"Orbit": {
+		"semiMajorAxis": 500000,
+		"trueAnomaly": 276.3,
+		"inclination": 45,
+		"primaryBody": "blue fire cools you down :)",
+		"isMoon": true,
+		"isTidallyLocked": false,
+		"longitudeOfAscendingNode": 0,
+		"axialTilt": -5,
+		"eccentricity": 0.2,
+		"argumentOfPeriapsis": 0
+	},
+	"Volumes": {
+		"notificationVolumes": [
+			{
+				"radius": 50000,
+				"entryNotification": {
+					"displayMessage": "Coming soon, in a funny DLC!",
+					"duration": 15
+				}
+			}
+		]
+	},
+	"Props": {
+		"signals": [
+			{
+				"audio": "OW_TravelerTheme_drums",
+				"detectionRadius": 50000,
+				"frequency": "EscapePod",
+				"identificationRadius": 50000,
+				"name": "STAR NAME",
+				"sourceRadius": 5000
+			}
+		]
+	},
+	"ShipLog": {
+		"mapMode": {
+			"offset": 10,
+			"scale": 0.1
+		}
+	}
+}

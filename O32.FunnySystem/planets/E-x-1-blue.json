@@ -1,0 +1,38 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Blue (Final Version)",
+	"starSystem": "O32.FunnyEnding",
+	"canShowOnTitle": false,
+	"Base": {
+		"surfaceGravity": 1,
+		"surfaceSize": 5000,
+		"ambientLight": 1,
+		"gravityFallOff": "linear",
+		"hasMapMarker": false
+	},
+	"Orbit": {
+		"semiMajorAxis": 10000000,
+		"trueAnomaly": 80,
+		"primaryBody": "Final Star",
+		"inclination": 20,
+		"isMoon": false,
+		"isTidallyLocked": false
+	},
+	"Star": {
+		"tint": {
+			"r": 0,
+			"g": 120,
+			"b": 150,
+			"a": 255
+		},
+		"size": 5000,
+		"lifespan": 15,
+		"supernovaSize": 50000,
+		"supernovaSpeed": 5000
+	},
+	"ShipLog": {
+		"mapMode": {
+			"remove": true
+		}
+	}
+}

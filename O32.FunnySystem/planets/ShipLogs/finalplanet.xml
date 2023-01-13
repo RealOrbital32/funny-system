@@ -3,7 +3,7 @@
 
     <Entry>
         <ID>FINALPLANET</ID>
-        <Name>FinalPlanet</Name>
+        <Name>The End</Name>
 
         <Curiosity>FINALSYSTEM</Curiosity>
 
@@ -13,10 +13,9 @@
             <Text>The north pole.</Text>
         </RumorFact>
 
-		<RumorFact>
+		<ExploreFact>
 			<ID>FINALPLANET_BONFORD</ID>
-			<RumorName>Bonford</RumorName>
 			<Text>I met a fellow Hearthian named Bonford at the north pole of this planet. Supposedly, they were the first Hearthian to be a pilot for Outer Wilds Ventures, however when their ship malfunctioned, they were stranded for a long time. I told Bonford about the Nomai and the Eye, and they told me to go to the Eye if it's so important. Will do, Bonford.</Text>
-		</RumorFact>
+		</ExploreFact>
     </Entry>
 </AstroObjectEntry>

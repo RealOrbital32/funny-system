@@ -10,8 +10,8 @@
 		"ambientLight": 0
 	},
 	"Orbit": {
-		"semiMajorAxis": 100000,
-		"primaryBody": ">w< what's this hole~",
+		"semiMajorAxis": 150000,
+		"primaryBody": "RED IMPOSTOR SUS",
 		"isMoon": true,
 		"trueAnomaly": 90,
 		"showOrbitLine": false

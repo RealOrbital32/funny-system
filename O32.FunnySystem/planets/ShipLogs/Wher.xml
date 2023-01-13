@@ -18,10 +18,14 @@
 		<Name>Nomai on Wher</Name>
 
 		<Curiosity>LEAN</Curiosity>
-		
+
+		<RumorFact>
+			<ID>WHER_RUMOR</ID>
+			<RumorName>Recorder</RumorName>
+			<Text>There's a recorder just outside the ship. I wonder what it says?</Text>
+		</RumorFact>
 		<ExploreFact>
 			<ID>WHER_NOMAI</ID>
-			<RumorName>Wher did they go?</RumorName>
 			<Text>The Nomai apparently went to the moons of Wher, We'll see what happened.</Text>
 		</ExploreFact>
 	</Entry>

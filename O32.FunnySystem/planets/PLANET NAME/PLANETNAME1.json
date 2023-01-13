@@ -9,8 +9,8 @@
 		"ambientLight": 0
 	},
 	"Orbit": {
-		"semiMajorAxis": 60000,
-		"primaryBody": "blue fire cools you down :)",
+		"semiMajorAxis": 30000,
+		"primaryBody": "STAR NAME",
 		"isMoon": true,
 		"trueAnomaly": 90,
 		"showOrbitLine": false
@@ -31,21 +31,6 @@
 			"g": 0,
 			"b": 0,
 			"a": 0
-		},
-		"clouds": {
-			"cloudsPrefab": "quantumMoon",
-			"outerCloudRadius": 120,
-			"innerCloudRadius": 150,
-			"texturePath": "planets/assets/planetname.png",
-			"capPath": "planets/assets/planetname_cap.png",
-			"tint": {
-				"r": 0,
-				"g": 0,
-				"b": 0,
-				"a": 0
-			},
-			"fluidType": "none",
-			"hasLightning": false
 		}
 	},
 	"HeightMap": {
@@ -70,11 +55,6 @@
 		"size": 5,
 		"lightRadius": 15,
 		"lifespan": 69
-	},
-	"ShipLog": {
-		"mapMode": {
-			"remove": true
-		}
 	},
 	"Volumes": {
 		"hazardVolumes": [

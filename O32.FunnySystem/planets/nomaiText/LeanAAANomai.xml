@@ -30,6 +30,10 @@
 	</TextBlock>
 	<ShipLogConditions>
 		<RevealFact>
+			<FactID>LEAN_NEBLINA_RUMOR</FactID>
+			<Condition>6</Condition>
+		</RevealFact>
+		<RevealFact>
 			<FactID>LEAN_AAA_NOMAI</FactID>
 			<Condition>6</Condition>
 		</RevealFact>

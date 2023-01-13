@@ -25,6 +25,10 @@
 	</TextBlock>
 	<ShipLogConditions>
 		<RevealFact>
+			<FactID>LEAN_CLUDOS_RUMOR</FactID>
+			<Condition>4</Condition>
+		</RevealFact>
+		<RevealFact>
 			<FactID>LEAN_TROLL_NOMAI</FactID>
 			<Condition>4</Condition>
 		</RevealFact>

@@ -50,6 +50,10 @@
 	</TextBlock>
 	<ShipLogConditions>
 		<RevealFact>
+			<FactID>LEAN_TROLL_RUMOR</FactID>
+			<Condition>8</Condition>
+		</RevealFact>
+		<RevealFact>
 			<FactID>LEAN_WHER_NOMAI</FactID>
 			<Condition>8</Condition>
 		</RevealFact>

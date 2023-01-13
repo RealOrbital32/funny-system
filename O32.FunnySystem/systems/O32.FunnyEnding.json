@@ -7,7 +7,6 @@
   "initialReveal": [
     "FINALPLANET_FINALSTEP"
   ],
-  "loopDuration": 20,
   "mapRestricted": true,
   "Vessel": {
     "coords": {

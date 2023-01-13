@@ -3,7 +3,7 @@
   "author": "Orbital 32 (a.k.a cigtu)",
   "name": "Funny System",
   "uniqueName": "O32.FunnySystem",
-  "version": "1.5.1",
+  "version": "1.6.0",
   "owmlVersion": "2.1.0",
   "dependencies": [ "xen.NewHorizons" ]
 }

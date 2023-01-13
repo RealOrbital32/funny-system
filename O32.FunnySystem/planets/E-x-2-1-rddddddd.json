@@ -1,0 +1,67 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "RDDDDDDD (Final Version)",
+	"starSystem": "O32.FunnyEnding",
+	"canShowOnTitle": false,
+	"Base": {
+		"surfaceGravity": 35,
+		"surfaceSize": 500,
+		"hasMapMarker": true,
+		"ambientLight": 1,
+		"gravityFallOff": "linear"
+	},
+	"Orbit": {
+		"semiMajorAxis": 20000,
+		"primaryBody": "Red (Final Version)",
+		"axialTilt": 43,
+		"inclination": 350,
+		"isMoon": false,
+		"isTidallyLocked": false
+	},
+	"Atmosphere": {
+		"size": 500,
+		"fogSize": 500,
+		"fogDensity": 0.5,
+		"fogTint": {
+			"r": 255,
+			"g": 50,
+			"b": 0,
+			"a": 255
+		},
+		"atmosphereTint": {
+			"r": 255,
+			"g": 50,
+			"b": 0,
+			"a": 255
+		},
+		"clouds": {
+			"cloudsPrefab": "giantsDeep",
+			"texturePath": "planets/assets/ring.png",
+			"fluidType": "plasma",
+			"unlit": true,
+			"innerCloudRadius": 450,
+			"outerCloudRadius": 480,
+			"capPath": "planets/assets/ring_cap.png",
+			"hasLightning": true
+		}
+	},
+	"Lava": {
+		"size": 300
+	},
+	"Rings": [
+		{
+			"texture": "planets/assets/ring_rings.png",
+			"innerRadius": 700,
+			"outerRadius": 600,
+			"unlit": true,
+			"inclination": 43,
+			"rotationSpeed": 1,
+			"fluidType": "cloud"
+		}
+	],
+	"ShipLog": {
+		"mapMode": {
+			"remove": true
+		}
+	}
+}

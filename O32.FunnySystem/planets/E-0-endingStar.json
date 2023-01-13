@@ -1,0 +1,33 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/master/NewHorizons/schema.json",
+	"name": "Final Star",
+	"starSystem": "O32.FunnyEnding",
+	"canShowOnTitle": false,
+	"Base": {
+		"surfaceGravity": 50,
+		"surfaceSize": 1000,
+		"hasMapMarker": false,
+		"gravityFallOff": "inverseSquared",
+		"centerOfSolarSystem": true
+	},
+	"Orbit": {
+		"isStatic": true
+	},
+	"Star": {
+		"goSupernova": false,
+		"size": 1000,
+		"lightTint": {
+			"r": 150,
+			"g": 150,
+			"b": 150,
+			"a": 255
+		},
+		"tint": {
+			"r": 150,
+			"g": 150,
+			"b": 150,
+			"a": 255
+		},
+		"solarLuminosity": 1
+	}
+}

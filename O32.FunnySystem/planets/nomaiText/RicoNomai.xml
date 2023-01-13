@@ -47,5 +47,9 @@
 			<FactID>RICO_NOMAI_3</FactID>
 			<Condition>7</Condition>
 		</RevealFact>
+		<RevealFact>
+			<FactID>LEAN_WHER_RUMOR</FactID>
+			<Condition>7</Condition>
+		</RevealFact>
 	</ShipLogConditions>
 </NomaiObject>

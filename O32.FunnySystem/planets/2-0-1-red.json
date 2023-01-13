@@ -1,6 +1,6 @@
 {
 	"name": "RED IMPOSTOR SUS",
-	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/master/NewHorizons/schema.json",
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
 	"starSystem": "O32.FunnySystem",
 	"Base": {
 		"surfaceSize": 5000,
@@ -20,7 +20,6 @@
 		"argumentOfPeriapsis": 0
 	},
 	"Star": {
-		"goSupernova": true,
 		"hasAtmosphere": true,
 		"lightRadius": 250000,
 		"size": 15000,
