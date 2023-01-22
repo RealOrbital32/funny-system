@@ -15,7 +15,13 @@
 		"axialTilt": 0,
 		"inclination": 14,
 		"isMoon": false,
-		"isTidallyLocked": false
+		"isTidallyLocked": false,
+		"tint": {
+			"r": 103,
+			"g": 68,
+			"b": 120,
+			"a": 255
+		}
 	},
 	"FocalPoint": {
 		"primary": "AAAAAAAAA",

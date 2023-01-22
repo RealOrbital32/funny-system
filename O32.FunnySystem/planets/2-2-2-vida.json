@@ -17,7 +17,13 @@
 		"inclination": 352,
 		"primaryBody": "hold up 'RING' DING DING-DING-DING-DING DING-DING",
 		"isMoon": true,
-		"isTidallyLocked": false
+		"isTidallyLocked": false,
+		"tint": {
+			"r": 118,
+			"g": 173,
+			"b": 101,
+			"a": 255
+		}
 	},
 	"Water": {
 		"size": 300

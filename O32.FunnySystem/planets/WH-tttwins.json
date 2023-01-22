@@ -16,7 +16,8 @@
 		"axialTilt": 0,
 		"argumentOfPeriapsis": 0,
 		"eccentricity": 0,
-		"isTidallyLocked": true
+		"isTidallyLocked": true,
+		"dottedOrbitLine": true
 	},
 	"Props": {
 		"reveal": [

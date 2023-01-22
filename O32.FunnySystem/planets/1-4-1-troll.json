@@ -15,7 +15,13 @@
     "isMoon": false,
     "longitudeOfAscendingNode": 150,
     "axialTilt": 10,
-    "trueAnomaly": 220
+    "trueAnomaly": 220,
+    "tint": {
+      "r": 90,
+      "g": 90,
+      "b": 90,
+      "a": 255
+    }
   },
   "HeightMap": {
     "heightMap": "planets/assets/troll_heightmap.png",

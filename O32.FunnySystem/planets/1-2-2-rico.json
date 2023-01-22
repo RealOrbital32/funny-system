@@ -16,7 +16,13 @@
 		"axialTilt": 93,
 		"argumentOfPeriapsis": 0,
 		"eccentricity": 0.1,
-		"isTidallyLocked": true
+		"isTidallyLocked": true,
+		"tint": {
+			"r": 230,
+			"g": 171,
+			"b": 135,
+			"a": 255
+		}
 	},
 	"Atmosphere": {
 		"size": 120,

@@ -51,7 +51,13 @@
 		"primaryBody": "Final Star",
 		"inclination": 0,
 		"isMoon": false,
-		"isTidallyLocked": false
+		"isTidallyLocked": false,
+		"tint": {
+			"r": 95,
+			"g": 186,
+			"b": 151,
+			"a": 255
+		}
 	},
 	"Props": {
 		"scatter": [

@@ -15,7 +15,13 @@
 		"primaryBody": "solare",
 		"inclination": 3,
 		"isMoon": false,
-		"isTidallyLocked": false
+		"isTidallyLocked": false,
+		"tint": {
+			"r": 41,
+			"g": 132,
+			"b": 230,
+			"a": 255
+		}
 	},
 	"Atmosphere": {
 		"fogDensity": 0.5,

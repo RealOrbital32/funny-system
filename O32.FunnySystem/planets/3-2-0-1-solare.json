@@ -17,7 +17,13 @@
 		"longitudeOfAscendingNode": 0,
 		"axialTilt": 0,
 		"eccentricity": 0,
-		"argumentOfPeriapsis": 0
+		"argumentOfPeriapsis": 0,
+		"tint": {
+			"r": 143,
+			"g": 30,
+			"b": 17,
+			"a": 255
+		}
 	},
 	"Star": {
 		"size": 2000,

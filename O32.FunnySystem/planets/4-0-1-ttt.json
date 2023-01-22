@@ -9,13 +9,20 @@
 		"enabled": false
 	},
 	"Orbit": {
-		"semiMajorAxis": 500000,
+		"semiMajorAxis": 400000,
 		"trueAnomaly": 243.2,
 		"primaryBody": "blue fire cools you down :)",
 		"axialTilt": 0,
 		"inclination": 0,
 		"isMoon": false,
-		"isTidallyLocked": false
+		"isTidallyLocked": false,
+		"trackingOrbitLine": true,
+		"tint": {
+			"r": 217,
+			"g": 134,
+			"b": 17,
+			"a": 255
+		}
 	},
 	"FocalPoint": {
 		"primary": "ORANGE SEMEN MMMMMMMMM",

@@ -16,7 +16,13 @@
 		"axialTilt": 93,
 		"argumentOfPeriapsis": 0,
 		"eccentricity": 0.1,
-		"isTidallyLocked": true
+		"isTidallyLocked": true,
+		"tint": {
+			"r": 181,
+			"g": 164,
+			"b": 34,
+			"a": 255
+		}
 	},
 	"Lava": {
 		"size": 20

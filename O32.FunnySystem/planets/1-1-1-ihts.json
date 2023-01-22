@@ -16,7 +16,13 @@
 		"axialTilt": 90,
 		"longitudeOfAscendingNode": 0,
 		"eccentricity": 0,
-		"argumentOfPeriapsis": 0
+		"argumentOfPeriapsis": 0,
+		"tint": {
+			"r": 230,
+			"g": 55,
+			"b": 21,
+			"a": 255
+		}
 	},
 	"Lava": {
 		"size": 85

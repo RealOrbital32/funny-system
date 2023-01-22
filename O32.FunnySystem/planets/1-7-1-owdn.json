@@ -18,7 +18,13 @@
 		"longitudeOfAscendingNode": 0,
 		"eccentricity": 0.7,
 		"argumentOfPeriapsis": 0,
-		"trueAnomaly": 180
+		"trueAnomaly": 180,
+		"tint": {
+			"r": 116,
+			"g": 135,
+			"b": 143,
+			"a": 255
+		}
 	},
 	"Sand": {
 		"size": 105

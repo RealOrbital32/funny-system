@@ -8,13 +8,13 @@
 		"hasMapMarker": true
 	},
 	"Orbit": {
-		"semiMajorAxis": 15000,
+		"semiMajorAxis": 20000,
 		"inclination": 35,
 		"primaryBody": "blue fire cools you down :)",
 		"isMoon": false,
 		"isTidallyLocked": false,
 		"longitudeOfAscendingNode": 180,
-		"eccentricity": 0.5,
+		"eccentricity": 0.4,
 		"argumentOfPeriapsis": 0
 	},
 	"Atmosphere": {

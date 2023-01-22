@@ -14,7 +14,13 @@
 		"primaryBody": "neblina",
 		"inclination": 3,
 		"isMoon": true,
-		"isTidallyLocked": false
+		"isTidallyLocked": false,
+		"tint": {
+			"r": 164,
+			"g": 217,
+			"b": 245,
+			"a": 255
+		}
 	},
 	"ProcGen": {
 		"scale": 50,

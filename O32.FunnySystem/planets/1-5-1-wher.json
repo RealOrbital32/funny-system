@@ -39,7 +39,13 @@
 		"longitudeOfAscendingNode": 32,
 		"axialTilt": 32,
 		"eccentricity": 0.1,
-		"argumentOfPeriapsis": 0
+		"argumentOfPeriapsis": 0,
+		"tint": {
+			"r": 96,
+			"g": 153,
+			"b": 89,
+			"a": 255
+		}
 	},
 	"Atmosphere": {
 		"hasOxygen": true,

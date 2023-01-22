@@ -10,13 +10,19 @@
 		"ambientLight": 1
 	},
 	"Orbit": {
-		"semiMajorAxis": 10000,
+		"semiMajorAxis": 15000,
 		"inclination": 15,
 		"primaryBody": "blue fire cools you down :)",
 		"isMoon": false,
 		"longitudeOfAscendingNode": 150,
 		"axialTilt": 80,
-		"trueAnomaly": 130
+		"trueAnomaly": 130,
+		"tint": {
+			"r": 34,
+			"g": 32,
+			"b": 145,
+			"a": 255
+		}
 	},
 	"Atmosphere": {
 		"size": 500,

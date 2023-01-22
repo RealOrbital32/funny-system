@@ -9,7 +9,7 @@
 		"invulnerableToSun": true
 	},
 	"Orbit": {
-		"semiMajorAxis": 500000,
+		"semiMajorAxis": 400000,
 		"trueAnomaly": 0,
 		"inclination": 0,
 		"primaryBody": "blue fire cools you down :)",
@@ -18,7 +18,8 @@
 		"longitudeOfAscendingNode": 0,
 		"axialTilt": 0,
 		"eccentricity": 0,
-		"argumentOfPeriapsis": 0
+		"argumentOfPeriapsis": 0,
+		"trackingOrbitLine": true
 	},
 	"Props": {
 		"singularities": [

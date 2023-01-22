@@ -14,7 +14,13 @@
 		"primaryBody": ">w< what's this hole~",
 		"inclination": 37,
 		"isMoon": true,
-		"isTidallyLocked": true
+		"isTidallyLocked": true,
+		"tint": {
+			"r": 255,
+			"g": 162,
+			"b": 0,
+			"a": 255
+		}
 	},
 	"ProcGen": {
 		"color": {
