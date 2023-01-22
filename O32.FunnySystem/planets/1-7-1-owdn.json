@@ -10,13 +10,13 @@
 		"ambientLight": 0
 	},
 	"Orbit": {
-		"semiMajorAxis": 35000,
+		"semiMajorAxis": 30000,
 		"inclination": 90,
 		"primaryBody": "blue fire cools you down :)",
 		"isMoon": false,
 		"isTidallyLocked": true,
 		"longitudeOfAscendingNode": 0,
-		"eccentricity": 0.8,
+		"eccentricity": 0.7,
 		"argumentOfPeriapsis": 0,
 		"trueAnomaly": 180
 	},

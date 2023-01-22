@@ -3,9 +3,9 @@
 	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
 	"starSystem": "O32.FunnySystem",
 	"Base": {
-		"surfaceSize": 5000,
+		"surfaceSize": 3000,
 		"surfaceGravity": 35,
-		"hasMapMarker": false
+		"hasMapMarker": true
 	},
 	"Orbit": {
 		"semiMajorAxis": 500000,
@@ -19,12 +19,30 @@
 		"eccentricity": 0.2,
 		"argumentOfPeriapsis": 0
 	},
+	"Atmosphere": {
+		"clouds": {
+			"cloudsPrefab": "quantumMoon",
+			"outerCloudRadius": 0,
+			"innerCloudRadius": 3000,
+			"texturePath": "planets/assets/planetname.png",
+			"capPath": "planets/assets/planetname_cap.png",
+			"tint": {
+				"r": 0,
+				"g": 0,
+				"b": 0,
+				"a": 0
+			},
+			"fluidType": "none",
+			"hasLightning": false
+		}
+	},
+	"canShowOnTitle": false,
 	"Volumes": {
 		"notificationVolumes": [
 			{
-				"radius": 50000,
+				"radius": 10000,
 				"entryNotification": {
-					"displayMessage": "Coming soon, in a funny DLC!",
+					"displayMessage": "Language of the Lean DLC required to enter.",
 					"duration": 15
 				}
 			}
@@ -39,6 +57,14 @@
 				"identificationRadius": 50000,
 				"name": "STAR NAME",
 				"sourceRadius": 5000
+			}
+		],
+		"singularities": [
+			{
+				"horizonRadius": 2950,
+				"distortRadius": 2950,
+				"type": "blackHole",
+				"targetStarSystem": "O32.LanguageOfTheLean"
 			}
 		]
 	},

@@ -9,7 +9,7 @@
     "ambientLight": 1
   },
   "Orbit": {
-    "semiMajorAxis": 23000,
+    "semiMajorAxis": 18000,
     "inclination": 355,
     "primaryBody": "blue fire cools you down :)",
     "isMoon": false,

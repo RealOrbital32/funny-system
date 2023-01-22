@@ -3,7 +3,7 @@
 	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
 	"starSystem": "O32.FunnySystem",
 	"Base": {
-		"surfaceSize": 5000,
+		"surfaceSize": 10000,
 		"surfaceGravity": 35,
 		"hasMapMarker": true
 	},
@@ -22,7 +22,7 @@
 	"Star": {
 		"hasAtmosphere": true,
 		"lightRadius": 250000,
-		"size": 15000,
+		"size": 10000,
 		"solarLuminosity": 1,
 		"supernovaTint": {
 			"r": 255,

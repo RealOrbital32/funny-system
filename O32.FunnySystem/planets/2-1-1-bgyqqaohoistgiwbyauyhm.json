@@ -8,7 +8,7 @@
 		"hasMapMarker": true
 	},
 	"Orbit": {
-		"semiMajorAxis": 50000,
+		"semiMajorAxis": 30000,
 		"trueAnomaly": 234,
 		"inclination": 23,
 		"primaryBody": "RED IMPOSTOR SUS",

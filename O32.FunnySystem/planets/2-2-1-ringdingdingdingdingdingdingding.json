@@ -10,7 +10,7 @@
 		"gravityFallOff": "linear"
 	},
 	"Orbit": {
-		"semiMajorAxis": 60000,
+		"semiMajorAxis": 40000,
 		"primaryBody": "RED IMPOSTOR SUS",
 		"axialTilt": 43,
 		"inclination": 350,

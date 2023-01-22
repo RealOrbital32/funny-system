@@ -9,7 +9,7 @@
 		"enabled": false
 	},
 	"Orbit": {
-		"semiMajorAxis": 70000,
+		"semiMajorAxis": 50000,
 		"trueAnomaly": 89,
 		"primaryBody": "RED IMPOSTOR SUS",
 		"axialTilt": 0,

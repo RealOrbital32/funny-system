@@ -9,7 +9,9 @@
     "gravityFallOff": "inverseSquared",
     "centerOfSolarSystem": true
   },
-  "Orbit": { "isStatic": true },
+  "Orbit": {
+    "isStatic": true 
+  },
   "Star": {
     "goSupernova": true,
     "size": 5000,

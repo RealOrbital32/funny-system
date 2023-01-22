@@ -8,7 +8,7 @@
 		"hasMapMarker": true
 	},
 	"Orbit": {
-		"semiMajorAxis": 21000,
+		"semiMajorAxis": 15000,
 		"inclination": 35,
 		"primaryBody": "blue fire cools you down :)",
 		"isMoon": false,
