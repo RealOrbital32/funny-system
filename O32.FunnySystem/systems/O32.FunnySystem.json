@@ -74,20 +74,35 @@
 			}
 		},
 		{
-				"id": "TTTWINS",
-				"color": {
-					"r": 200,
-					"g": 175,
-					"b": 0,
-					"a": 255
-				},
-				"highlightColor": {
-					"r": 255,
-					"g": 255,
-					"b": 0,
-					"a": 255
-				}
+			"id": "TTTWINS",
+			"color": {
+				"r": 200,
+				"g": 175,
+				"b": 0,
+				"a": 255
+			},
+			"highlightColor": {
+				"r": 255,
+				"g": 255,
+				"b": 0,
+				"a": 255
 			}
+		},
+		{
+			"id": "LANGUAGEOFTHELEAN",
+			"color": {
+				"r": 215,
+				"g": 122,
+				"b": 255,
+				"a": 255
+			},
+			"highlightColor": {
+				"r": 221,
+				"g": 146,
+				"b": 252,
+				"a": 255
+			}
+		}
 	],
 	"initialReveal": [
 		"BLUE_LANDING",
@@ -101,13 +116,31 @@
 		"WHER_LANDING",
 		"DHAR_LANDING",
 		"MHOR_LANDING",
-		"BI_LANDING",
-		"NB_LANDING",
 		"NUTS_LANDING",
-		"SBD_LANDING",
 		"WHER_RUMOR"
 	],
 	"entryPositions": [
+		{
+			"id": "PLANETNAME",
+			"position": {
+				"x": 1500,
+				"y": 300
+			}
+		},
+		{
+			"id": "STARNAME",
+			"position": {
+				"x": 1650,
+				"y": 300
+			}
+		},
+		{
+			"id": "COMING_SOON",
+			"position": {
+				"x": 1650,
+				"y": 100
+			}
+		},
 		{
 			"id": "QUANTUM_LEAN",
 			"position": {
@@ -119,49 +152,28 @@
 			"id": "LEAN_WHER",
 			"position": {
 				"x": 200.829,
-				"y": 1500.848
+				"y": 1600.848
 			}
 		},
 		{
-			"id": "LEAN_TROLL",
+			"id": "LEAN_STATION",
 			"position": {
 				"x": 200.829,
-				"y": 1300.848
+				"y": 1200.848
 			}
 		},
 		{
-			"id": "LEAN_CLUDOS",
-			"position": {
-				"x": 200.829,
-				"y": 1100.848
-			}
-		},
-		{
-			"id": "LEAN_BGYQQAOHOISTGIWBYAUYHM",
+			"id": "LEAN_ICELAND",
 			"position": {
 				"x": 700.829,
-				"y": 1500.848
-			}
-		},
-		{
-			"id": "LEAN_AAA",
-			"position": {
-				"x": 700.829,
-				"y": 1300.848
-			}
-		},
-		{
-			"id": "LEAN_NEBLINA",
-			"position": {
-				"x": 700.829,
-				"y": 1100.848
+				"y": 1200.848
 			}
 		},
 		{
 			"id": "LEAN_THESOLUTION",
 			"position": {
-				"x": 450.829,
-				"y": 1100.848
+				"x": 700.829,
+				"y": 1600.848
 			}
 		},
 		{
@@ -272,22 +284,8 @@
 		{
 			"id": "NUTS",
 			"position": {
-				"x": 1115.056,
+				"x": 815.056,
 				"y": 251.5503
-			}
-		},
-		{
-			"id": "NB",
-			"position": {
-				"x": 845.0473,
-				"y": 51.4817
-			}
-		},
-		{
-			"id": "BI",
-			"position": {
-				"x": 845.0473,
-				"y": 251.4817
 			}
 		},
 		{

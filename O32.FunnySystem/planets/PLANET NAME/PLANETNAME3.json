@@ -78,6 +78,15 @@
 		}
 	},
 	"Volumes": {
+		"revealVolumes": [
+			{
+				"reveals": [
+					"PLANETNAME_LANDING"
+				],
+				"radius": 150,
+				"revealOn": "enter"
+			}
+		],
 		"hazardVolumes": [
 			{
 				"type": "ghostMatter",

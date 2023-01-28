@@ -1,0 +1,7 @@
+<NomaiObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/text_schema.xsd">
+	<TextBlock>
+		<ID>1</ID>
+		<LocationA />
+		<Text>UNKNOWN: Ha! I knew you guys wouldn't want to venture to the other Lean variants! Heheh... but we're long gone. Or are we? We honestly don't know. If possible, come visit us. If you can. But please, go visit the coordinates we've given you! It's... important for our safety. Sincerly, *garble*.</Text>
+	</TextBlock>
+</NomaiObject>

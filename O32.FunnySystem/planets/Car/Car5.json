@@ -44,22 +44,6 @@
 		}
 	},
 	"Props": {
-		"nomaiText": [
-			{
-				"position": {
-					"x": 1,
-					"y": 201,
-					"z": 1
-				},
-				"rotation": {
-					"x": 1,
-					"y": 1,
-					"z": 1
-				},
-				"type": "recorder",
-				"xmlFile": "planets/nomaiText/LeanTrollNomai.xml"
-			}
-		],
 		"signals": [
 			{
 				"audio": "OW_QuantumSignal",

@@ -6,11 +6,20 @@
     "surfaceGravity": 65,
     "surfaceSize": 5000,
     "hasMapMarker": true,
-    "gravityFallOff": "inverseSquared",
-    "centerOfSolarSystem": true
+    "gravityFallOff": "inverseSquared"
   },
   "Orbit": {
-    "isStatic": true 
+    "semiMajorAxis": 400000,
+    "trueAnomaly": 0,
+    "inclination": 0,
+    "primaryBody": ">w< what's this hole~",
+    "isMoon": true,
+    "isTidallyLocked": false,
+    "longitudeOfAscendingNode": 0,
+    "axialTilt": 0,
+    "eccentricity": 0,
+    "argumentOfPeriapsis": 0,
+    "trackingOrbitLine": true
   },
   "Star": {
     "goSupernova": true,

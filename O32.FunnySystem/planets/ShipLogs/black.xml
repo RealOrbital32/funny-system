@@ -10,7 +10,7 @@
 
         <ExploreFact>
             <ID>BLACK_LANDING</ID>
-            <Text>A black hole that was originally a star, larger than Red. Don't enter it, there is no white hole to exit out of.</Text>
+            <Text>A black hole that was originally a star, larger than Red, which explains why it's in the center. Don't enter it though, there is no white hole to exit out of.</Text>
         </ExploreFact>
     </Entry>
 </AstroObjectEntry>

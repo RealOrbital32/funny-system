@@ -15,7 +15,7 @@
     </Entry>
 	<Entry>
 		<ID>LEAN_WHER</ID>
-		<Name>Lean (Wher Variant)</Name>
+		<Name>Nomai on Wher's Lean</Name>
 
 		<Curiosity>LEAN</Curiosity>
 
@@ -26,87 +26,41 @@
 		</RumorFact>
 		<ExploreFact>
 			<ID>LEAN_WHER_NOMAI</ID>
-			<Text>The Nomai found an engraving in the terrain that look like a line on a hexagon going from the middle-left to the bottom-left. They then went to the Troll Face Planet's version of the moon.</Text>
+			<Text>The Nomai found an engraving in the terrain that look like a line on a hexagon going from the middle-left to the bottom-left.</Text>
 		</ExploreFact>
 	</Entry>
 	<Entry>
-		<ID>LEAN_TROLL</ID>
-		<Name>Lean (Troll Variant)</Name>
+		<ID>LEAN_STATION</ID>
+		<Name>Space Station</Name>
 
 		<Curiosity>LEAN</Curiosity>
 
 		<RumorFact>
-			<ID>LEAN_TROLL_RUMOR</ID>
-			<RumorName>Lean Orbiting Troll</RumorName>
-			<Text>The Nomai went to the Troll variant.</Text>
+			<ID>LEAN_STATION_RUMOR</ID>
+			<RumorName>Space Station</RumorName>
+			<SourceID>LEAN_WHER</SourceID>
+			<Text>The Nomai did not want to venture to the other lean variants. Instead, they built a space station to "hack" the lean.</Text>
 		</RumorFact>
 		<ExploreFact>
-			<ID>LEAN_TROLL_NOMAI</ID>
-			<Text>The Nomai found an engraving in the terrain that look like a line on a hexagon going from the bottom-left to the top-left. They then went to Cludos' version of the moon.</Text>
+			<ID>LEAN_STATION_NOMAI</ID>
+			<Text>Apparently, the hacking of the lean was successful. However, they managed to find all but one coordinate.</Text>
 		</ExploreFact>
 	</Entry>
 	<Entry>
-		<ID>LEAN_CLUDOS</ID>
-		<Name>Lean (Cludos Variant)</Name>
+		<ID>LEAN_ICELAND</ID>
+		<Name>Iceland</Name>
 
 		<Curiosity>LEAN</Curiosity>
 
 		<RumorFact>
-			<ID>LEAN_CLUDOS_RUMOR</ID>
-			<RumorName>Lean Orbiting Troll</RumorName>
-			<Text>The Nomai went to the Cludos variant.</Text>
+			<ID>LEAN_ICELAND_RUMOR</ID>
+			<RumorName>Iceland</RumorName>
+			<SourceID>LEAN_STATION</SourceID>
+			<Text>The Nomai decided to venture to the Solare system to try to find the last coordinate.</Text>
 		</RumorFact>
 		<ExploreFact>
-			<ID>LEAN_CLUDOS_NOMAI</ID>
-			<Text>The Nomai found an engraving in the terrain that look like a line on a hexagon going from the top-left to the bottom-right, which from the data collected from the two previous expeditions, formed a Nomai coordinate. They then went to the Red system, for the 'Boy Get Your Quingan ... ' version of the moon.</Text>
-		</ExploreFact>
-	</Entry>
-	<Entry>
-		<ID>LEAN_BGYQQAOHOISTGIWBYAUYHM</ID>
-		<Name>Lean (BGYQQAOHOISTGIWBYAUYHM Variant)</Name>
-
-		<Curiosity>LEAN</Curiosity>
-
-		<RumorFact>
-			<ID>LEAN_BGYQQAOHOISTGIWBYAUYHM_RUMOR</ID>
-			<RumorName>Lean Orbiting "Boy Get Your"...</RumorName>
-			<Text>The Nomai went to the "Boy Get Your"... variant.</Text>
-		</RumorFact>
-		<ExploreFact>
-			<ID>LEAN_BGYQQAOHOISTGIWBYAUYHM_NOMAI</ID>
-			<Text>The Nomai found an engraving in the terrain that look like a line on a hexagon going from the top-right to the bottom-left, then to the bottom-right. They then went to AAAAAA's version of the moon.</Text>
-		</ExploreFact>
-	</Entry>
-	<Entry>
-		<ID>LEAN_AAA</ID>
-		<Name>Lean (AAA Variant)</Name>
-
-		<Curiosity>LEAN</Curiosity>
-
-		<RumorFact>
-			<ID>LEAN_AAA_RUMOR</ID>
-			<RumorName>Lean Orbiting AAA</RumorName>
-			<Text>The Nomai went to the AAA variant.</Text>
-		</RumorFact>
-		<ExploreFact>
-			<ID>LEAN_AAA_NOMAI</ID>
-			<Text>The Nomai found an engraving in the terrain that look like a line on a hexagon going from the bottom-right, then to the middle-right, then to the middle-left, which from the data collected from the previous expedition, formed a Nomai coordinate. They then went to the Solare/Black system, for Neblina's version of the moon.</Text>
-		</ExploreFact>
-	</Entry>
-	<Entry>
-		<ID>LEAN_NEBLINA</ID>
-		<Name>Lean (Neblina Variant)</Name>
-
-		<Curiosity>LEAN</Curiosity>
-
-		<RumorFact>
-			<ID>LEAN_NEBLINA_RUMOR</ID>
-			<RumorName>Lean Orbiting Neblina</RumorName>
-			<Text>The Nomai went to the Neblina variant.</Text>
-		</RumorFact>
-		<ExploreFact>
-			<ID>LEAN_NEBLINA_NOMAI</ID>
-			<Text>The Nomai found at the core a small chunk of rock, and engraved in it was a hexagonal pattern going from the middle-left to the top-right, then to the bottom-right, and finally to the bottom-left. The Nomai realized that they had all the coordinates for the Vessel, and promptly returned to it.</Text>
+			<ID>LEAN_ICELAND_NOMAI</ID>
+			<Text>The Nomai found the last coordinate to the Lean, engraved in ice, along with a creepy message.</Text>
 		</ExploreFact>
 	</Entry>
 	<Entry>
@@ -114,22 +68,14 @@
 		<Name>The Solution</Name>
 
 		<Curiosity>LEAN</Curiosity>
-
+		
 		<ExploreFact>
 			<ID>LEAN_SOLUTION</ID>
-			<Text>I know what I must do. The Nomai had coordinates to their Vessel, so I have to use the Vessel. Unfortuantely, that requires me to disable the Ash Twin Project... but I want to go to the Eye. Maybe if I'm quick enough, I'll be able to go to the Eye. Let's do this.</Text>
+			<Text>The Nomai found all the coordinates to their vessel, and were instructed to go somewhere. I believe that since I have learned these coordinates, I can use the Vessel and warp to where they went. Unfortunately, this requires me to disable the ATP. Eh, if I'm fast enough, I can probably go to the Eye.</Text>
 		</ExploreFact>
-	</Entry>
-	<Entry>
-		<ID>COMING_SOON</ID>
-		<Name>Coming Soon</Name>
-
-		<Curiosity>LEAN</Curiosity>
-
-		<RumorFact>
-			<ID>COMINGSOON</ID>
-			<RumorName>Coming Soon</RumorName>
-			<Text>New Funny System DLC coming to a OWML near you, Sunday 22nd.</Text>
-		</RumorFact>
+		<ExploreFact>
+			<ID>LEAN_TIP</ID>
+			<Text>Tip: You'll have to warp to Funny System before you warp to the ending. Blame NH.</Text>
+		</ExploreFact>
 	</Entry>
 </AstroObjectEntry>

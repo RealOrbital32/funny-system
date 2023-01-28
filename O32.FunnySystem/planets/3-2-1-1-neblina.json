@@ -24,6 +24,7 @@
 		}
 	},
 	"Atmosphere": {
+		"atmosphereSunIntensity": 1,
 		"fogDensity": 0.5,
 		"hasOxygen": true,
 		"hasRain": true,

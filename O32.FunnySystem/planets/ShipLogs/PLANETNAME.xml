@@ -1,0 +1,20 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>planetname</ID>
+
+    <Entry>
+        <ID>PLANETNAME</ID>
+        <Name>PLANET NAME</Name>
+
+        <Curiosity>LANGUAGEOFTHELEAN</Curiosity>
+
+        <ExploreFact>
+            <ID>PLANETNAME_LANDING</ID>
+            <Text>A strange planet that appears to be corrupted. If I leave my ship, I immediately start to die.</Text>
+        </ExploreFact>
+
+		<ExploreFact>
+			<ID>PLANETNAME_OBSERVED</ID>
+			<Text>For some reason, PLANET NAME does not have clouds when orbiting STAR NAME. Why is this?</Text>
+		</ExploreFact>
+    </Entry>
+</AstroObjectEntry>

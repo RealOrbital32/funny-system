@@ -1,0 +1,65 @@
+{
+	"name": "Unknown Station",
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"starSystem": "O32.FunnySystem",
+	"Base": {
+		"surfaceSize": 100,
+		"surfaceGravity": 0,
+		"hasMapMarker": true,
+		"ambientLight": 1
+	},
+	"Orbit": {
+		"semiMajorAxis": 20000,
+		"inclination": 90,
+		"primaryBody": "blue fire cools you down :)",
+		"trueAnomaly": 270,
+		"showOrbitLine": false,
+		"tint": {
+			"r": 155,
+			"g": 155,
+			"b": 155,
+			"a": 255
+		}
+	},
+	"Volumes": {
+		"zeroGravityVolumes": [
+			{
+				"radius": 100
+			}
+		]
+	},
+	"Props": {
+		"nomaiText": [
+			{
+				"xmlFile": "planets/nomaiText/StationNomai.xml",
+				"type": "recorder",
+				"position": {
+					"x": 1.839138,
+					"y": -2.818485,
+					"z": 3.167092
+				},
+				"rotation": {
+					"x": 3.663001E-06,
+					"y": 119.4913,
+					"z": -5.945203E-06
+				}
+			}
+		],
+		"details": [
+			{
+				"assetBundle": "planets/assets/o32-station",
+				"path": "Assets/station.prefab",
+				"keepLoaded": true
+			}
+		]
+	},
+	"Atmosphere": {
+		"size": 100,
+		"hasOxygen": true
+	},
+	"ShipLog": {
+		"mapMode": {
+			"remove": true
+		}
+	}
+}

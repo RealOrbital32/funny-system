@@ -36,7 +36,7 @@
 	<TextBlock>
 		<ID>8</ID>
 		<ParentID>7</ParentID>
-		<Text>*NOTE: GO TO THE NORTH POLE (RED HEMISPHERE) EVERY TIME THAT MOON IS MENTIONED*</Text>
+		<Text>*NOTE: GO TO THE NORTH POLE (RED HEMISPHERE) OF THAT MOON*</Text>
 	</TextBlock>
 	<ShipLogConditions>
 		<RevealFact>

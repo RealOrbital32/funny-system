@@ -9,7 +9,7 @@
 		"ambientLight": 0
 	},
 	"Orbit": {
-		"semiMajorAxis": 30000,
+		"semiMajorAxis": 20000,
 		"primaryBody": "STAR NAME",
 		"isMoon": true,
 		"trueAnomaly": 90,
@@ -57,6 +57,23 @@
 		"lifespan": 69
 	},
 	"Volumes": {
+		"revealVolumes": [
+			{
+				"reveals": [
+					"PLANETNAME_LANDING"
+				],
+				"radius": 150,
+				"revealOn": "enter"
+			},
+			{
+				"reveals": [
+					"PLANETNAME_OBSERVED"
+				],
+				"radius": 2500,
+				"revealOn": "observe",
+				"maxDistance": 2500
+			}
+		],
 		"hazardVolumes": [
 			{
 				"type": "ghostMatter",
@@ -74,5 +91,14 @@
 				"radius": 150
 			}
 		]
+	},
+	"ShipLog": {
+		"xmlFile": "planets/ShipLogs/PLANETNAME.xml",
+		"spriteFolder": "planets/ShipLogs/entries",
+		"mapMode": {
+			"revealedSprite": "planets/ShipLogs/sprites/PLANETNAME_map_mode.png",
+			"scale": 0.2,
+			"offset": 0.5
+		}
 	}
 }

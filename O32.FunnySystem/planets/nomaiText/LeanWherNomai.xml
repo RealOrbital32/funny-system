@@ -6,7 +6,7 @@
 	<TextBlock>
 		<ID>2</ID>
 		<ParentID>1</ParentID>
-		<Text>BILLY: Bober, stop explaining what this is. We have just landed here, let's explore.</Text>
+		<Text>BILLY: Bober, stop explaining what this is. We have just landed here, let's explore. And we'd better make the most of it, considering how annoying it was to get here.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>3</ID>
@@ -31,35 +31,60 @@
 	<TextBlock>
 		<ID>7</ID>
 		<ParentID>6</ParentID>
-		<Text>KATHERYNE: There is another engraving on top! It looks eerily like the Troll Face Planet. Maybe we should wait until the moon starts orbiting that planet, then re-enter it?</Text>
+		<Text>KATHERYNE: Are we not going to question why there is a piece of a Nomain coordinate on this random moon?</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>8</ID>
 		<ParentID>7</ParentID>
-		<Text>BOBER: You are a genius! What if the surface of the moon changes based on what planet it orbits? Maybe another engraving will show up if it orbits the Troll Face Planet!</Text>
+		<Text>BOBER: No, we're not. That's not important right now. What is important is that there's an engraving of the Troll Fa-</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>9</ID>
 		<ParentID>8</ParentID>
-		<Text>KATHERYNE: Then let's get going!</Text>
+		<Text>KATHERYNE: No, no hell no! Fuck no! We are NOT going to the goddamn Troll Face planet to find another coordinate! Fuck that shit. We're gonna do something different.</Text>
 	</TextBlock>
 	<TextBlock>
 		<ID>10</ID>
 		<ParentID>9</ParentID>
-		<Text>*REMINDER: GO TO THE NORTH POLE (RED HEMISPHERE) FOR EVERY LEAN VARIANT*</Text>
+		<Text>BILLY AND BOBER: *silence*</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>11</ID>
+		<ParentID>10</ParentID>
+		<Text>KATHERYNE: Okay, just listen to me for a moment. Why don't we build a space station using the abundant resources in this system?</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>12</ID>
+		<ParentID>11</ParentID>
+		<Text>BILLY: And what purpose would the station have..?</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>13</ID>
+		<ParentID>12</ParentID>
+		<Text>KATHERYNE: We'd use it to "hack" the Lean, so that we can easily extract all the coordinates from it.</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>14</ID>
+		<ParentID>13</ParentID>
+		<Text>BILLY: That's a great idea, that would save us so much time! Let's get building!</Text>
+	</TextBlock>
+	<TextBlock>
+		<ID>15</ID>
+		<ParentID>14</ParentID>
+		<Text>NOTE: THE STATION IS IN A POLAR ORBIT AROUND BLUE</Text>
 	</TextBlock>
 	<ShipLogConditions>
 		<RevealFact>
-			<FactID>LEAN_TROLL_RUMOR</FactID>
-			<Condition>8</Condition>
+			<FactID>LEAN_STATION_RUMOR</FactID>
+			<Condition>11</Condition>
 		</RevealFact>
 		<RevealFact>
 			<FactID>LEAN_WHER_NOMAI</FactID>
-			<Condition>8</Condition>
+			<Condition>6</Condition>
 		</RevealFact>
 		<RevealFact>
 			<FactID>LEAN_LANDING</FactID>
-			<Condition>8</Condition>
+			<Condition>1</Condition>
 		</RevealFact>
 	</ShipLogConditions>
 </NomaiObject>

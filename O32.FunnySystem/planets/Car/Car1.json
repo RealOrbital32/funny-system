@@ -50,22 +50,6 @@
 		"maxHeight": 201
 	},
 	"Props": {
-		"nomaiText": [
-			{
-				"position": {
-					"x": 1,
-					"y": 151,
-					"z": 1
-				},
-				"rotation": {
-					"x": 1,
-					"y": 1,
-					"z": 1
-				},
-				"type": "recorder",
-				"xmlFile": "planets/nomaiText/LeanCludosNomai.xml"
-			}
-		],
 		"signals": [
 			{
 				"audio": "OW_QuantumSignal",

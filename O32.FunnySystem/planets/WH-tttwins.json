@@ -19,18 +19,42 @@
 		"isTidallyLocked": true,
 		"dottedOrbitLine": true
 	},
-	"Props": {
-		"reveal": [
+	"Volumes": {
+		"notificationVolumes": [
 			{
-				"radius": 500,
-				"revealOn": "enter",
-				"reveals": [ "TTWINS_LANDING", "JUANDALE_DISCOVERY", "SENSUALAROMA_DISCOVERY", "WINDINGSTAIRCASE_DISCOVERY", "SHARPIE_DISCOVERY", "DRIP_DISCOVERY", "WALTUH_DISCOVERY", "TIRES_DISCOVERY", "FORMINGMOON_DISCOVERY", "RETARD_DISCOVERY", "WHATISCHRISTMAS", "NORTHJUANDALE" ]
+				"entryNotification": {
+					"displayMessage": "Funny Christmas is needed for this system.",
+					"duration": 5
+				},
+				"radius": 100
 			}
 		],
+		"revealVolumes": [
+			{
+				"reveals": [
+					"TTWINS_LANDING",
+					"JUANDALE_DISCOVERY",
+					"SENSUALAROMA_DISCOVERY",
+					"WINDINGSTAIRCASE_DISCOVERY",
+					"SHARPIE_DISCOVERY",
+					"DRIP_DISCOVERY",
+					"WALTUH_DISCOVERY",
+					"TIRES_DISCOVERY",
+					"FORMINGMOON_DISCOVERY",
+					"RETARD_DISCOVERY",
+					"WHATISCHRISTMAS",
+					"NORTHJUANDALE"
+				],
+				"radius": 500,
+				"revealOn": "enter"
+			}
+		]
+	},
+	"Props": {
 		"singularities": [
 			{
 				"type": "whiteHole",
-				"size": 50,
+				"horizonRadius": 20,
 				"pairedSingularity": "tp to TT Twins"
 			}
 		]

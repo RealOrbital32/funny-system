@@ -51,7 +51,7 @@
 		"mapMode": {
 			"revealedSprite": "planets/ShipLogs/sprites/ihts_map_mode.png",
 			"scale": 0.1,
-			"offset": 0.85
+			"offset": 1
 		}
 	}
 }

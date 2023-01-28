@@ -1,0 +1,28 @@
+<AstroObjectEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/shiplog_schema.xsd">
+    <ID>starname</ID>
+
+    <Entry>
+        <ID>STARNAME</ID>
+        <Name>STAR NAME</Name>
+
+        <Curiosity>LANGUAGEOFTHELEAN</Curiosity>
+
+        <ExploreFact>
+            <ID>STARNAME_LANDING</ID>
+            <Text>A strange star orbiting in the middle of nowhere. Appears to have something inside it.</Text>
+        </ExploreFact>
+    </Entry>
+	<Entry>
+		<ID>COMING_SOON</ID>
+		<Name>Coming Soon</Name>
+
+		<Curiosity>LANGUAGEOFTHELEAN</Curiosity>
+
+		<RumorFact>
+			<ID>COMINGSOON</ID>
+			<RumorName>Coming Soon</RumorName>
+			<SourceID>STARNAME</SourceID>
+			<Text>New Funny System DLC coming to a OWML near you, sometime in March or April.</Text>
+		</RumorFact>
+	</Entry>
+</AstroObjectEntry>

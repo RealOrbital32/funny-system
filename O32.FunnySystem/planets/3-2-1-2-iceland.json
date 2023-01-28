@@ -22,19 +22,18 @@
 			"a": 255
 		}
 	},
-	"ProcGen": {
-		"scale": 50,
-		"color": {
-			"r": 222,
-			"g": 222,
-			"b": 222,
-			"a": 222
-		}
+	"HeightMap": {
+		"heightMap": "planets/assets/iceland_heightmap.png",
+		"textureMap": "planets/assets/iceland_texturemap.png",
+		"minHeight": 40,
+		"maxHeight": 50,
+		"resolution": 612
 	},
 	"Sand": {
 		"size": 25
 	},
 	"Atmosphere": {
+		"atmosphereSunIntensity": 0.5,
 		"fogDensity": 0.2,
 		"hasSnow": true,
 		"size": 55,
@@ -51,6 +50,38 @@
 			"b": 222,
 			"a": 222
 		}
+	},
+	"Props": {
+		"nomaiText": [
+			{
+				"xmlFile": "planets/nomaiText/IcelandText.xml",
+				"type": "trailmarker",
+				"position": {
+					"x": 3.740759,
+					"y": 44.66219,
+					"z": -2.675732
+				},
+				"rotation": {
+					"x": 14.07503,
+					"y": 206.228,
+					"z": 11.4153
+				}
+			},
+			{
+				"xmlFile": "planets/nomaiText/IcelandNomai.xml",
+				"type": "recorder",
+				"position": {
+					"x": 0.6288931,
+					"y": 44.77148,
+					"z": -2.071595
+				},
+				"rotation": {
+					"x": 346.3783,
+					"y": 12.29178,
+					"z": 359.5118
+				}
+			}
+		]
 	},
 	"ShipLog": {
 		"xmlFile": "planets/ShipLogs/iceland.xml",
